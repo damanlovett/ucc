@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+
+<head>
+<meta charset="UTF-8">
+<title>University Career Center</title>
+<link rel="stylesheet" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.0r4/build/base/base-min.css">
+<link rel="stylesheet" href="../css/uccdefaultNAV.css" type="text/css">
+<script src="../jquery/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="../jquery/js/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
+<link href="../jquery/css/ucc/jquery-ui-1.8.2.custom.css" rel="stylesheet" type="text/css">
+<?php require_once('../includefiles/init.php'); ?>
+
+</head>
+
+<body>
+
+<!-- NCSTATE Bar -->
+<link rel="stylesheet" type="text/css" href="http://www.ncsu.edu/brand/utility-bar/iframe/css/utility_bar_iframe.css" media="screen" />
+<iframe name="ncsu_branding_bar" id="ncsu_branding_bar" frameborder="0" src="http://www.ncsu.edu/brand/utility-bar/iframe/index.php?color=red&amp;inurl=ucc.lovettcreations.org&amp;center=yes" scrolling="no"> Your browser does not support inline frames or  
+				is currently configured  not to display inline frames.<br />
+Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
+<!-- End of NCSTATE Bar -->
+
+<div id="doc4" class="yui-t2">
+  <div id="hd" role="navigation">
+    <?php require_once('../includefiles/topMenu.php');?>
+  </div>
+  <div id="bd" role="main">
+    <div id="yui-main">
+      <div class="yui-b">
+        <div class="yui-g"><div id="fadeshow1"></div> </div>
+        <div id="secContent" class="yui-g">
+          <h1>UCC PRESENTATIONS</h1>
+          <div class="breadCrumbHolder module">
+            <p><br>
+              <b>Videos </b><i>– on your own</i><b><br>
+              </b>View <a href="http://www.youtube.com/ncsucareer">brief videos</a> (5-15 min.) on a variety of topics related to the job search. These videos are created by the UCC staff.              </p>
+            <p><b>General
+              Presentations </b><i>– by Career Ambassadors  <br>
+              </i>Request a presentation for your group, led by student
+              leaders.  These are ideal for residence halls, Greek
+              life, or clubs where a mixture of majors will be in attendance.  Typical topics are UCC services, resumes,
+              interviews, or ePACK.  Request a
+              presentation from a <a
+href="\about\ambassadors.php">career
+            ambassador</a>.</p>
+          </div>
+          <p><b>Specific Presentations</b> <i>– by Career Counselors<br>
+            </i>Request a presentation for your professional society, honor society or class where specific information of interest to your major or college is desired. Contact your <a
+href="\about\staff.php">career counselor</a> directly to make your request  </p>
+          <p>&nbsp;</p>
+        </div>
+      </div>
+    </div>
+    <div class="yui-b">
+      <div id="navTop" class="sideTop">
+        <?php require_once('../includefiles/nav/eventsNav.php');?>
+      </div>
+      <?php require_once('../includefiles/epacklogin.php'); ?>
+      <div id="navMedia" class="sMedia">
+        <?php require_once('../includefiles/socialmedia.php');?>
+      </div>
+    </div>
+  </div>
+  <!-- End of bd -->
+  <div id="ft" role="contentinfo">
+    <?php require_once('../includefiles/footer.php');?>
+  </div>
+</div>
+</body>
+</html>

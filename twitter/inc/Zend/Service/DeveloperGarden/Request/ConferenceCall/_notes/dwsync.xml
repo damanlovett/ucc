@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AddConferenceTemplateParticipantRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="CommitConferenceRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="CreateConferenceRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="CreateConferenceTemplateRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="GetConferenceListRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="GetConferenceStatusRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="GetConferenceTemplateListRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="GetConferenceTemplateParticipantRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="GetConferenceTemplateRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="GetParticipantStatusRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="GetRunningConferenceRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="NewParticipantRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="RemoveConferenceRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="RemoveConferenceTemplateParticipantRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="RemoveConferenceTemplateRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="RemoveParticipantRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="UpdateConferenceRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="UpdateConferenceTemplateParticipantRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="UpdateConferenceTemplateRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+<file name="UpdateParticipantRequest.php" server="ftp.lovettcreations.org" local="129151403320000000" remote="129240203400000000" />
+</dwsync>

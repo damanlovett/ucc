@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BooleanExpressionRecognizer.php" server="ftp.lovettcreations.org" local="129151403480000000" remote="129240202800000000" />
+<file name="Query.php" server="ftp.lovettcreations.org" local="129151403480000000" remote="129240202800000000" />
+<file name="QueryEntry.php" server="ftp.lovettcreations.org" local="129151403480000000" remote="129240202800000000" />
+<file name="QueryHit.php" server="ftp.lovettcreations.org" local="129151403480000000" remote="129240202800000000" />
+<file name="QueryLexer.php" server="ftp.lovettcreations.org" local="129151403500000000" remote="129240202800000000" />
+<file name="QueryParser.php" server="ftp.lovettcreations.org" local="129151403480000000" remote="129240202800000000" />
+<file name="QueryParserContext.php" server="ftp.lovettcreations.org" local="129151403480000000" remote="129240202800000000" />
+<file name="QueryParserException.php" server="ftp.lovettcreations.org" local="129151403480000000" remote="129240202800000000" />
+<file name="QueryToken.php" server="ftp.lovettcreations.org" local="129151403500000000" remote="129240202800000000" />
+<file name="Similarity.php" server="ftp.lovettcreations.org" local="129151403480000000" remote="129240202800000000" />
+<file name="Weight.php" server="ftp.lovettcreations.org" local="129151403480000000" remote="129240202800000000" />
+</dwsync>

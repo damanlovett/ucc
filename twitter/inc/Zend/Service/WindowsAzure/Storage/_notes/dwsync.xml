@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Batch.php" server="ftp.lovettcreations.org" local="129151403360000000" remote="129240204000000000" />
+<file name="BatchStorageAbstract.php" server="ftp.lovettcreations.org" local="129151403360000000" remote="129240204000000000" />
+<file name="Blob.php" server="ftp.lovettcreations.org" local="129151403360000000" remote="129240204000000000" />
+<file name="BlobContainer.php" server="ftp.lovettcreations.org" local="129151403380000000" remote="129240204000000000" />
+<file name="BlobInstance.php" server="ftp.lovettcreations.org" local="129151403380000000" remote="129240204000000000" />
+<file name="DynamicTableEntity.php" server="ftp.lovettcreations.org" local="129151403360000000" remote="129240204000000000" />
+<file name="Queue.php" server="ftp.lovettcreations.org" local="129151403380000000" remote="129240204000000000" />
+<file name="QueueInstance.php" server="ftp.lovettcreations.org" local="129151403360000000" remote="129240204000000000" />
+<file name="QueueMessage.php" server="ftp.lovettcreations.org" local="129151403380000000" remote="129240204000000000" />
+<file name="SignedIdentifier.php" server="ftp.lovettcreations.org" local="129151403360000000" remote="129240204000000000" />
+<file name="Table.php" server="ftp.lovettcreations.org" local="129151403360000000" remote="129240204000000000" />
+<file name="TableEntity.php" server="ftp.lovettcreations.org" local="129151403380000000" remote="129240204000000000" />
+<file name="TableEntityQuery.php" server="ftp.lovettcreations.org" local="129151403380000000" remote="129240204000000000" />
+<file name="TableInstance.php" server="ftp.lovettcreations.org" local="129151403360000000" remote="129240204000000000" />
+</dwsync>

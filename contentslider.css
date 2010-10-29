@@ -1,0 +1,84 @@
+.sliderwrapper{
+	position: relative; /*leave as is*/
+/*	overflow: hidden;
+*/	border-bottom-width: 6px;
+	width: 977px; /*width of featured content slider*/
+	height: 202px;
+	border-top-width: 10px;
+	border-right-width: 10px;
+	border-left-width: 10px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #F1F1F3;
+	border-right-color: #F1F1F3;
+	border-bottom-color: #F1F1F3;
+	border-left-color: #F1F1F3;
+	z-index: 6;
+	background-color: #000;
+}
+
+
+
+.sliderwrapper .contentdiv{
+	visibility: hidden; /*leave as is*/
+	position: absolute; /*leave as is*/
+	left: 0;  /*leave as is*/
+	top: 0;  /*leave as is*/
+	padding: 0px;
+	width: 977px; /*width of content DIVs within slider. Total width should equal slider's inner width (390+5+5=400) */
+	height: 100%;
+filter:progid:DXImageTransform.Microsoft.alpha(opacity=100);
+	-moz-opacity: 1;
+	opacity: 1;
+	background-color: #000;
+}
+
+.pagination{
+	width: 957px; /*Width of pagination DIV. Total width should equal slider's outer width (400+10+10=420)*/
+	text-align: right;
+	background-color: #000;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	margin-top: -41px;
+	z-index: 10;
+	position: relative;
+	filter: Alpha(Opacity=75);
+	-moz-opacity:.75;
+	opacity:.75;
+}
+
+.pagination a{
+	text-decoration: none;
+	height: 33px;
+	width: 67px;
+	padding: 0;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	filter:progid:DXImageTransform.Microsoft.alpha(opacity=100);
+	-moz-opacity: 1;
+	opacity: 1;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.pagination a:hover, .pagination a.selected{
+	color: #000;
+	border:none;
+}
+.pagination img {
+	border:none;
+}
+.pagination img:hover, .pagination img:selected {
+	border:none;
+	filter:progid:DXImageTransform.Microsoft.alpha(opacity=100);
+	-moz-opacity: 1;
+	opacity: 1;
+}

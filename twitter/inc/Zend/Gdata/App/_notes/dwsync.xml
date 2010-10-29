@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuthException.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="BadMethodCallException.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="Base.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="BaseMediaSource.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="CaptchaRequiredException.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="Entry.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="Exception.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="Extension.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="Feed.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="FeedEntryParent.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="FeedSourceParent.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="HttpException.php" server="ftp.lovettcreations.org" local="129151404140000000" remote="129325918800000000" />
+<file name="InvalidArgumentException.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="IOException.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="LoggingHttpClientAdapterSocket.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="MediaEntry.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="MediaFileSource.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="MediaSource.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="Util.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+<file name="VersionException.php" server="ftp.lovettcreations.org" local="129151404160000000" remote="129325918800000000" />
+</dwsync>

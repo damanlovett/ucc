@@ -1,0 +1,116 @@
+{\rtf1\ansi\ansicpg10000\deff0{\fonttbl{\f0\fswiss\fcharset77 ArialMT;}{\f1\fswiss\fcharset77 Arial-BoldMT;}{\f2\fswiss\fcharset77 Arial-ItalicMT;}{\f3\fswiss\fcharset77 Arial-Black;}{\f4\fmodern\fcharset77 CourierNewPSMT;}{\f5\fswiss\fcharset0 Arial;}}
+{\colortbl ;\red128\green128\blue128;\red0\green0\blue255;\red128\green0\blue0;\red51\green51\blue51;\red0\green128\blue128;\red153\green153\blue153;}
+{\*\generator Msftedit 5.41.15.1515;}\viewkind4\uc1\pard\sl360\slmult1\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\lang1033\f0\fs24 Kerison Leigh (Keija) <talkback@kerison.com>\par
+\par
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\b\f1\fs20 Note:\b0\f0  This script uses the cURL library to read the RSS feed from Twitter, and then tries fopen() if the cURL library is unavailable. Many PHP installations disallow remote file access with fopen for security reasons but often have cURL installed to be used instead. If your webserver has remote file access disallowed \i\f2 and\i0\f0  hasn't loaded the cURL module, you will have trouble running this script.\fs24\par
+\pard\sl360\slmult1\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\par
+\pard\qc\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\b\f3\fs48 Twitter RSS\b0\f0\fs24\par
+\cf1\fs20 (for lack of another name)\cf0\fs24\par
+\pard\sl360\slmult1\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\par
+\b\f1 Files:\b0\f0  \f4 READ ME.rtf\f0 ,\f4  twitter-rss.php\f0 ,\f4  twitter-rss.css\f0 .\par
+\par
+Twitter RSS is a script that reads in your Twitter RSS feed and formats it for the web, so that you can include your recent Twits on your website. It can be fully customised using the options described below in conjunction with CSS, and you can limit how many Twits are displayed. A few examples of its use can be found at:\par
+\par
+\f4 http://code.kerison.com/twitter\f0\par
+\par
+If you're familiar with PHP you can probably open up the script and get going -- there are comments in the code to give you information about the values you can change. If you need a bit more information, or you'd like an overview, keep reading :)\par
+\par
+You'll need to open up twitter-rss.php to edit in the information. Make sure you open it a plain text editor, like Notepad or TextWrangler, otherwise it'll get all mangled up!\par
+\par
+\par
+\cf3\b\f3 1. Required Information.\cf0\b0\f0\par
+Tag: \cf4\f4 $FEED_URL\cf0\f0\par
+\par
+There is only one thing you absolutely have to do in order to make this script work, and that's tell it where your RSS feed is. You can find this URL by going to your profile page (twitter.com/your_name) and scrolling down to the bottom, until you see a link that says 'RSS Feed'. \par
+\par
+Right click and copy the link location, or click it and copy the URL in your browser, then open up the PHP file and paste it into the first variable, \cf4\f4 $FEED_URL\cf0\f0 .\par
+\par
+(Technically, once you've done that, you can upload the files and you'll be up and running. But you might want to keep reading. There are things you probably want to customise and there's some information below on how to do that...)\par
+\par
+\par
+\cf3\b\f3 2. Optional Information.\cf0\b0\f0\par
+Tags: \cf4\f4 $NUM_ITEMS, $FEED_PLUS_MINUS, $FEED_HOUR_OFFSET\cf0\f0\par
+\par
+Other things you'll probably want to do are: a) correct any feed/time inaccuracies, and b) limit the number of twits displayed. If you leave \cf4\f4 $NUM_ITEMS\cf0\f0  blank, the default value of '20' is used instead. A good number is 5 or 10, or you can choose to have just one, depending on what you want to achieve.\par
+\par
+If you need to correct a problem with your feed times, you first need to know how many hours, plus or minus, the time is out. When you've figured it out, fill in \cf4\f4 $FEED_PLUS_MINUS\cf0\f0  with either a 'P' for plus (i.e. +5) or an 'M' for minus (i.e. -5), and \cf4\f4 $FEED_HOUR_OFFSET\cf0\f0  with the number of hours to plus or minus (the previous example would've needed a '5').\par
+\par
+** This is the only part of the script I haven't been able to test as thoroughly. My feed seems to be displaying the correct times. If you run into problems, let me know what they are and I'll see if I can figure them out.\par
+\par
+\par
+\cf3\b\f3 3. Settable Preferences.\cf0\b0\f0\par
+Tags: \cf4\f4 $USE_UFTIME, $USE_24HR_TIME, $HIDE_DATE_HEADER, $HIDE_TWITTER_LINK, $HIGHLIGHT_FIRST, $USE_ALT_LICOLOR\cf0\f0\par
+\par
+All of these preferences require yes (Y) or no (N) answers and most of them are self explanatory. They all have a default setting and break-down as follow...\par
+\par
+\cf4\f4 $USE_UFTIME\cf0\f0  is asking whether you want to use 'user-friendly' dates, such as '20 minutes ago' or '2 hours ago'. By default, this is set to 'Y' to match Twitter's format. \par
+\par
+\cf4\f4 $USE_24HR_TIME \cf0\f0 asks whether or not you want to use 24 hour time, or 12 hour time. By default this is set to 'N', again to match Twitter's format. Set it to 'Y' to use.\par
+\par
+\cf4\f4 $HIDE_DATE_HEADER\cf0\f0  asks if you want to hide the date header that seperates Twits into days. By default this is set to 'N' but if, for some reason, you don't want dates, set this to 'Y' and they'll disappear.\par
+\par
+\cf4\f4 $HIDE_TWITTER_LINK\cf0\f0  asks if you want to hide the link to your Twitter profile page. This is set to 'N' by default. Set it to 'Y' to hide the link. \b\f1 If you only want to change the text, keep reading\b0\f0  -- there's a 'customise more link text' option further down.\par
+\par
+\cf4\f4 $HIGHLIGHT_FIRST\cf0\f0  and \cf4\f4 $USE_ALT_LICOLOR\cf0\f0  are options that work with the default list format and style sheet. If you want to highlight your most recent Twit, set \cf4\f4 $HIGHLIGHT_FIRST\cf0\f0  to 'Y' and \cf4\f4 $USE_ALT_LICOLOR\cf0\f0  to 'N'. If you want alternating colours for your Twits, they need to be set the other way around. \par
+\par
+\b\f1 You cannot use them both together.\b0\f0  If you set \cf4\f4 $HIGHLIGHT_FIRST\cf0\f0  to 'Y', the script will ignore anything set in \cf4\f4 $USE_ALT_LICOLOR\cf0\f0 . If you use custom tags as described further down, both of these options cease to apply.\par
+\par
+\par
+\cf3\b\f3 4. Custom Format.\cf0\b0\f0\par
+Tags: \cf4\f4 $CUST_FMT_TIME, $CUST_FMT_DATA_PRE, $CUST_FMT_DATA_POST\par
+$CUST_FMT_TWIT_DATE_PRE, $CUST_FMT_TWIT_DATE_POST, $CUST_FMT_TWIT_PRE, $CUST_FMT_TWIT_POST, $CUST_FMT_DATE, $CUST_FMT_MORE_TEXT\cf0\f0\par
+\par
+This section allows you to style every thing the script outputs. If you want your Twits with the dates in <h*> tags and the Twit text in <p>'s, this is the section you need. There are a couple of simpler formatting options here too: all of them are described below and there are a couple of examples of their use at the website if you need them.\par
+\par
+\cf4\f4 $CUST_FMT_TIME\cf0\f0  allows you to do things like put brackets around the timestamp, or prefix it with text (Posted at, etc). The important thing with this tag (and it's user-friendly cousins further down) is that you need to include a place-holder, otherwise the time won't be included. The place-holder for the \cf4\f4 $CUST_FMT_TIME\cf0\f0  tag is \cf5 %TIME%\cf0  and you'd apply it like this: '\b\f1 Posted at \cf5\b0\f0 %TIME%\cf0 '. All of the place-holders are in the same format, a percent sign followed by an uppercase word, followed by a percent sign.\par
+\par
+If you don't type them correctly, the script will not work correctly... so double-check 'em!\par
+\par
+For the next tags, we'll work with an example. Let's say you want to enclose all the data in a \cf4\f4 <div>\cf0\f0  tag called "my_twits", with the dates enclosed in \cf4\f4 <h1>\cf0\f0  tags and the twit text in \cf4\f4 <p>\cf0\f0 's. These are the replacements you'd need to make:\par
+\par
+\cf4\f4 $CUST_FMT_DATA_PRE\cf0\f0  and \cf4\f4 $CUST_FMT_DATA_POST\cf0\f0  are the tags that control the HTML around all the data. By default, this is a list (\cf4\f4 <ul id="twit-twit">\cf0\f0 ), but in this case we want it to be a DIV. In \cf4\f4 $CUST_FMT_DATA_PRE\cf0\f0 , fill in '\cf4\f4 <div id="my_twits">\cf0\f0 ' and in \cf4\f4 $CUST_FMT_DATA_POST\cf0\f0 , put the closing '\cf4\f4 </div>\cf0\f0 ' tag.\par
+\par
+\cf4\f4 $CUST_FMT_TWIT_DATE_PRE\cf0\f0  and \cf4\f4 $CUST_FMT_TWIT_DATE_POST\cf0\f0  control the tags around the date. To replace the default \cf4\f4 <li>\cf0\f0  tags with your \cf4\f4 <h1>\cf0\f0  tags, you'd put '\cf4\f4 <h1>\cf0\f0 ' in \cf4\f4 $CUST_FMT_TWIT_DATE_PRE \cf0\f0 and the closing '\cf4\f4 </h1>\cf0\f0 ' tag in its partner, \cf4\f4 $CUST_FMT_TWIT_DATE_POST\cf0\f0 .\par
+\par
+\cf4\f4 $CUST_FMT_TWIT_PRE\cf0\f0  and \cf4\f4 $CUST_FMT_TWIT_POST\cf0\f0  control the tags around the actual twitter text and timestamp. By default these are \cf4\f4 <li>\cf0\f0 's. To change them to '\cf4\f4 <p>\cf0\f0 ' tags, you'd put '\cf4\f4 <p>\cf0\f0 ' in \cf4\f4 $CUST_FMT_TWIT_PRE\cf0\f0  and the closing '\cf4\f4 </p>\cf0\f0 ' tag in \cf4\f4 $CUST_FMT_TWIT_POST\cf0\f0 .\par
+\par
+Between these and CSS, you have pretty much full control over how the output looks... but there are a couple of things to note about editing the tags in this section. First (although if you want to modify this section, you probably already know this), you can't use single quotes within single quotes, or double quotes within double quotes.\par
+\par
+\b\f1 This would work:\b0\f0\par
+\tab\cf4\f4 $CUST_FMT_DATA_POST = '<p class="twit">';\cf0\f0\par
+\par
+\b\f1 These would not:\par
+\b0\f0\tab\cf4\f4 $CUST_FMT_DATA_POST = '<p class='twit'>';\cf0\f0\par
+\tab\cf4\f4 $CUST_FMT_DATA_POST = "<p class="twit">";\cf0\f0\par
+\par
+If you want to remove the default styling, but don't actually want to display anything in its place, you can use the keyword BLANK as the value, and the script will skip it.\par
+\par
+\cf4\f4 $CUST_FMT_DATE\cf0\f0  accepts a PHP \cf4\f4 date()\cf0\f0  style syntax to format the way the date is displayed. By default, it's set to '\cf4\f4 D, M jS\cf0\f0 ' (produces, if today is Sunday, May 13th: \f4 Sun, May 13th\f0 ) but you can set it to anything you like. Check out the PHP documentation for more information (and options): \f4 http://php.net/date\f0\par
+\par
+\cf4\f4 $CUST_FMT_MORE_TEXT\cf0\f0  lets you replace the 'More' text that links back to your Twitter page with your own text. If you want to hide it, use the \cf4\f4 $HIDE_TWITTER_LINK\cf0\f0  option described further up.\par
+\par
+\par
+\cf3\b\f3 5. UFT Options.\cf0\b0\f0\par
+Tags: \cf4\f4 $UFT_LINK_TEXT_HOUR_SGL, $UFT_LINK_TEXT_HOUR_PLU, $UFT_LINK_TEXT_MINS_SGL, $UFT_LINK_TEXT_MINS_PLU\cf0\f0\par
+\par
+If you choose to use 'user-friendly' (relative) time, you can edit this section to format exactly how it's displayed. The default values are '1 minute ago', '\i\f2 n\i0\f0  minutes ago', '1 hour ago' and '\i\f2 n\i0\f0  hours ago' (where \i\f2 n\i0\f0  reflects the number of minutes or hours).\par
+\par
+These tags make use of place-holders. You need to make sure you include them, or else the calculated values won't be substituted. The place-holders are in the format: percent sign, word in uppercase letters, percent sign and you have to type them exactly like that. The place-holders are \cf5 %NUM_MINS%\cf0  and \cf5 %NUM_HOURS%\cf0 .\par
+\par
+\cf4\f4 $UFT_LINK_TEXT_HOUR_SGL\cf0\f0  and  \cf4\f4 $UFT_LINK_TEXT_MINS_SGL\cf0\f0  are easy to change. If you wanted the text to say '(about a minute ago)' instead of '1 minute ago', that's exactly what you'd put into \cf4\f4 $UFT_LINK_TEXT_MINS_SGL\cf0\f0 . The same principle applies to \cf4\f4 $UFT_LINK_TEXT_HOUR_SGL\cf0\f0 .\par
+\par
+\cf4\f4 $UFT_LINK_TEXT_HOUR_PLU\cf0\f0  and \cf4\f4 $UFT_LINK_TEXT_MINS_PLU\cf0\f0  are only a tiny bit more complicated. Instead of putting 'about a [minute/hour] ago', you'd put (if you were doing minutes) '(about \cf5 %NUM_MINS%\cf0  minutes ago)'. Same for the other. The script will automatically substitute the correct values.\par
+\par
+\par
+\cf3\b\f3 6. Footnote!\cf0\b0\f0\par
+Using this information you should be able to customise to your heart's content but, if you encounter any problems, don't hesitate to let me know :) \par
+\par
+(Feel free to Twitter at me! I live at http://twitter.com/keija & I like meeting new people.)\par
+\par
+- Kerison.\par
+\par
+\par
+\par
+\pard\cf6\fs20 Last revised: May 13th, '07.\cf0\f5\par
+}
+ 

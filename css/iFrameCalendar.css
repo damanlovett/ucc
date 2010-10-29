@@ -1,0 +1,6 @@
+@charset "utf-8";
+iframe { margin-bottom:25px; width:850px; height: 1300px; border:none; }
+iframe div#uccLogoHeader {
+	display: none !important;
+	background-color:#fff;
+}

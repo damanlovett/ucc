@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AddConferenceTemplateParticipantResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="AddConferenceTemplateParticipantResponseType.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="CCSResponseType.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="CommitConferenceResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="ConferenceCallAbstract.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="CreateConferenceResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="CreateConferenceResponseType.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="CreateConferenceTemplateResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="CreateConferenceTemplateResponseType.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetConferenceListResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetConferenceListResponseType.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetConferenceStatusResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetConferenceStatusResponseType.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetConferenceTemplateListResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetConferenceTemplateListResponseType.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetConferenceTemplateParticipantResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetConferenceTemplateParticipantResponseType.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetConferenceTemplateResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetConferenceTemplateResponseType.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetParticipantStatusResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetParticipantStatusResponseType.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetRunningConferenceResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="GetRunningConferenceResponseType.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="NewParticipantResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="NewParticipantResponseType.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="RemoveConferenceResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="RemoveConferenceTemplateParticipantResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="RemoveConferenceTemplateResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="RemoveParticipantResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="UpdateConferenceResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="UpdateConferenceTemplateParticipantResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="UpdateConferenceTemplateResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+<file name="UpdateParticipantResponse.php" server="ftp.lovettcreations.org" local="129151403340000000" remote="129240203400000000" />
+</dwsync>
