@@ -35,7 +35,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <p><br>
             This event is sponsored by a consortium of six outstanding North Carolina   graduate schools including NC State, Duke, UNC-Chapel Hill, UNC-Charlotte,   UNC-Greensboro, and Wake Forest. Participating employers can expect up to 350   masters, doctoral, and postdoctoral candidates in science, engineering,   humanities and social sciences to attend. </p>
           <p>Thursday, November 18, 2010<BR>
-              1:00 to 4:30pm<BR>
+              1:00pm to 4:30pm<BR>
               Friday Center, UNC-Chapel   Hill<BR>
               <A href="http://www.fridaycenter.unc.edu/directions/index.htm">http://www.fridaycenter.unc.edu/directions/index.htm </A></p>
           <p><A href="http://csc.dept.uncg.edu/phdfair/PhDFair2010.pdf" target="_top">List   of employers attending</A><br>
