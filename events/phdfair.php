@@ -40,6 +40,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               <A href="http://www.fridaycenter.unc.edu/directions/index.htm">http://www.fridaycenter.unc.edu/directions/index.htm </A></p>
           <p><A href="http://csc.dept.uncg.edu/phdfair/PhDFair2010.pdf" target="_top">List   of employers attending</A><br>
             <a href="http://cam06.auxserv.duke.edu/iebms/logon/log_p2_addedit.aspx?AppSessionID=ej2fcofg8fb9ffpfh8fdkejoei1&sessionid=ej0fcmfg8fb0ff7fhlfd0ejkejp&eventid=40837&mode=add">Employer registration</a> &amp; <A href="../pdfs/phd.pdf">details</A>           </p>
+          <p>There is no registration or fee required for students to attend this event.    Doctoral and masters' degree students from  institutions other than the   consortium universities may attend. </p>
+          <hr />
           <p><strong>Questions?</strong><br>    
     Contact Carol Schroeder, Director -- <a href="mailto:carol_schroeder@ncsu.edu">carol_schroeder@ncsu.edu</a> </p>
   </div>
