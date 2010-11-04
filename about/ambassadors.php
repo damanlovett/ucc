@@ -39,14 +39,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </div>
           </div>
           <p>&nbsp;</p>
-          <p>Looking for a program for your student group? <a
-href="../pdfs/ca-request.pdf">Request a program</a>! <br>
-          Trained student leaders are here to help you.<br>
-          Ideal for residence halls, Greek life, or clubs where a variety of majors will be in attendance.</p>
+          <p>Looking for a program for your student group? <br>
+            <a
+href="../pdfs/ca-request.pdf">Request a program</a> from trained student leaders!<br>
+          Ideal for residence halls, Greek life, or clubs where a variety of majors are represented.</p>
           <table width="447">
             <caption>
+            <strong>Career Ambassadors -- 2010-2011</strong> 
             <br>
-            <strong><em>Career Ambassadors -- 2010-2011</em></strong> 
             </caption>
             <tr>
               <td width="131">Travis Jones</td>
@@ -90,8 +90,8 @@ href="../pdfs/ca-request.pdf">Request a program</a>! <br>
             <li> Represent the UCC at events and career fairs </li>
             <li> Provide outreach through technology-based methods </li>
             <li> Serve as an informal resource to the UCC and employers </li>
-            <li> Apply this experience to their own career – <a
-href="../pdfs/ca-alumni.pdf">meet our alumni</a>! </li>
+            <li> Apply this experience to your own career! [<a
+href="../pdfs/ca-alumni.pdf">meet our alumni</a>] </li>
           </ul>
           <p>&nbsp;</p>
         </div>
