@@ -34,7 +34,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <h1>SAMPLE RESUMES </h1>
           
 <div class="breadCrumbHolder module">
-  <p><br>
+            <div id="breadCrumb" class="breadCrumb module">
+                <ul>
+                <li class="first"> <a href="#">Home</a> </li>
+                <li> <a href="../">Getting Experience</a> </li>
+                <li><a href="./">Resumes &amp; Documents</a></li>
+                <li class="last">Sample Resumes</li>
+              </ul>
+            </div>  <p><br>
     Every resume will be unique.  Your goal is to create a  resume that highlights
     your individual strengths, interests, and accomplishments. These sample resumes will  help you get started.</p>
 </div>

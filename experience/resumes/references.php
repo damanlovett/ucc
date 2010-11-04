@@ -34,7 +34,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <h1>LIST OF REFERENCES </h1>
           
 <div class="breadCrumbHolder module">
-  <p><br>
+            <div id="breadCrumb" class="breadCrumb module">
+                <ul>
+                <li class="first"> <a href="#">Home</a> </li>
+                <li> <a href="../">Getting Experience</a> </li>
+                <li><a href="./">Resumes &amp; Documents</a></li>
+                <li class="last">List of References</li>
+              </ul>
+            </div>  <p><br>
     Prepare a list of three references if you are graduating this year and seeking an entry-level job.  You will not need a list of references if  you are seeking an internship or co-op. </p>
   <p>Some employers
                   will request this list during the recruiting process and you'll be ready.  Bring a copy with you to interviews -- along with  an unofficial  copy of your transcript and of course,  your resume.      </p>

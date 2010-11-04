@@ -130,7 +130,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
             
-            <div id="tabs5">
+            <div id="tabs-5">
               <p>You may consider maintaining your own non-confidential credential file
               if your prospective employers do not require confidential letters. When you
               request letters from your references, they will send you the original letter.

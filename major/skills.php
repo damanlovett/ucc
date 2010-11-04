@@ -32,6 +32,16 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div class="yui-g"> <div id="fadeshow1"></div> </div>
         <div id="secContent" class="yui-g">
           <h1>Skills</h1>
+ <div class="breadCrumbHolder module">
+            <div id="breadCrumb" class="breadCrumb module">
+                <ul>
+                <li class="first"> <a href="#">Home</a> </li>
+                <li> <a href="./">Choosing A Major</a> </li>
+                <li class="last"> Skills</li>
+              </ul>
+              </div>
+          </div>
+
           <p><br>
           Everything you do has the potential to add to  your skill set.  Document your  experiences and be ready to communicate your skills through your resume and during conversations with employers. When asked about your skills,  you'll be prepared and confident about your answer!           </p>
           <p><strong>Identify your job skills</strong><br>

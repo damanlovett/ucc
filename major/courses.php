@@ -32,13 +32,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div class="yui-g"> <div id="fadeshow1"></div> </div>
         <div id="secContent" class="yui-g">
           <h1>CAREER COURSES</h1>
-          
-<div class="breadCrumbHolder module">
+          <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
                 <ul>
-                  <li class="last">s Career Cources </li>
+                <li class="first"> <a href="#">Home</a> </li>
+                <li> <a href="./">Choosing A Major</a> </li>
+                <li class="last"> Career Courses</li>
               </ul>
-            </div>
+              </div>
           </div>
 <p>These career-related courses are open to all majors
             at NC State.</p>
