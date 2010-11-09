@@ -45,37 +45,39 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
 
          
-          <p class=MsoNoSpacing>When you're within 2 semesters of graduation, it's time
-            to begin your search for an entry-level job! <br>
+          <p class=MsoNoSpacing>Within two semesters of graduation? Time to begin your search!  <br>
             <a
 href="index.php">Start
             with ePACK</a>.  </p>
-          <p class=MsoNoSpacing>Not sure what's out there? <br>
+          <p class=MsoNoSpacing>Not sure what's out there?  <br>
           Here are some key terms to become familiar with.</p>
-          <p class=MsoNoSpacing><b>Entry-level jobs:</b>  Most common opportunity for new
-            graduates.  Employers may have formal
-             training programs or you may learn the ropes "on the
-            job" with colleagues in your department.  </p>
-          <p class=MsoNoSpacing><b>Rotational
-            programs</b>:  Entry-level jobs that
-            involve rotations typically through different functional areas of the business
-            (example:  4 months in sales, 4 months in
-            quality, 4 months in production).  Placement upon completion depends upon interest, performance, and
-            availability.  </p>
-          <p class=MsoNoSpacing><b>Leadership
-            development programs:  </b>Accelerated
-            leadership track typically with rotations through different locations or
-            business units (example:  6 months in
-            Energy, 6 months in Aviation, 6 months in Healthcare).  Placement upon completion depends upon  interest, performance, and availability.  </p>
-          <p class=MsoNoSpacing><b>Contract
-            positions:  </b>Less common point of
-            entry for new graduates, but should be a serious consideration in a difficult
-            job market.   These are short-term
-            positions in your field that can in some cases be extended or lead to a
-            permanent entry-level job.    </p>
-          <p class=MsoNoSpacing><b>Experienced positions:</b>  Most common for
-            non-traditional new graduates with prior full-time work or military experience.  As a new graduate, you will
-            also be considered for opportunities noted above.     </p>
+          <hr />
+          <ul>
+            <li><b class="MsoNoSpacing">Entry-level jobs:</b>  Most common opportunity for new
+              graduates.  Employers may have formal
+              training programs or you may learn the ropes "on the
+              job" with colleagues in your department.  </li>
+            <li><b class="MsoNoSpacing">Rotational
+              programs</b>:  Entry-level jobs that
+              involve rotations typically through different functional areas of the business
+              (example:  4 months in sales, 4 months in
+              quality, 4 months in production).  Placement upon completion depends upon interest, performance, and
+              availability.  </li>
+            <li><b class="MsoNoSpacing">Leadership
+              development programs:  </b>Accelerated
+              leadership track typically with rotations through different locations or
+              business units (example:  6 months in
+              Energy, 6 months in Aviation, 6 months in Healthcare).  Placement upon completion depends upon  interest, performance, and availability.  </li>
+            <li><b class="MsoNoSpacing">Contract
+              positions:  </b>Less common point of
+              entry for new graduates, but should be a serious consideration in a difficult
+              job market.   These are short-term
+              positions in your field that can in some cases be extended or lead to a
+              permanent entry-level job.    </li>
+            <li><b class="MsoNoSpacing">Experienced positions:</b>  Most common for
+              non-traditional new graduates with prior full-time work or military experience.  As a new graduate, you will
+              also be considered for opportunities noted above.     </li>
+          </ul>
         </div>
       </div>
     </div>

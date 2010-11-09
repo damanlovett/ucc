@@ -33,37 +33,36 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div id="secContent" class="yui-g">
           <h1>JOB SEARCH RESOURCES</h1>
           <div class="breadCrumbHolder module">
-            <p><br>
-              Use as many resources as possible to find potential employers and learn about internships and entry-level jobs. <br>
-              Students report greater success with this strategy! </p>
+            <p>Use as many resources as possible to find potential employers and learn about opportunities. <br>
+              Students report greater success with this strategy!          </p>
           </div>
 
          <ul>
-            <li><a href="../../events/fairs.php"><strong>Career  fairs</strong></a>:  Attend NC State career fairs each semester.  Attend career fairs at <a href="http://www.jobweb.org/article.aspx?id=648">other schools</a>; check to see if they are open to outside students.  </li>
+            <li><a href="../../events/fairs.php"><strong>Career  fairs</strong></a>:  Attend career fairs @ NC State each semester!  Consider  career fairs at <a href="http://www.jobweb.org/article.aspx?id=648">other schools</a>; some are open to outside students.  </li>
           </ul>
           <ul>
-            <li><a href="/experience/ePACK/index.php"><strong>ePACK</strong></a>:   Find job postings, on-campus interviews,  employer information sessions, and other career events.  Start with the <a href="http://www.youtube.com/ncsucareer">quick start video</a></u>. [6 min.]
+            <li><a href="/experience/ePACK/index.php"><strong>ePACK</strong></a>:   Find job postings, on-campus interviews,  employer information sessions, and other career events. Update your ePACK account each semester and partcipate fully!  
           </ul>
           <ul>
-            <li><a href="../jobsearch/careersearch.php"><strong>Career  Search</strong></a>:  Find potential employers  and key contacts in specific industries and locations through this extensive database  of employers.  Apply directly to  contacts. </li>
+            <li><a href="../jobsearch/careersearch.php"><strong>Career  Search</strong></a>:  Find potential employers  and key contacts in specific industries or  locations through this extensive database  of employers.  Apply directly to  contacts. </li>
           </ul>
           <ul>
             <li><a href="../jobsearch/eleads.php"><strong>eLeads</strong></a>:   Find potential employers and key  contacts in fields of particular interest to CHASS, Design, Management and Natural Resources majors.  Apply directly to contacts.   </li>
           </ul>
           <ul>
-            <li><strong>Social media</strong>:  Update  your <a href="http://www.facebook.com/">Facebook</a> status or <a href="http://twitter.com/">Twitter</a> timeline with information about your search.   New graduates may benefit from <a href="http://www.linkedin.com">LinkedIn</a>, a professional networking site.  Your contacts may be aware of  opportunities.  </li>
+            <li><strong>Social media</strong>:  Update  your <a href="http://www.facebook.com/">Facebook</a> status or <a href="http://twitter.com/">Twitter</a> timeline with information about your search.   New graduates may benefit from <a href="http://www.linkedin.com">LinkedIn</a>, a professional networking site.  Your contacts may be aware of  opportunities!  </li>
           </ul>
           <ul>
-            <li><strong>Student organizations:</strong>  Connect with members of professional, honors,  alumni, community, or social organizations -- who share interests or work in  settings or locations of interest.  Ask  for their advice.</li>
+            <li><strong>Student organizations:</strong>  Connect with members of your professional, honors, community, or  social organizations. Seek their advice and suggestions! </li>
           </ul>
           <ul>
-            <li><strong>Faculty &amp; staff</strong><strong>:  </strong>Meet with faculty about employers,  the job market, and past graduates.  Ask  for advice and suggestions for your search.</li>
+            <li><strong>Faculty &amp; staff</strong><strong>:  </strong>Meet with faculty to discuss   the job market, hiring trends, employers, and where previous graduates work.  Tap into their expertise.</li>
           </ul>
           <ul>
             <li><strong>Company websites:</strong>  Apply for internships and jobs posted on  company websites.  Enhance your chances  by knowing <a href="http://www.jobweb.com/resumesample.aspx?id=868&terms=online+job+application">how  to apply on-line</a>. </li>
           </ul>
           <ul>
-            <li><a href="../jobsearch/sites.php"><strong>Select sites</strong></a>: <strong> </strong>Peruse  sites selected by UCC staff for company rankings, best overall job sites, NC  links, international, government, and entrepreneurial sites.  </li>
+            <li><a href="../jobsearch/sites.php"><strong>Select sites</strong></a>: <strong> </strong>Use  sites selected by UCC staff to help you with your search.</li>
           </ul>
           <ul>
             <li><strong>Alumni  contacts:  </strong>Relocating to  a specific city?  Use the <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=313">alumni network</a> to find a contact.  Looking for NC State alumni associated with specific  organizations?  Access the alumni in database  through <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=590">STAT</a> (students) or <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=305&expandNav=1">traditional membership</a> (new graduates).</li>

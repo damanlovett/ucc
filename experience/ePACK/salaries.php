@@ -48,16 +48,16 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
 
          
-          <p>Below  you’ll find salary averages for internships and entry-level jobs.  <br>
-          Actual offers may vary depending upon the  following.  </p>
-          <blockquote>
-            <p><strong>Your profile</strong> – degree  level, major, GPA, experience, skills<br>
-              <strong>Employer's profile</strong> – industry,  size, location &amp; <a href="http://swz.salary.com/costoflivingwizard/layoutscripts/coll_start.asp">cost of living</a>, <a href="http://www.jobweb.com/studentarticles.aspx?id=262">benefits</a><br>
-              <strong>Current job market </strong>– demand for your major, skills, or field</p>
-          </blockquote>
-          <p><strong>Questions about salaries?</strong><br>
-            Consult with your <a href="../../about/staff.php">career counselor</a>.<br>          
-          Use our tips for <a href="../salaries/">salary  discussions</a>  with employers.     </p>
+          <p>The UCC provides salary averages and information for internships and entry-level jobs.  <br>
+          Use these as a guide. Actual offers you receive will depend upon the following.   </p>
+          <ul>
+            <li><strong>Your profile</strong> – degree  level, major, GPA, experience, skills</li>
+            <li><strong>Employer's profile</strong> – industry,  size, location (<a href="http://swz.salary.com/costoflivingwizard/layoutscripts/coll_start.asp">cost of living</a>) &amp; <a href="http://www.jobweb.com/studentarticles.aspx?id=262">benefits</a></li>
+            <li><strong>Current job market </strong>– demand for your major, skills, or field</li>
+          </ul>
+          <p><strong>Questions?</strong><br>
+          Use our tips for <a href="../salaries/">salary  discussions</a>  with employers.     <br>
+          Consult with your <a href="../../about/staff.php">career counselor</a>. We're here to help!          </p>
           <div align="center">
             <hr size="2" width="100%" align="center">
           </div>
@@ -397,10 +397,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </tr>
           </table></div></div></div>
           <h2 class="accordionHeader">Entry-level jobs – MA/MS</h2>
-          <div class="accData"><table width="696" class="basicTable">
+          <div class="accData"><table width="664" class="basicTable">
             <tr>
-              <td width="407" valign="top">Average    salary increase above BA/BS </td>
-              <td width="277" valign="top">$5,000.-10,000.</td>
+              <td width="398" valign="top">Average    salary increase above BA/BS </td>
+              <td width="254" valign="top">$5,000.-10,000.</td>
             </tr>
           </table></div></div>
         </div>

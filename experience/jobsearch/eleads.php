@@ -42,8 +42,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-          <p>A database of employers most useful for students in  CHASS, Design, Management, and Natural Resources.  Search employers by field and location –  results will provide key contacts within organizations.  Use these contacts to direct your  career-related questions.     </p>
-          <p><strong>Fields  represented</strong></p>
+          <p>This database of employers is most useful for students in  CHASS, Design, Management, and Natural Resources.  Search employers by field and location –  results will provide key contacts within organizations.  Use these contacts to direct your  career-related questions.    </p>
+          <p><strong>Careers represented</strong></p>
           <ul>
             <li>criminal  justice </li>
             <li>environmental </li>
@@ -65,7 +65,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li>Conduct a search</li>
             <li>Research  organizations of interest</li>
             <li>Contact  professionals by email, U.S. mail, or phone</li>
-            <li>Arrange  an <a href="http://www.ncsu.edu/career/students/explore/informational.php">informational  interview</a></li>
+            <li>Arrange  an <a href="../../major/infointerview.php">informational  interview</a></li>
             <li>Learn  about careers well suited for your major or interests </li>
             <li>Inquire  about internships and entry-level jobs </li>
           </ul>

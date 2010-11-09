@@ -49,49 +49,52 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li><a
 href="http://www.naceweb.org/Research/Job_Outlook/2010/Job_Outlook_2010.aspx" class="MsoNoSpacing">Job outlook 2010</a> – 2 min. video </li>
             <li><a
-href="http://www.naceweb.org/Publications/Spotlight_Online/2010/0331/Intern_Hiring_Up_3_Percent.aspx" class="MsoNoSpacing">Intern hiring up 3%</a> -- brief article </li>
+href="http://www.naceweb.org/Publications/Spotlight_Online/2010/0331/Intern_Hiring_Up_3_Percent.aspx" class="MsoNoSpacing">Intern hiring up 3%</a> – brief article </li>
           </ul>
-          <p class=MsoNoSpacing><b>Commit
-            to the process <br>
-          </b>Know the process is likely to take longer than
-            expected.  We suggest you start two
-            semesters prior to graduation  – but know
-          that employers may not know if they can  hire until later!  Patience and persistence are essential. </p>
-          <p class=MsoNoSpacing><b>Use multiple job search resources</b><br>
-            One is not enough.  Employers uses
-          different resources; we recommend you do as well!  <br>
-          Stay on track by using the UCC's suggested <a
-href="/experience/ePACK/resources.php">job search resources</a>.  </p>
-          <p class=MsoNoSpacing><b>Let others help</b><br>
-            The best leads come from people.  Let
-            others know about your search and seek their advice (family, friends, faculty,
-            supervisors).  Be ready with specifics or
-            ideas about the type of work or environment  you seek.  Form a job search group
-            (similar to a study group) for additional support and ideas.  </p>
-          <p class=MsoNoSpacing><b>Personalize the process</b><br>
-            People remember faces and stories.  Have a brief story ready for –                                           "<a href="/pdfs/tellme.pdf">tell
-            me about yourself</a>."  Leave a
-            positive impression that encourages others to think of you when they hear of an
-            opportunity.</p>
-          <p class=MsoNoSpacing><b>Mix
-            up your approach<br>
-          </b>Since employers have different preferences – try
-            different approaches.  Email, personally
-            deliver, ask a friend to forward, and send your resume through the US mail.    </p>
-          <p class=MsoNoSpacing><b>Be open to a variety of employers</b><br>
-            Consider a variety of industries, companies, and locations.  Look at opportunities that add to your skill
-            set, even if they are not a top choice.  </p>
-          <p class=MsoNoSpacing><b>Consider an alternate point of entry</b><br>
-            A position in your field is the goal – whether an internship, volunteer,
-            or contract (temporary) position -- all have the potential to lead to an
-            entry-level job.  </p>
-          <p class=MsoNoSpacing><b>Consider graduate school</b><br>
-            While this may seem particularly attractive when there are limited job
-            prospects -- the decision to attend is best made when you have a clear focus
-            and goal.  </p>
-          <p class=MsoNoSpacing><b>Help
-            after graduation</b><br>
-          UCC services continue for one year after graduation. We're here to help..  </p>
+          <hr />
+          <ul>
+            <li><b class="MsoNoSpacing">Commit
+              to the process <br>
+              </b>Know the search is likely to take longer than
+              expected.  Begin   two
+              semesters prior to graduation. Be aware that some employers  may not know if they can  hire until later!  Patience and persistence are essential. </li>
+            <li><strong>Form a job search group</strong><br>
+            Simliar to a study group, pair up with others and meet regularly for ideas, motivation, and support.
+            </li>
+            <li><b class="MsoNoSpacing">Use multiple job search resources</b><br>
+              One is not enough.  Employers use
+              different resources; we recommend you do as well!  <br>
+              Stay on track by using the UCC's suggested   <a href="/experience/ePACK/resources.php">list of resources</a>.  </li>
+            <li><b class="MsoNoSpacing">Let others help</b><br>
+              The best leads come from people.  Let
+              others know about your search and seek their advice (family, friends, faculty,
+              supervisors).  Be ready with specifics or
+              ideas about the type of work or environment you seek.   </li>
+            <li><b class="MsoNoSpacing">Personalize the process</b><br>
+              People remember faces and stories.  Be ready for                                         "<a href="/pdfs/tellme.pdf">tell
+                me about yourself</a>."  Leave a
+              positive impression that encourages others to think of you when they hear of an
+              opportunity.</li>
+            <li><b class="MsoNoSpacing">Mix
+              up your approach<br>
+              </b>Since employers have different preferences – try
+              different approaches.  Email, personally
+              deliver, ask a friend to forward, and send your resume through the US mail.    </li>
+            <li><b class="MsoNoSpacing">Be open to a variety of employers</b><br>
+              Consider a wide range of industries, companies, and locations.  Look at opportunities that add to your skill
+              set, even if they are not a top choice.  </li>
+            <li><b class="MsoNoSpacing">Consider an alternate point of entry</b><br>
+              A position in your field is the goal – whether an internship, volunteer,
+              or contract (temporary) position -- all have the potential to lead to an
+              entry-level job.  </li>
+            <li><b class="MsoNoSpacing">Consider graduate school</b><br>
+              While this may seem particularly attractive when there are limited job
+              prospects -- the decision to attend is best made when you have a clear focus
+              and goal.  </li>
+            <li><b class="MsoNoSpacing">Help
+              after graduation</b><br>
+              UCC services continue for one year after graduation. We're here to help.</li>
+          </ul>
         </div>
       </div>
     </div>

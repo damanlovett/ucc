@@ -49,11 +49,12 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                                   <li>                                    Hands-on  experience in the field</li>
                                   <li>                                    Professional  advice and contacts for the future</li>
                                   <li>                                    Competitive  edge at graduation</li>
-                                </ul>
-                                  <strong>Options for experience</strong>                                                                  
+                                  </ul>
+                                <hr />
+                                <strong>Options for experience</strong>                                                                  
                                   <ul>
                                     <li><strong>Internships:</strong>  Career-related experience during the  summer or semester, part-time or full-time and usually paid.<br>
-                                      [Note for <a href="../../pdfs/semester_internship.pdf">full-time semester internship</a>.] Start  with <a href="../ePACK/">ePACK</a>.   </li>
+                                      Start  with <a href="../ePACK/">ePACK</a>.  [Guidelines for <a href="../../pdfs/semester_internship.pdf">semester (full-time)</a> internships.]</li>
                                   
 <li><strong>Externships:</strong>  Career-related experience for  first year engineering students during spring break.  Externs job shadow full-time for 1-2 days and  are unpaid. Start with <a href="../../pdfs/extern_student.pdf">externships</a> / <a href="/pdfs/extern_quotes.pdf">student quotes</a>. </li>
                                   

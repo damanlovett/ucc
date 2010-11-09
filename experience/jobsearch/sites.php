@@ -71,83 +71,70 @@ href="http://centennial.ncsu.edu/partners-directory.php" class="MsoNoSpacing">Ce
             <li><u class="MsoNoSpacing"><a
 href="http://www.rtp.org/main/index.php?pid=93&amp;sec=1">RTP employers</a></u></li>
             <li><a
-href="http://www.raleighchamber.org/about_jobs.aspx" class="MsoNoSpacing">Raleigh chamber of
-              commerce</a>  </li>
+href="http://raleighchamber.org/search" class="MsoNoSpacing">Raleigh chamber of commerce</a>  </li>
             <li><a
 href="http://www.doa.state.nc.us/yaio/intern.htm" class="MsoNoSpacing">State government
               internships</a></li>
             <li><a
-href="http://www.osp.state.nc.us/jobs/" class="MsoNoSpacing">State government jobs</a></li>
-            <li><a
-href="http://www.ncgov.com/NCAgency.aspx" class="MsoNoSpacing">State government
-              agencies</a>  </li>
-            <li><a
-href="http://www.triangleipages.com/index.htm" class="MsoNoSpacing">Triangle</a> / <a href="http://www.charlotteipages.com/">Charlotte</a> / <a href="http://www.triadipages.com/">Triad</a> iPages:  use A-Z search </li>
+href="http://www.osp.state.nc.us/jobs/" class="MsoNoSpacing">State government jobs</a> </li>
           </ul>
           <p class=MsoNoSpacing><b>Government leads</b></p>
           <ul>
             <li><a
 href="http://www.makingthedifference.org/index.shtml" class="MsoNoSpacing">Federal internships
               &amp; jobs</a></li>
-            <li><a
-href="http://www.uschamber.com/chambers/directory/default.htm?d=false" class="MsoNoSpacing">U.S. chambers of commerce</a></li>
-            <li><a
-href="http://www.statelocalgov.net/index.cfm" class="MsoNoSpacing">State &amp; local
-              agencies</a>:  by state</li>
-            <li><a
-href="http://www.usa.gov/Agencies/State_and_Territories/Agencies_by_Topic.shtml" class="MsoNoSpacing">State
-              &amp; local agencies &amp; offices</a>:  by field</li>
+            <li><a href="http://www.usa.gov/Agencies.shtml">Government agencies</a>: local, state, federal</li>
           </ul>
           <p class=MsoNoSpacing><b>Entrepreneurial resources</b></p>
           <ul>
             <li><a
 href="http://www.irs.gov/businesses/small/article/0,,id=99336,00.html" class="MsoNoSpacing">IRS: starting a business</a> </li>
             <li><a
-href="http://www.nccommerce.com/servicenter/" class="MsoNoSpacing">NC dept. of commerce: business service center</a> </li>
+href="http://www.nccommerce.com/servicenter/" class="MsoNoSpacing">NC dept. of commerce</a></li>
+            <li><a
+href="http://www.engr.ncsu.edu/eep/" class="MsoNoSpacing">NC State engineering entrepreneurs program</a> </li>
             <li><a
 href="http://www.sbtdc.org/" class="MsoNoSpacing">SBTDC</a></li>
-            <li><a
-href="http://www.engr.ncsu.edu/eep/" class="MsoNoSpacing">NC State: engineering entrepreneurs program</a></li>
           </ul>
           <p class=MsoNoSpacing><b>International options</b></p>
           <ul>
             <li><a
-href="http://www7.acs.ncsu.edu/nse/" class="MsoNoSpacing">National
-              student exchange</a> </li>
-            <li><a
-href="http://www.ncsu.edu/studyabroad/" class="MsoNoSpacing">Study
-              (or work) abroad</a> </li>
-            <li><a
-href="http://www.ncsu.edu/stud_orgs/iaeste/about_us.html" class="MsoNoSpacing">IAESTE</a> </li>
+href="http://www.aiesec.org" class="MsoNoSpacing">AIESEC</a></li>
             <li><a
 href="http://ewbncsu.org/" class="MsoNoSpacing">Engineers
-              without borders</a> </li>
+            without borders</a></li>
+            <li><a
+href="http://www.internabroad.com" class="MsoNoSpacing">Go
+              abroad</a></li>
+            <li><a
+href="http://www.ncsu.edu/stud_orgs/iaeste/about_us.html" class="MsoNoSpacing">IAESTE</a></li>
+            <li><a
+href="http://www.rileyguide.com/internat.html#orgs" class="MsoNoSpacing">International agencies &amp; NGOs</a></li>
             <li><a
 href="http://www.nccommerce.com/en/BusinessServices/LocateYourBusiness/WhyNC/InternationalPresence/InternationalFirmsDirectory.htm" class="MsoNoSpacing">International firms in NC</a> </li>
             <li><a
-href="http://www.internabroad.com" class="MsoNoSpacing">Go
-              abroad</a> </li>
+href="http://www.rileyguide.com/internat.html" class="MsoNoSpacing">International job opportunities</a></li>
+            
             <li><a
-href="http://www.aiesec.org" class="MsoNoSpacing">AIESEC</a> </li>
+href="http://www7.acs.ncsu.edu/nse/" class="MsoNoSpacing">National
+              student exchange</a></li>
             <li><a
-href="http://www.rileyguide.com/internat.html" class="MsoNoSpacing">International job opportunities</a> </li>
-            <li><a
-href="http://www.rileyguide.com/internat.html#orgs" class="MsoNoSpacing">International agencies &amp; NGOs</a> </li>
+href="http://www.ncsu.edu/studyabroad/" class="MsoNoSpacing">Study
+            (or work) abroad</a></li>
             <li><a
 href="http://www.workingabroad.org/" class="MsoNoSpacing">Working
-              abroad</a> </li>
-            <li><a
-href="http://www.eurograduate.com/planning.asp" class="MsoNoSpacing">Work in Europe</a></li>
+            abroad</a></li>
           </ul>
-          <p class=MsoNoSpacing><b>Relocation resources</b></p>
+          <p><b>Relocation resources</b></p>
           <ul>
             <li><a
 href="http://www.kiplinger.com/money/bestcities/" class="MsoNoSpacing">Best cities to
               live, work, &amp; play</a></li>
             <li><a
-href="http://www.ncsu.edu/housing/conferences/intern.php" class="MsoNoSpacing">Intern housing on campus @ NC State</a></li>
-            <li><a
-href="http://sublet.com/" class="MsoNoSpacing">Sublet an apartment in another city</a></li>
+href="http://www.ncsu.edu/housing/conferences/intern.php" class="MsoNoSpacing">Summer intern housing @ NC State</a></li>
+            <li><a href="http://www.sublet.com/">Find a sublet</a></li>
+            <li>Find a mover</li>
+            <li>Find a realtor</li>
             <li><a
 href="http://www.moving.com/" class="MsoNoSpacing">Moving.com</a></li>
             <li><a
@@ -173,7 +160,7 @@ href="http://www.coolworks.com/" class="MsoNoSpacing">Cool Works</a>:  jobs in 
 href="http://environmentalcareer.com/" class="MsoNoSpacing">Environmental
             Career</a>:  internships &amp; jobs </li>
             <li><a
-href="http://nonprofit.chass.ncsu.edu/academic_programs/resources.php" class="MsoNoSpacing">Institute for Non-profit Resources</a>:  careers, journals, &amp; associations</li>
+href="http://nonprofit.chass.ncsu.edu/academic_programs/resources.php" class="MsoNoSpacing">Institute for Non-profit</a>: careers, journals, &amp; associations</li>
             <li><a href="http://www.ncsu.edu/career/wrap/unity.php">Internships-USA</a>:  CHASS, recreation, and sports-related postings </li>
             <li><a
 href="http://www.rileyguide.com/social.html" class="MsoNoSpacing">Jobs in Social
@@ -181,7 +168,7 @@ href="http://www.rileyguide.com/social.html" class="MsoNoSpacing">Jobs in Social
             <li><a
 href="http://www.devicelink.com/company98/index.html" class="MsoNoSpacing">Medical Device Link</a>:  search by product </li>
             <li><a
-href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517&amp;from=fund" class="MsoNoSpacing">National Science Foundation </a>:  REUs</li>
+href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517&amp;from=fund" class="MsoNoSpacing">National Science Foundation</a>:  REUs</li>
             <li><a
 href="http://directory.ncbiotech.org/directory" class="MsoNoSpacing">NC Biotechnology Center</a>:  directory of biotech companies in NC</li>
             <li><a
@@ -196,7 +183,7 @@ href="http://www.thesca.org/" class="MsoNoSpacing">Student Conservation Associat
             <li><a
 href="http://www.teaching-jobs.org/" class="MsoNoSpacing">Teaching Jobs</a>:  teaching jobs at all levels </li>
             <li><a
-href="http://www.thomasnet.com/index.html" class="MsoNoSpacing">ThomasNet</a>:  search by product or service</li>
+href="http://www.thomasnet.com/index.html" class="MsoNoSpacing">ThomasNet</a>:  search by product or manufacturer</li>
             <li><a
 href="http://www.unitedwaytriangle.org/ma/index.asp" class="MsoNoSpacing">Triangle United Way</a>:  non-profit agencies</li>
           </ul>
@@ -218,5 +205,6 @@ href="http://www.unitedwaytriangle.org/ma/index.asp" class="MsoNoSpacing">Triang
     <?php require_once('../../includefiles/footer.php');?>
   </div>
 </div>
+i
 </body>
 </html>

@@ -47,11 +47,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </div>
           </div>
 
-         <p>Let the employer initiate the discussion.  We do not recommend that you ask about salary.  Most employers have a specific salary or salary range in mind.  Their goal is to pay you fairly – and in line with the rate paid to current employees in the same job.</p>
+         <p>Let the employer initiate the discussion.    Most employers have a specific salary or range in mind.  Their goal is to pay you fairly – and in line with recent hires in the same job. We do not recommend that you ask about salary.</p>
          
-         <p>Few employers ask you, "what salary are you looking for?"  However, if they do – you want to be ready.  Use the known salary averages and adjust as we suggest.  Show an understanding of and sensitivity to the current job market – display your flexibility about salary.  </p>
+         <p>Few employers ask a college student or new graduate, "what salary are you looking for?"  <em>However</em>, if they do – you want to be ready.  Use the known <a href="../ePACK/salaries.php">salary averages</a> and adjust as we suggest.  Show an understanding of and sensitivity to the current job market – display your flexibility about salary.</p>
 
-<p>Do not automatically try to negotiate for a higher salary.  This can backfire with some companies.  If an offer seems low, consult with your career counselor first.  Clarification of a total compensation package may be needed.  If negotiation is appropriate, prepare your rationale and proceed cautiously.</p>  
+<p>Do not automatically try to negotiate for a higher salary.  If an offer seems low, ask the employer how they arrived at that salary. Give them a chance to explain. If all new hires are offered this salary, thank them for this information and stop.  If the opportunity exists to negotiate, proceed with your rationale (your credentials, another offer ...). Plan to negotiate only with the offer you will accept.</p>  
 
 <p>We're here to help with salary discussions.  
 Consult with your <a href="../../about/staff.php">career counselor</a>.</p> </div>

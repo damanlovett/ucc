@@ -42,7 +42,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-          <p>A comprehensive database of 4M+ employers.  Search this database to create a list of  potential employers -- search by industry, size, location, or keyword.  Results will yield key contacts within each organization.  Use these  contacts to inquire directly about possible internships or entry-level  jobs.  </p>
+          <p>Search this database of 4M+ employers to create a list of  potential employers -- search by industry, size, location, or keyword.  Results will yield key contacts within each organization.  Use these  contacts to inquire directly about possible internships or entry-level  jobs.  </p>
           <p><strong>Sample searches</strong>   </p>
           <ul>
             <li>Pharmaceutical  companies in NC with 100+ employees. </li>
@@ -58,7 +58,6 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li>Conduct a &quot;New Search&quot; when you make major  changes to your search criteria </li>
             <li>Research  organizations of interest</li>
             <li>Contact  professionals by email, U.S. mail, phone, or in person</li>
-            <li>Inquire  about internships and entry-level jobs </li>
           </ul>
         </div>
       </div>
