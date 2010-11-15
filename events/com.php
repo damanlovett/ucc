@@ -31,13 +31,13 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
       <div class="yui-b">
         <div class="yui-g"><div id="fadeshow1"></div></div>
         <div id="secContent" class="yui-g">
-          <h1>Management Career &amp; Internship Fair</h1>
-  <p> Friday, October 15, 2010 <br /> 
+          <h1>Management Career Fair</h1>
+  <p> Thursday, February 3, 2011<br /> 
     10:00am-4:00pm <br /> 
     <a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a> @ NC State </p>
   <p><STRONG>Students<BR>
   </STRONG>All students in all majors are invited to   attend!<BR>
-  <A href="https://ncsu-csm.symplicity.com/events/students.php?mode=list&cf=COM_fall2010" target="_top">List of employers attending</A><BR>
+  List of employers attending <a href="https://ncsu-csm.symplicity.com/events/students.php?mode=list&cf=COM_fall2010">fall 2010</a>, spring 2011<em> (coming soon!)</em><BR>
   <A href="../pdfs/fairprep-students.pdf">Tips for success at the fair</A></p>
   <p><STRONG>Employers</STRONG><BR>
     Register for the fair through <A href="http://www.ncsu.edu/epack/employer">ePACK</A>. <BR>

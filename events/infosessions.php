@@ -42,17 +42,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </div>
           </div>
           <p>Information sessions are scheduled by employers during
-            the fall and spring semesters – often in advance of upcoming career fairs and
-            on-campus interviews.  Their goal is to increase
-            the visibility of their organization and opportunities and meet prospective
-            students for internships and entry-level jobs.     </p>
-          <p>Most representatives are NC State alumni – these sessions
-            are networking opportunities for you!  All
-            students in all majors are invited to attend.  Details about employer information sessions scheduled through the UCC are
-            posted in <a href="http://www.ncsu.edu/epack/">ePACK</a>, where you can learn
-            more about the employer and their event (date, time, location).  </p>
+            the fall and spring semesters – often in advance of  career fairs and
+            on-campus interviews.  Employers use this opportunity to increase
+            the visibility of their organization  and interact personally with  students interested in internships and entry-level jobs.     </p>
+          <p> Information sessions are networking opportunities!  Many representatives are NC State graduates. All
+            students in all majors are invited to attend.  Details are
+            posted in <a href="http://www.ncsu.edu/epack/">ePACK</a> where you can also RSVP.</p>
           <ul>
-            <li>Dress in nice casual attire.  </li>
+            <li>Wear nice casual attire.  </li>
             <li>Take a copy of your resume.</li>
             <li>Research the employer in advance.</li>
             <li>Bring your questions and enthusiasm.</li>

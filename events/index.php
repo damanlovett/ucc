@@ -44,11 +44,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 
           <p>Each semester, a variety of events and career fairs are
             scheduled at NC State.  These provide
-            unique opportunities to learn about careers,  industries, employers, and graduate programs  associated with your major or area of interest.      </p>
+            unique opportunities to learn about careers,  industries, employers, and graduate programs  associated with your major or area of interest.   </p>
           <p>Research shows that students who participate in events and career fairs and have the opportunity to interact with employers
             -- are more likely to develop increased confidence in themselves and clarity in
             their career decisions.  </p>
-          <p>With nothing to lose and everything to gain – open your
+<p>With nothing to lose and everything to gain – open your
             calendar now and add upcoming events and career fairs to your schedule!       </p>
         </div>
       </div>

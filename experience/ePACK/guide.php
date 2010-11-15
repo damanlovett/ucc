@@ -46,26 +46,22 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
 
          
-          <p class=MsoNoSpacing>You'll find this publication to be an indispensible
-            reference for your search.  Published every
-            year by the UCC, the Job &amp; Internship Guide offers step-by-step advice on
-            how to prepare for and conduct a successful job search.  You'll also find sample resumes, cover
+          <p class=MsoNoSpacing> A student favorite! Pick up or access on-line our  Job &amp; Internship Guide, published each year by the UCC. The guide offers step-by-step advice on
+            how to prepare for and conduct a successful job search -- complete with   sample resumes, cover
             letters, and interview questions.    </p>
 <ul class="noBulletList">
             <li><b class="MsoNoSpacing">Print
-              version</b> -- pick up a copy in 2100 Pullen Hall (free!)<br>
+              version</b> -- pick up a copy in 2100 Pullen Hall<br>
               <b class="MsoNoSpacing">Electronic
             version</b> -- [<a
 href="../../pdfs/jobSearchGuide2010.pdf">printable version</a>]</li>
           </ul>
           <p class=MsoNoSpacing><strong>Need a handful for your student group?</strong>  <br>
-          Let us know and we'll have them ready for pick up!  <br>
-          Call the UCC at 919.515.2396 or email <a href="mailto:career_center@ncsu.edu">career_center@ncsu.edu</a>.   </p>
+          Come by to pick them up or call ahead and we'll have them ready for you!  <br>
+          919.515.2396 or  <a href="mailto:career_center@ncsu.edu">career_center@ncsu.edu</a>.   </p>
           <hr />
-          <p class=MsoNoSpacing><em>Thank you sponsors!</em></p>
-          <p class=MsoNoSpacing>Alsco, Altec, Callahan Construction &amp; Development, Capital Bank, C.B. Lee &amp; Company, CC Solutions, Cempra, CH Engineering, Cooper, CTG, Diogenes, Eaton, E.B. Grain Co., ESP, Extron Electronics, GKN, Han-Dee Hugo's, Hazen &amp; Sawyer, Hobbs Upchurch Associates, LeChase Construction, Martin Marietta Materials, RK&amp;K, Southwestern, Storm Technologies, Swagelok,Terminix, The Nance Group, Withers &amp; Ravenel. </p>
-          <p class=MsoNoSpacing>Interested in sponsoring the  2011-2012 edition?<br>
-            Contact Sara Concini, Project Manager -- <a href="mailto:sara_concini@ncsu.edu">sara_concini@ncsu.edu</a></p>
+          <p class=MsoNoSpacing><em><strong>Thank you sponsors!</strong></em></p>
+          <p class=MsoNoSpacing>Alsco, Altec, Callahan Construction &amp; Development, Capital Bank, C.B. Lee &amp; Company, CC Solutions, Cempra, CH Engineering, Cooper, CTG, Diogenes, Eaton, E.B. Grain Co., ESP, Extron Electronics, GKN, Han-Dee Hugo's, Hazen &amp; Sawyer, Hobbs Upchurch Associates, LeChase Construction, Martin Marietta Materials, RK&amp;K, Southwestern, Storm Technologies, Swagelok,Terminix, The Nance Group, Withers &amp; Ravenel.        </p>
         </div>
       </div>
     </div>
@@ -75,7 +71,8 @@ href="../../pdfs/jobSearchGuide2010.pdf">printable version</a>]</li>
       <?php require_once('../../includefiles/epacklogin.php'); ?>
       <div id="navMedia" class="sMedia">
         <?php require_once('../../includefiles/socialmedia.php');?>
-      </div></div></div>
+      </div>
+    </div></div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
     <?php require_once('../../includefiles/footer.php');?>

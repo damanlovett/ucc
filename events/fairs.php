@@ -100,7 +100,7 @@ href="../pdfs/fairprep-employers.pdf">employer
             </tr>
             <tr>
               <td valign=top><a
- href="http://harvest.cals.ncsu.edu/career/index.cfm?pageID=892">CALS Career Expo</a></td>
+ href="http://harvest.cals.ncsu.edu/career/">CALS Career Expo</a></td>
               <td valign=top>Oct. 28</td>
               <td valign=top>9:30-3:30</td>
               <td valign=top><a href="mailto:marcy_bullock@ncsu.edu">Marcy Bullock </a><br>
@@ -150,32 +150,31 @@ href="../pdfs/fairprep-employers.pdf">employer
       <td valign="top"><a href="mailto:engineeringcareerfair@ncsu.edu">Brian Koehler</a> <br /> 
 919.515.3263</td> 
       <td valign="top"><p><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></p></td> 
-    </tr> 
-    <tr class="altrows"> 
-      <td valign="top"><p>CHASS Career Fair<br /> 
-      </p></td> 
-      <td valign="top">Feb. 16 </td> 
-      <td valign="top"><p>9:00-1:00</p></td> 
-      <td valign="top"><p><a href="mailto:sara_concini@ncsu.edu">Sara Concini </a><br /> 
-919.515.2396</p>        </td> 
-      <td valign="top"><p><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></p></td> 
-    </tr> 
+    </tr>
     <tr class="altrows"> 
       <td width="30%" valign="top"><p><a href="../../careerfairparts/com.php">Management Career Fair</a></p></td> 
-      <td width="11%" valign="top">Feb. TBA
-          <br />      </td> 
+      <td width="11%" valign="top">Feb. 3
+        <br />      </td> 
       <td width="11%" valign="top"><p>10:00-4:00</p></td> 
       <td width="25%" valign="top"><a href="mailto:janet_rakes@ncsu.edu">Janet Rakes </a><br /> 
-      919.515.5565</td> 
+        919.515.5565</td> 
       <td width="23%" valign="top"><p><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></p></td> 
     </tr> 
+    <tr class="altrows">
+      <td valign="top"><a href="http://enccacareerfair.org">CHASS Career Fair</a></td>
+      <td valign="top">Feb. 16</td>
+      <td valign="top">9:00-1:00</td>
+      <td valign="top"><a href="mailto:sara_concini@ncsu.edu">Sara Concini </a><br />
+        919.515.2396</td>
+      <td valign="top"><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></td>
+    </tr>
     <tr class="altrows"> 
       <td valign="top"><p> Networking &amp; Career Fair <span class="style14">(Forestry &amp; Environmental Resources / Wood &amp; Paper Science)</span></p></td> 
       <td valign="top">Mar. TBA</td> 
       <td valign="top">12:00-3:00</td> 
       <td valign="top"><p> <a href="mailto:anita_flick@ncsu.edu%20"> </a><a href="mailto:shannon_ford@ncsu.edu%20">Shannon Shinault Ford</a> 919.513.2582</p></td> 
       <td valign="top"><p><a href="http://www.ncsu.edu/student_center">Talley Student Center </a><br /> 
-      </p></td> 
+        </p></td> 
     </tr> 
     <tr class="altrows"> 
       <td valign="top"><p><span class="style9"><a href="http://www.peace.edu/content/page/id/821">Non-profit Career Fair</a></span></p></td> 

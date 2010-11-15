@@ -47,7 +47,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           
 
-          <p>On-campus interviews for internships and entry-level jobs  take place at the UCC during the fall and spring semesters.  All students in all majors who are in degree  programs are encouraged to participate.  </p>
+          <p>On-campus interviews are scheduled during the fall and spring semesters by employers who recruit students for internships and entry-level jobs.  All students in all majors who are in degree  programs are encouraged to participate.  </p>
           <p>View the list of <a href="../../pdfs/oncampus-list.pdf">employers  who interviewed on campus</a> – 2009-10<br>
           2934 individual interviews<em> -- </em>2199 bachelors, 667 masters, 68 doctoral</p>
           <ul>

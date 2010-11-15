@@ -41,17 +41,12 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-<p>Many student organizations (honor, social, professional,
-or interest) sponsor career-related and professional development events.  A good number of these involve employers -- who
-volunteer their time to participate in   presentations, panel
+<p>Honor societies, social or interest groups, and professional societies often sponsor career-related and professional development events.  A good number of these involve employers who participate in presentations, panel
 discussions, projects, and networking events. </p>
 
 
-<p>Not involved with a student organization?  Give it serious consideration!  Choose one (or more) that makes sense for
-you.  Visit the group's website and email
-a student leader to learn more.  This
-decision has the potential to create opportunities and connections, both now
-and in the future.   </p>
+<p>Not involved with a student organization?  Give it serious consideration! Visit their website and email
+a student leader to learn more.  Getting involved has the potential to create opportunities for you and your career, both now and in the future. It's also a great place to gain leadership experience!    </p>
 
 
 <p>View complete list of NC State <a

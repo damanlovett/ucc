@@ -34,21 +34,20 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <h1>UCC PRESENTATIONS</h1>
           <div class="breadCrumbHolder module">
             <p><br>
-              <b>Videos </b><i>– on your own</i><b><br>
-              </b>View <a href="http://www.youtube.com/ncsucareer">brief videos</a> (5-15 min.) on a variety of topics related to the job search. These videos are created by the UCC staff.              </p>
+              <b>YouTube videos</b> <i>– on your own</i> <b><br>
+              </b>View <a href="http://www.youtube.com/ncsucareer">brief videos</a> on a variety of topics related to the job search. These videos are created by the UCC staff. </p>
             <p><b>General
               Presentations </b><i>– by Career Ambassadors  <br>
               </i>Request a presentation for your group, led by student
               leaders.  These are ideal for residence halls, Greek
               life, or clubs where a mixture of majors will be in attendance.  Typical topics are UCC services, resumes,
-              interviews, or ePACK.  Request a
-              presentation from a <a
+              interviews, or ePACK.  Request a presentation from the <a
 href="\about\ambassadors.php">career
-            ambassador</a>.</p>
+            ambassadors</a>. </p>
           </div>
           <p><b>Specific Presentations</b> <i>– by Career Counselors<br>
             </i>Request a presentation for your professional society, honor society or class where specific information of interest to your major or college is desired. Contact your <a
-href="\about\staff.php">career counselor</a> directly to make your request  </p>
+href="\about\staff.php">career counselor</a> to make a request  </p>
           <p>&nbsp;</p>
         </div>
       </div>

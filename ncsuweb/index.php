@@ -39,8 +39,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </div>
               </div>
 
-          <p>The UCC has a strong presence on the world wide web and strong social media focus. Please take the time to participate in the variety of interactive services provided by the UCC. If you have questions or suggestions please let us know at <a href="mailto:career_center@ncsu.edu">career_center@ncsu.edu</a>.</p>
-        </div>
+          <p>&nbsp;</p>
+<p>We know you’re busy and want to stay connected to the  UCC.  To this end, we are providing a  variety of venues to do this. Please take the time to participate in the on-line and interactive services provided by the UCC. </p>
+          <p>We appreciate your ideas and feedback  as we develop these venues.<br>
+          <a href="career_center@ncsu.edu">career_center@ncsu.edu</a>     </p>
+</div>
       </div>
     </div>
     <div class="yui-b">
