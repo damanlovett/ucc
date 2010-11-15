@@ -66,16 +66,13 @@ href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a><br>
           consult with Leslie Bowman, ePACK Specialist -- <a href="mailto:leslie_bowman@ncsu.edu">leslie_bowman@ncsu.edu</a></p>
           <hr />
           <p><b>Other resources @ NC State</b>: </p>
-          <ul>
-            <li> Recruit <a
-href="http://www.ncsu.edu/co-op_ed/">Co-ops</a>    </li>
-            <li> Recruit <a
-href="http://mgt.ncsu.edu/mba/current_students/career_resources/">MBAS</a></li>
-            <li> Recruit <a
-href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=330">experienced alumni</a></li>
-            <li> Recruit as <a
-href="mailto:bridget_yarborough@ncsu.edu">3<sup>rd</sup> party recruiter</a> <br>
-              [<a href="/pdfs/3rd-party.pdf">View our policies</a>]            </li>
+<ul>
+            <li>Recruit Co-ops</li>
+            <li>Recruit MBAs</li>
+            <li>Recruit experienced alumni</li>
+            <li>Recruit as <a
+href="mailto:bridget_yarborough@ncsu.edu">3rd party recruiter</a> <br>
+            [<a href="/pdfs/3rd-party.pdf">View our policies</a>]            </li>
           </ul>
         </div>
       </div>

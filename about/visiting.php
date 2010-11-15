@@ -35,10 +35,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div id="secContent" class="yui-g">
           <h1>VISITING NC STATE</h1>
           <div class="breadCrumbHolder module"></div>
-          <p><a href="#directions">Directions</a> / <a href="#parking">Parking</a> / <a href="#accommodations">Accommodations</a> / <a href="#attractions">Attractions</a> / <a href="#weather">Weather</a></p>
+          <p><a href="#directions">Directions</a> / <a href="#parking">Parking</a> / <a href="#accommodations">Accommodations</a> / <a href="#attractions">Attractions</a> / <a href="#weather">Weather</a><br>
+          </p>
 <p><b><a name="directions"></a>Directions</b><br>
-            NC State is located in the capital city of Raleigh, west of downtown, inside
-          the 440 beltline. [<a
+            NC State is located in the capital city of Raleigh, inside
+          the 440 beltline, west of downtown. [<a
 href="http://www.google.com/maps?f=d&amp;source=s_d&amp;saddr=&amp;daddr=3200+Thurman+Drive,+Raleigh,+NC,+27606&amp;geocode=FU4OIgIdw4NP-yk_JQ_alfWsiTF-XiJ4Vf0LCA&amp;hl=en&amp;mra=ls&amp;sll=35.786009,-78.674104&amp;sspn=0.004282,0.006899&amp;ie=UTF8&amp;z=16">google map</a>]</p>
 <ul>
   <li><i>From
@@ -54,7 +55,7 @@ href="http://www.google.com/maps?f=d&amp;source=s_d&amp;saddr=&amp;daddr=3200+Th
             The <a href="http://www.ncsu.edu/facilities/buildings/danallendeck.html">Dan Allen Parking Deck</a> is most convenient to the UCC, a
             5 min. walk.  <br>
             For parking in other areas
-            of main or centennial campus, please visit <a
+            of main or centennial campus, visit <a
 href="http://www2.acs.ncsu.edu/trans/visitors/index.html">NC
             State Transportation</a>.  </p>
 <p><i>Dan Allen Parking Deck</i></p>
@@ -1356,6 +1357,7 @@ class="odometer">12.9 mi</td>
         <?php require_once('../includefiles/socialmedia.php');?>
       </div>
     </div>
+    <br>
   </div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
