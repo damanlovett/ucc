@@ -57,19 +57,17 @@ href="http://www.google.com/maps?f=d&amp;source=s_d&amp;saddr=&amp;daddr=3200+Th
             of main or centennial campus, please visit <a
 href="http://www2.acs.ncsu.edu/trans/visitors/index.html">NC
             State Transportation</a>.  </p>
-          <ul>
-            <li><i>Dan Allen Parking Deck  -- with parking permit<br>
-              </i>Pick up a permit at the UCC, 2100 Pullen Hall.  Park in the C and DD zones.  <u>Cost</u>:  $0. <br>
-              Permits are also available through the <a
+<p><i>Dan Allen Parking Deck</i></p>
+<ul>
+  <li>Pick up a permit at the UCC, 2100 Pullen Hall.   <u>Cost</u>:  $0. <br>
+    Permits are also available through the <a
 href="http://www2.acs.ncsu.edu/trans/maps/download/MCampus_Visitor_map.pdf">Visitor Information Booth</a> on Stinson Dr.  <u>Cost</u>:  $2.00.  </li>
-            <li><i>Dan Allen Parking Deck
-              -- pay lot<br>
-              </i>Without a permit, park in the pay lot section
-              of the deck.  Credit card only is
-              accepted:  American Express, Discover,
-              Master Card, or Visa.  <u>Cost</u>:  $2.00 for the first hour, $1.00 for each
-              additional, $6.00 daily maximum.  </li>
-          </ul>
+  <li>Without a permit, park in the pay lot section
+    of the deck.  Credit card only is
+    accepted:  American Express, Discover,
+    Master Card, or Visa.  <u>Cost</u>:  $2.00 for the first hour, $1.00 for each
+    additional, $6.00 daily maximum.  </li>
+</ul>
           <hr />
           <p>            <strong><a name="accommodations"></a>Accommodations</strong><br>
             <span class="hidePrint">The following hotels have been selected due to their convenient locations and AAA rating.
