@@ -36,10 +36,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
               <ul>
-                <li class="first"> <a href="#">Home</a> </li>
+                <li class="first"> <a href="/">Home</a> </li>
                 <li> <a href="/experience/resumes">Getting Experience</a></li>
-                <li><a href="/experience/resumes/jobsearch/.">Job Search Strategies</a></li>
-                <li class="last"> Job search strategies</li>
+               <li class="last"> Job search strategies</li>
               </ul>
             </div>
           </div>
@@ -101,7 +100,7 @@ href="http://www.naceweb.org/Publications/Spotlight_Online/2010/0331/Intern_Hiri
     </div>
     <div class="yui-b">
       <div id="navTop" class="sideTop">
-        <?php require_once('../../includefiles/nav/jobsearchNav.php');?>
+        <?php require_once('../../includefiles/nav/experienceNav.php');?>
       </div>
       <?php require_once('../../includefiles/epacklogin.php'); ?>
       <div id="navMedia" class="sMedia">

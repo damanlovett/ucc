@@ -30,17 +30,18 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
     <div id="yui-main">
       <div class="yui-b">
         <div class="yui-g"><div id="fadeshow1"></div></div>
-                                <div class="yui-g" id="secContent">
-                                  <h1>INTERNSHIPS,  EXTERNSHIPS &amp; CO-OP  </h1>
-<div><span class="breadCrumbHolder module">
-            <div id="breadCrumb"><span class="breadCrumb module">
+        <div id="secContent" class="yui-g">
+        
+          <h1>INTERNSHIPS,  EXTERNSHIPS &amp; CO-OP  </h1>
+         <div class="breadCrumbHolder module">
+            <div id="breadCrumb" class="breadCrumb module">
                 <ul>
-                <li><span class="first"> <a href="#">Home</a> </span></li>
-                <li> <a href="./">Getting Experience</a> </li>
-                <li><span class="last"> Internship, externship &amp; Co-op</span></li>
+                <li class="first"> <a href="/">Home</a> </li>
+                <li><a href="../">Getting Experience</a></li>
+                <li class="last">Internships, Externships &amp Co-op</li>
               </ul>
-            </span></div>
-              </span></div>
+            </div>
+          </div>
 
                                 <p><strong>Benefits of experience </strong></p>
                                 <ul>
@@ -54,7 +55,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                                 <strong>Options for experience</strong>                                                                  
                                   <ul>
                                     <li><strong>Internships:</strong>  Career-related experience during the  summer or semester, part-time or full-time and usually paid.<br>
-                                      Start  with <a href="../ePACK/">ePACK</a>.  [Guidelines for <a href="../../pdfs/semester_internship.pdf">semester (full-time)</a> internships.]</li>
+                                      Start  with <a href="../ePACK">ePACK</a>.  [Guidelines for <a href="../../pdfs/semester_internship.pdf">semester (full-time)</a> internships.]</li>
                                   
 <li><strong>Externships:</strong>  Career-related experience for  first year engineering students during spring break.  Externs job shadow full-time for 1-2 days and  are unpaid. Start with <a href="../../pdfs/extern_student.pdf">externships</a> / <a href="/pdfs/extern_quotes.pdf">student quotes</a>. </li>
                                   
@@ -71,28 +72,23 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 href="../../about/staff.php">career counselor</a></span>.  
                                   </p>
                                   <p>&nbsp;</p>
-                                </div>
+        </div>
       </div>
     </div>
     <div class="yui-b">
       <div id="navTop" class="sideTop">
-                <?php require_once('internshipNav.php');?>
-
+        <?php require_once('../../includefiles/nav/experienceNav.php');?>
       </div>
       <?php require_once('../../includefiles/epacklogin.php'); ?>
-
       <div id="navMedia" class="sMedia">
         <?php require_once('../../includefiles/socialmedia.php');?>
-      </div></div>
-    <p>&nbsp;</p>
+      </div>
+    </div>
   </div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
     <?php require_once('../../includefiles/footer.php');?>
   </div>
-  <ul>
-    <li>    Clarification  of major or career interest</li>
-  </ul>
 </div>
 </body>
 </html>
