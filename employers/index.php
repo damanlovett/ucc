@@ -56,7 +56,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <hr />
           <p>Many employers consider the early identification programs
             (internships, externships, co-op) to be a key component of their campus
-            recruiting success.  Whether you are a
+            recruiting success.  [<a href="http://www.naceweb.org/Research.aspx?fid=64&menuID=120&ispub=False&nodetype=7&navurl=">Learn more</a> ... ] Whether you are a
             large international organization or a small local entrepreneur – we look
             forward to helping you recruit at NC State!</p>
           <p>Get started with <a
