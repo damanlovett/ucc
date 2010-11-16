@@ -31,11 +31,21 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
       <div class="yui-b">
         <div class="yui-g"><div id="fadeshow1"></div></div>
         <div id="secContent" class="yui-g">
-          <h1>JOB SEARCH RESOURCES</h1>
+          <h1>JOB SEARCH
+            RESOURCES</h1>
           <div class="breadCrumbHolder module">
-            <p>Use as many resources as possible to find potential employers and learn about opportunities. <br>
-              Students report greater success with this strategy!          </p>
+            <div id="breadCrumb" class="breadCrumb module">
+              <ul>
+                <li class="first"> <a href="/">Home</a> </li>
+                <li> <a href="/experience/resumes">Getting Experience</a></li>
+               <li class="last"> Job search resources</li>
+              </ul>
+            </div>
           </div>
+          
+          
+  <p>Use as many resources as possible to find potential employers and learn about opportunities. <br>
+              Students report greater success with this strategy!          </p>
 
          <ul>
             <li><a href="../../events/fairs.php"><strong>Career  fairs</strong></a>:  Attend career fairs @ NC State each semester!  Consider  career fairs at <a href="http://www.jobweb.org/article.aspx?id=648">other schools</a>; some are open to outside students.  </li>
@@ -66,7 +76,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </ul>
           <ul>
             <li><strong>Alumni  contacts:  </strong>Relocating to  a specific city?  Use the <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=313">alumni network</a> to find a contact.  Looking for NC State alumni associated with specific  organizations?  Access the alumni in database  through <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=590">STAT</a> (students) or <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=305&expandNav=1">traditional membership</a> (new graduates).</li>
-          </ul>
+            </ul>        
+          
         </div>
       </div>
     </div>

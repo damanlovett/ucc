@@ -38,7 +38,6 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <ul>
                 <li class="first"> <a href="#">Home</a> </li>
                 <li><a href="../">Getting Experience</a></li>
-                <li><a href="./">ePACK</a></li>
                 <li class="last">Entry-level jobs </li>
               </ul>
             </div>
@@ -83,7 +82,7 @@ href="index.php">Start
     </div>
     <div class="yui-b">
       <div id="navTop" class="sideTop">
-        <?php require_once('../../includefiles/nav/epackNav.php');?>
+        <?php require_once('../../includefiles/nav/experienceNav.php');?>
       </div>
       <?php require_once('../../includefiles/epacklogin.php'); ?>
       <div id="navMedia" class="sMedia">
