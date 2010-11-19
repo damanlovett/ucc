@@ -61,6 +61,10 @@ href="../pdfs/ca-request.pdf">Request a program</a> from trained student leaders
               <td>Senior, Chemical Engineering </td>
             </tr>
             <tr>
+              <td>Rhonda Andrews</td>
+              <td>Junior, Communications-Public Relations</td>
+            </tr>
+            <tr>
               <td>Megan Collins </td>
               <td>Junior, Communications-Public Relations</td>
             </tr>
@@ -73,8 +77,20 @@ href="../pdfs/ca-request.pdf">Request a program</a> from trained student leaders
               <td>Junior, Mechanical Engineering</td>
             </tr>
             <tr>
+              <td>Alexandria Robinson</td>
+              <td>Junior, Accounting</td>
+            </tr>
+            <tr>
               <td>Rachel Stone </td>
               <td>Junior, Business Management</td>
+            </tr>
+            <tr>
+              <td>Nick Banks</td>
+              <td>Sophomore, Mechanical Engineering</td>
+            </tr>
+            <tr>
+              <td>Rachel Mastro</td>
+              <td>Sophomore, Psychology</td>
             </tr>
             <tr>
               <td>Heath Witzen</td>
