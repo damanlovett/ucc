@@ -48,7 +48,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <ul>
             <li>First resume? Start with the  <a href="../../pdfs/worksheet.pdf">resume worksheet</a></li>
             <li>              Review the resume and letter section of the <a href="../ePACK/guide.php">Job &amp; Internship Guide</a></li>
-            <li>View links throughout this section to prepare your job search documents to the best of your ability</li>
+            <li>View links throughout this section to prepare outstanding job search documents!</li>
           </ul>
 <p class="singleSpaced">&nbsp;</p>
         </div>

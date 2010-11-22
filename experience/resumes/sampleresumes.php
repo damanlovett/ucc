@@ -43,10 +43,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>  <p><br>
     Every resume will be unique.  Your goal is to create a  resume that highlights
-    your individual strengths, interests, and accomplishments. These sample resumes will  help you get started.</p>
+    your individual strengths, interests, and accomplishments. These sample resumes will  help you get started!</p>
 </div>
 <p>How does a resume progress from freshman to senior? See Eric Lawson's progression below. <br>
-  Look for opportunities to <a href="../internships/index.php">develop your resume</a> while here at NC State. We can help.</p>
+  Look for opportunities to develop your resume by gaining <a href="../internships/index.php">career-related experience</a>, while here at NC State. </p>
 <hr />
 <p><b>Sample internship &amp; co-op resumes</b></p>
           <ul>

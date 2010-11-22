@@ -40,8 +40,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </div>
 
           <p>&nbsp;</p>
-<p>We know you’re busy and want to stay connected to the  UCC.  To this end, we are providing a  variety of venues to do this. Please take the time to participate in the on-line and interactive services provided by the UCC. </p>
-          <p>We appreciate your ideas and feedback  as we develop these venues.<br>
+<p>We know you’re busy and want to stay connected to the  UCC.  To this end, we provide  a  variety of venues to do this. Please take a moment to explore and participate! </p>
+          <p>Your ideas and feedback are important as we continue to develop these services. <br>
           <a href="career_center@ncsu.edu">career_center@ncsu.edu</a>     </p>
 </div>
       </div>
