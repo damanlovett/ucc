@@ -34,7 +34,16 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <h1>WHAT EMPLOYERS LOOK
             FOR </h1>
           
-<div class="breadCrumbHolder module"></div>
+<div class="breadCrumbHolder module">
+		<div id="breadcrumb" class="breadCrumb module">
+        	<ul>
+            	<li class="first"> <a href="/">Home</a></li>
+                <li> <a href="../">Getting Experience</a></li>
+                <li> <a href="./">Interviews</a></li>
+                <li class="last">What employers look for</li>
+            </ul>
+            </div>                
+                </div>
 <p>In general, employers want to learn three things about you during an interview.</p>
           <ul>
             <li> <strong>CAN you do the job</strong> – do you possess the talent &amp; credentials?</li>
