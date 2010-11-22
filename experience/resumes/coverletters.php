@@ -60,10 +60,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 <p>A cover letter is your introduction and accompanies
             a resume.  While a resume provides a quick overview of your accomplishments, the cover letter highlights only one or two skills or experiences that are related to the position for which you are applying. </p>
           <p><b>Sample
-            cover letters </b></p>
+            cover letters</b></p>
           <ul>
             <li><a
-href="../../pdfs/letter-basic.pdf">Critical components of a cover letter</a></li>
+href="../../pdfs/letter-basic.pdf">Cover letter basics</a></li>
             <li><a
 href="../../pdfs/letter-email.pdf">Email version</a> </li>
             <li><a
@@ -71,18 +71,16 @@ href="../../pdfs/letter-print.pdf">Print version</a></li>
           <li><a href="http://www.jobweb.com/students.aspx?folderid=134">Additional samples</a></li>
           </ul>
           <p><b>Using cover letters<br>
-          </b>A cover letter is appropriate when you are communicating with an employer at a distance. When you meet an employer in person, a resume alone is suggested.  </p>
+          </b>A cover letter is needed when you communicate with an employer at a distance and an introduction is necessary. When you meet  in person (at a career fair or interview), a cover letter is not needed since you will introduce yourself.          </p>
           <ul>
-            <li><strong>Email</strong>:    your message is the cover letter, a resume is attached</li>
-            <li><strong>US mail</strong>:   cover
-                  letter is printed and sent with a resume </li>
-            <li><strong>ePACK</strong>:   cover
-                    letter is not recommended, unless requested by employer</li>
-            <li><strong>On-line applications</strong>: follow the instructions of each employer </li>
+            <li><strong>Email</strong>:    use the message as your  cover letter, attach a resume </li>
+            <li><strong>US mail</strong>:   print and send a cover letter with your resume (match style &amp; font)</li>
+            <li><strong>ePACK</strong>:   send a cover letter <em>when</em> requested by the employer </li>
+            <li><strong>On-line applications</strong>: follow the instructions of the employer</li>
             <li><strong>Career
                         fair</strong>:  cover letter is not recommended </li>
             <li><strong>Interview</strong>: cover
-                          letter is not recommended </li>
+            letter is not recommended</li>
           </ul>
         </div>
       </div>

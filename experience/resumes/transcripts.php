@@ -51,7 +51,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <p><strong>Official transcript </strong><br>
             Most commonly used for graduate and professional school applications and
             occasionally required by employers. Request
-            a copy through <a href="http://www.ncsu.edu/registrar/">Registration and
+            a copy through <a href="http://www.ncsu.edu/registrar/faq/transcript.html">Registration and
             Records</a>.  Order only when needed;
             there is a $10. charge. </p>
         </div>

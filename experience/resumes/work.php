@@ -50,7 +50,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li>Article, press release, or <a
 href="http://owl.english.purdue.edu/owl/resource/656/01/">report abstract</a></li>
             <li>Website: <a href="http://www.mae.ncsu.edu/research/space_design/Drill/Homepage.html">senior design project</a></li>
-            <li>On-line portfolio: use <a href="http://coroflot.com/public/login_createport.asp">Coroflot</a>
+            <li>On-line portfolio:  <a href="http://coroflot.com/public/login_createport.asp">Coroflot</a>
 for multiple projects </li>
           </ul>
           <p>&nbsp;</p>

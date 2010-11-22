@@ -44,12 +44,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           
 
-          <p>The  interview is your opportunity to shine!</p>
-          <p>Knowing what to expect and preparing for it will give you confidence and allow you to perform to the best of your ability.  <br>
-            Help employers get to know you and what you have to
+          <p>The  interview is your opportunity to shine! Knowing what to expect and preparing for it -- will give you confidence and allow you to perform to the best of your ability!</p>
+<p>            Help employers get to know you and what you have to
             offer. 
             Don't leave them guessing!  <span class="singleSpaced">Professional assistance from the UCC can
-            make a difference</span>. </p>
+              make a difference</span>. </p>
           <ul>
             <li>            Stay on track with the <a href="checklist.php">interview checklist</a></li>
             <li>              Review the interview section of the <a href="../ePACK/guide.php">Job &amp; Internship Guide</a></li>
