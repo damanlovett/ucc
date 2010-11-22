@@ -76,7 +76,7 @@ href="http://www.ncsu.edu/epack">Login
     </div>
     <div class="yui-b">
       <div id="navTop" class="sideTop">
-        <?php require_once('../../includefiles/nav/epackNav.php');?>
+        <?php require_once('../../includefiles/nav/experienceNav.php');?>
       </div>
       <?php require_once('../../includefiles/epacklogin.php'); ?>
       <div id="navMedia" class="sMedia">
