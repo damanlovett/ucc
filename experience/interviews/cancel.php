@@ -46,16 +46,13 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           
 
-          <p>When you need to cancel an on-campus interview, we
-            expect that you will do so at your earliest convenience.  This gives us time to open the schedule to
-            other students and to provide a logical explanation to the employer.  </p>
+          <p>When you need to cancel an on-campus interview, please do so at your earliest convenience.  This gives us time to open the schedule to
+            other students who are waiting and to provide a logical explanation to the employer.  </p>
           <p><b>Cancelling before a schedule closes</b> -- cancel in <a href="http://www.ncsu.edu/epack">ePACK</a><br>
           <b>Cancelling after a schedule closes</b> -- call the UCC at 919.515.2396 </p>
-          <p>We know that emergencies may occur.  We ask that you contact the UCC as soon as
-            you are able. Do your best to avoid being a &quot;no show.&quot;  When we cannot
-            offer an explanation to the employer – it reflects poorly not only on you, but
-            also the UCC, your academic department, and NC State.  Employers have terminated relationships with
-            universities because of "no shows!"   </p>
+          <p>We know that emergencies happen.  We ask that you contact the UCC as soon as
+            you are able. When you are a &quot;no show&quot; – it reflects poorly not only on you, but
+            also the UCC, your department, and NC State.  Employers have stopped recruiting on campuses where this is a problem.</p>
           <p><b>UCC
             Policy<br>
           </b>If you are a "no show" and you have not contacted

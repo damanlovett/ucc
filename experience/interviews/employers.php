@@ -34,30 +34,19 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <h1>WHAT EMPLOYERS LOOK
             FOR </h1>
           
-<div class="breadCrumbHolder module">
-            <div id="breadCrumb" class="breadCrumb module">
-                <ul>
-                <li class="first"> <a href="#">Home</a> </li>
-                <li> <a href="../">Getting Experience</a> </li>
-                <li><a href="./"> Interviews</a></li>
-                <li class="last">What employers look for</li>
-              </ul>
-            </div>
-          </div>
-          
-
-          <p>&quot;We see an interview as an exercise in uncovering
-            your strengths.&quot; (Credit Suisse)</p>
-          <p>In general, employers want to learn three things about you during an interview.</p>
+<div class="breadCrumbHolder module"></div>
+<p>In general, employers want to learn three things about you during an interview.</p>
           <ul>
             <li> <strong>CAN you do the job</strong> – do you possess the talent &amp; credentials?</li>
             <li> <strong>WILL you do the job</strong> – do you have the passion, motivation, &amp; interest? </li>
             <li> <strong>Are you a good FIT</strong> – is there chemistry  with the team and organization? </li>
           </ul>
-          <p> You'll need to communicate your unique strengths and connect them directly to the opportunity. Draw from current and past projects, experiences, and activities for concrete examples. Employers look at past performance as a good indicator of future performance. </p>
-          <p><a
-href="../../major/skills.php">Skills employers desire</a><br>
-        </p>
+          <p> You'll need to communicate your strengths and connect them directly to the opportunity. Draw from work, courses, projects, organizations, or service for concrete examples. Employers look at past performance as a good indicator of future performance. </p>
+          <p>&quot;We see an interview as an exercise in uncovering
+            your strengths.&quot; (Credit Suisse)<br>
+            <a
+href="../../major/skills.php">Skills employers desire</a>            <br>
+          </p>
 </div>
       </div>
     </div>

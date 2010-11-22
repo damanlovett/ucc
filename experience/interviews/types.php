@@ -48,7 +48,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <p><b>Screening
             interviews<br>
           </b>Employers use these to quickly gauge your fit with their position or organization. Screening interviews take
-          place in a variety of settings and are brief (2 min. to one hour).  You'll need to make an immediate positive impression -- as employers will make decisions regarding further consideration of you as a candidate. </p>
+          place in a variety of settings and are brief (2 min. to one hour).  You'll need to make an immediate positive impression -- as employers will make decisions regarding further consideration of you as a candidate! </p>
           <ul>
             <li> <b>On-campus interviews<br>
               </b>Employers conduct <a href="oncampus.php">on-campus interviews</a> to meet several students on the same day in a central location. On-campus interviews are

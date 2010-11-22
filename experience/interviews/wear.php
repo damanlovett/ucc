@@ -46,10 +46,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <p>Attire for interviews is professional and on the
             conservative side.  <br>
             Since your appearance
-            is your first impression -- make it a great one!<br>
-            [<a href="/pdfs/wear-not.pdf">What not to wear</a>]</p>
+            is your first impression -- make it a great one!</p>
           <p><a name=traditional></a><b>Traditional interview attire<br>
-          </b>Suggestions below are for the most conservative settings and will be a safe choice. If your employer is less formal, bring it down a notch, but always err on the side of being overdressed vs. underdressed. Choose attire that shows the employer that you can and will dress for important occasions such as meetings with potential clients.</p>
+          </b>Suggestions below are for the most conservative settings and will be a safe choice. If your employer is less formal, bring it down a notch, but always err on the side of being overdressed vs. underdressed. </p>
           <ul>
             <li> <strong>Men: </strong>Dark conservative suit with white (or light
                 color) long sleeved shirt and tie.  Dark
@@ -68,12 +67,16 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li><strong>Men:</strong>  Slacks with or without jacket, long sleeved
               shirt, with or without tie. </li>
             <li><strong>Women:</strong> Dark slacks with tailored shirt or
-                sweater.&nbsp; </li>
+                sweater.&nbsp;</li>
           </ul>
           <hr />
-          <p><b>Where to shop</b><br>
+          <strong>What not to wear</strong><br>
+          Help an employer remember you, not your what you wore!          [<a href="/pdfs/wear-not.pdf">What not to wear</a>]
+          <br>
+          <hr />
+<p><b>Where to shop</b><br>
           We've provided some local options to help you assemble your interview attire. <br>
-          </p>
+      </p>
           <ul>
             <li><strong>High-end</strong><i> <br>
               </i><a

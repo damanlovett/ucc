@@ -53,8 +53,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               <span style='font-family:Wingdings;
 mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'> </span></span></span>
-              <![endif]>
-              Simple
+            <![endif]></li>
+  <li>Simple
             portfolio, notebook, or folder to carry documents</li>
   <li>
               <![if !supportLists]>
@@ -79,7 +79,7 @@ mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'> </span></span></span>
               <![endif]>
               Unofficial
-            transcript – one copy</li>
+            transcript</li>
   <li>
               <![if !supportLists]>
               <span style='font-family:Wingdings;
@@ -87,7 +87,7 @@ mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'> </span></span></span>
               <![endif]>
               List
-            of 3 references – one copy (graduating students only)</li>
+            of 3 references (graduating students only)</li>
   <li>
               <![if !supportLists]>
               <span style='font-family:Wingdings;
@@ -95,7 +95,7 @@ mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'> </span></span></span>
               <![endif]>
               List
-            of a few questions to ask, if helpful for you</li>
+            of a few questions to ask (optional)</li>
   <li>
               <![if !supportLists]>
               <span style='font-family:Wingdings;
@@ -103,7 +103,7 @@ mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'> </span></span></span>
               <![endif]>
               Paper
-            and pen to take a few notes, if needed</li>
+            and pen to take a few notes</li>
 <li>Professionalism, enthusiasm, and your smile </li>
 </ul>
 <p><o:p>&nbsp;</o:p><b style='mso-bidi-font-weight:normal'>What to keep at home <o:p></o:p></b></p>
@@ -130,8 +130,7 @@ style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'> </span></spa
 mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'> </span></span></span>
             <![endif]>
-            Sunglasses,
-          unless prescribed</li>
+            Sunglasses</li>
   <li>
             <![if !supportLists]>
             <span style='font-family:Wingdings;
@@ -139,7 +138,7 @@ mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'> </span></span></span>
             <![endif]>
             Food,
-          bottled water, snacks, gum</li>
+          bottled water, gum</li>
   <li>
             <![if !supportLists]>
             <span style='font-family:Wingdings;
@@ -147,7 +146,7 @@ mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'> </span></span></span>
             <![endif]>
             Homework,
-          project, books, newspaper, backpack</li>
+          book, newspaper</li>
   <li>
             <![if !supportLists]>
             <span style='font-family:Wingdings;
@@ -178,6 +177,9 @@ style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'> </span></spa
         <?php require_once('../../includefiles/socialmedia.php');?>
       </div>
     </div>
+    <ul>
+      <li></li>
+    </ul>
   </div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">

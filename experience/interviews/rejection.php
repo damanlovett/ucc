@@ -45,7 +45,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           
 
-          <p>Rejection is part of the job search process.<br>
+          <p><br>
             Expect to hear several "no's" before 
           the one "yes" you need!  </p>
           <p><b>Keep in mind the following </b></p>

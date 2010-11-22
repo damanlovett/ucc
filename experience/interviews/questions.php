@@ -50,7 +50,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <p>There are two types of
             questions you will encounter -- behavioral (most common) and traditional.  There is a distinct difference between the
             two.  Your preparation will help you feel
-            comfortable and confident with both. </p>
+            comfortable and confident with both.</p>
             
             
             
@@ -66,7 +66,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <ul>
             <li><a href="../../pdfs/tellme.pdf">Tell me about yourself</a>. </li>
             <li> Why did you choose to interview with our organization? </li>
-            <li> What do you know about our organization?</li>
+            <li> What do you know about us?</li>
             <li> Why did you choose your major? NC State? </li>
             <li> Which classes did you enjoy most? Least? </li>
             <li> How do you account for your GPA? </li>

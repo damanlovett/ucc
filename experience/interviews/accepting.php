@@ -30,7 +30,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
       <div class="yui-b">
         <div class="yui-g"><div id="fadeshow1"></div></div>
         <div id="secContent" class="yui-g">
-          <h1><strong>ACCEPTING AN OFFER</strong></h1>
+          <h1>ACCEPTING AN OFFER</h1>
           
 <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
@@ -43,9 +43,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </div>
           </div>
           
-<p>This is a very important decision that should not  be rushed.  Accept a job offer when you  are ready.  If you need more time to make  a decision, ask.  Employers will make  every effort to give you the time you need, if they are able.  </p>
-<p>When you do accept a job offer -- verbally or in  writing -- <u>it is a commitment</u>.  It  is not okay to continue interviewing in case there is a better opportunity.  (You would not want the employer to continue  interviewing in case there is a better candidate!)  Promptly remove yourself from the job search  process. </p>
-<p>How you handle yourself during this stage of the  job search is critical.  Employers  communicate with one another.  A mistake  could be very costly to you as a new professional and can have far reaching  consequences here at NC State.  Employers  have terminated relationships with universities as a result.&nbsp;</p>
+<p>This is a very important decision. Clarify with the employer -- the details of the offer and timeline to make a decision. Consult with valued friends, family, and advisors to help with your decision. If you need more time to decide, let the employer know. They will  make  every effort to give you the time you need, if they are able.  </p>
+<p>When you do accept an offer -- verbally or in  writing --<em><strong> it is a commitment</strong></em>.  It  is not okay to continue interviewing in case there is a better opportunity.  (You would not want the employer to continue  interviewing in case there is a better candidate!)  Promptly remove yourself from further conversations with employers. </p>
+<p>How you handle yourself during this stage of the  job search is critical.  Employers  communicate with one another.  A mistake  could be very costly to you as a new professional and can have far reaching  consequences here at NC State.  Employers  have terminated relationships with campuses as a result.&nbsp;</p>
 <p><strong>We’re  here to help</strong><br>
   Consult with your <a href="file:///\\Share7_server\share7\CPP\Career Web Site -- 2010\about\staff.php">career  counselor</a> to discuss an offer, deadline, or decision.</p>
         </div>

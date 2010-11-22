@@ -45,23 +45,19 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           
 
-          <p>Students tell us – the more they practice, the more
-            comfortable and prepared they feel.  <br>
-            Questions can be
-            anticipated and answers refined and improved!      </p>
+          <p>&nbsp;</p>
+          <p>Students tell us – the more they practice, the more comfortable and prepared   they feel.</p>
           <p><b>Practice with a friend </b><br>
-            Arrange a quiet place to conduct the interview.  Take it seriously from the start.  <br>
-            Evaluate answers together and brainstorm ways
-            to strengthen them. </p>
+            Arrange a quiet place to conduct an interview.  Evaluate answers together and brainstorm ways
+            to strengthen them.</p>
           <ul>
             <li><a
-href="questions.php">Interview
-                    questions</a></li>
+href="questions.php">Sample questions</a></li>
+            <li><a
+href="http://www.jobweb.com/Interview/help.aspx?id=626&amp;terms=mock+interview+rubric">Interview rubric</a></li>
             <li><a
 href="../../pdfs/eval.pdf">Interview
                     evaluation form </a></li>
-            <li><a
-href="http://www.jobweb.com/Interview/help.aspx?id=626&amp;terms=mock+interview+rubric">Interview rubric</a></li>
           </ul>
           <p><b>Practice with a professional <br>
           </b>Receive valuable feedback on strengths and
@@ -85,9 +81,7 @@ href="../../about/staff.php">career
       <?php require_once('../../includefiles/epacklogin.php'); ?>
       <div id="navMedia" class="sMedia">
         <?php require_once('../../includefiles/socialmedia.php');?>
-      </div>
-    </div>
-  </div>
+      </div></div></div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
     <?php require_once('../../includefiles/footer.php');?>

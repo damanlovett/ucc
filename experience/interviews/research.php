@@ -46,10 +46,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           
 
           <p>Want to stand out? <br>
-          Conduct employer research prior to an interview.  </p>
+          Research the employer before an  interview!  </p>
           <p><b>Basic
             research</b> (1<sup>st</sup> interview) -- visit the website, know general
-            products/services and locations.  <br>
+            products or services and locations.  <br>
             <b>Advanced
             research</b> (2<sup>nd</sup> interview) -- dig deeper, know recent
           news, announcements or innovations.  </p>
@@ -57,7 +57,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li><a
 href="https://www.lib.ncsu.edu/business/companies">Company
               Research</a> (DH Hill)<br>
-              Research company history, market share, recent developments, and more. </li>
+              Research company history, market share, recent developments, and more.</li>
             <li><a
 href="http://rileyguide.com/research.html">Riley Guide</a><br>
               Find detailed information about employers and locations of interest. </li>
@@ -67,10 +67,10 @@ href="http://www.wetfeet.com/Careers---Industries.aspx">Wetfeet</a><br>
               industries and employers. </li>
           </ul>
           <hr />
-          <p><b>With research</b> – <em>you are able to ask good questions</em><br>
-"I read about the merger with Fiat.&nbsp; How will your product line be affected?"<br>
-"Congratulations on your new project at Piedmont Triad International Airport!&quot; Will you be hiring summer interns?"&nbsp; </p>
-          <p><b>Without research </b>– <em>you are unable to show sincere interest</em><br>
+          <p><b>With research</b> – <em>you are <strong>able</strong> to ask good questions</em><br>
+"I read about the merger.&nbsp; How will your product line be affected?"<br>
+"Congratulations on your new project at RDU Airport!&quot; Will you be hiring summer interns?"&nbsp; </p>
+          <p><b>Without research </b>– <em>you are <strong>unable</strong> to show sincere interest</em><br>
 "What do you do?"<br>
 "Is Progress Energy an insurance company?"&nbsp;&nbsp;&nbsp; </p>
 <p>&nbsp;</p>
