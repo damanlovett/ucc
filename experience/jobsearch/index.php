@@ -42,7 +42,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-          <p class=MsoNoSpacing>Despite a difficult economy, students are  finding internships and entry-level jobs.<br>
+          <p class=MsoNoSpacing>Despite a challenging economy, students are  finding internships and entry-level jobs.<br>
             Students contribute their success to being prepared and using multiple job search strategies.</p>
           <ul class="noBulletList">
             <li><a
@@ -64,7 +64,7 @@ href="http://www.naceweb.org/Publications/Spotlight_Online/2010/0331/Intern_Hiri
             <li><b class="MsoNoSpacing">Use multiple job search resources</b><br>
               One is not enough.  Employers use
               different resources; we recommend you do as well!  <br>
-              Stay on track by using the UCC's suggested   <a href="/experience/ePACK/resources.php">list of resources</a>.  </li>
+              Stay on track by using the UCC's suggested list of   <a href="/experience/ePACK/resources.php">resources</a>.  </li>
             <li><b class="MsoNoSpacing">Let others help</b><br>
               The best leads come from people.  Let
               others know about your search and seek their advice (family, friends, faculty,
@@ -93,7 +93,7 @@ href="http://www.naceweb.org/Publications/Spotlight_Online/2010/0331/Intern_Hiri
               and goal.  </li>
             <li><b class="MsoNoSpacing">Help
               after graduation</b><br>
-              UCC services continue for one year after graduation. We're here to help.</li>
+              UCC services continue for one year after graduation. We're here to help!</li>
           </ul>
         </div>
       </div>

@@ -48,33 +48,38 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <a
 href="index.php">Start
             with ePACK</a>.  </p>
-          <p class=MsoNoSpacing>Not sure what's out there?  <br>
-          Here are some key terms to become familiar with.</p>
+          <p class=MsoNoSpacing>Not sure what's out there?<br>
+            There are a variety of different points of entry for new graduates.<br>
+          </p>
           <hr />
           <ul>
-            <li><b class="MsoNoSpacing">Entry-level jobs:</b>  Most common opportunity for new
+            <li><b class="MsoNoSpacing">Entry-level jobs:</b>  <br>
+              Most common opportunity for new
               graduates.  Employers may have formal
               training programs or you may learn the ropes "on the
               job" with colleagues in your department.  </li>
             <li><b class="MsoNoSpacing">Rotational
-              programs</b>:  Entry-level jobs that
-              involve rotations typically through different functional areas of the business
+              programs</b>:<br>
+              Entry-level jobs that
+              involve rotations  through different functional areas of the business
               (example:  4 months in sales, 4 months in
               quality, 4 months in production).  Placement upon completion depends upon interest, performance, and
               availability.  </li>
             <li><b class="MsoNoSpacing">Leadership
-              development programs:  </b>Accelerated
-              leadership track typically with rotations through different locations or
+              development programs:<br>
+            </b>Accelerated
+              leadership track with rotations through different locations or
               business units (example:  6 months in
-              Energy, 6 months in Aviation, 6 months in Healthcare).  Placement upon completion depends upon  interest, performance, and availability.  </li>
+              Energy, 6 months in Aviation, 6 months in Healthcare).  Placement upon completion depends upon interest, performance, and availability.  </li>
             <li><b class="MsoNoSpacing">Contract
-              positions:  </b>Less common point of
-              entry for new graduates, but should be a serious consideration in a difficult
+              positions:<br>
+            </b>Less common point of
+              entry for new graduates, but should be a serious consideration in a challenging 
               job market.   These are short-term
-              positions in your field that can in some cases be extended or lead to a
-              permanent entry-level job.    </li>
-            <li><b class="MsoNoSpacing">Experienced positions:</b>  Most common for
-              non-traditional new graduates with prior full-time work or military experience.  As a new graduate, you will
+              positions in your field that can (in some cases) lead to permanent entry-level jobs.    </li>
+            <li><b class="MsoNoSpacing">Experienced positions:</b><br>
+              Most common for
+              non-traditional new graduates with prior work or military experience.  As a new graduate, you will
               also be considered for opportunities noted above.     </li>
           </ul>
         </div>

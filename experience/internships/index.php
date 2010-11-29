@@ -54,17 +54,23 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                                 <hr />
                                 <strong>Options for experience</strong>                                                                  
                                   <ul>
-                                    <li><strong>Internships:</strong>  Career-related experience during the  summer or semester, part-time or full-time and usually paid.<br>
-                                      Start  with <a href="../ePACK">ePACK</a>.  [Guidelines for <a href="../../pdfs/semester_internship.pdf">semester (full-time)</a> internships.]</li>
+                                    <li><strong>Internships:</strong>  <br>
+                                      Career-
+                                      related experience during the  summer or semester, part-time or full-time and usually paid.<br>
+                                    Start  with <a href="../ePACK">ePACK</a>.  [Guidelines for <a href="../../pdfs/semester_internship.pdf">full-time semester</a> internships.]</li>
+                                    <li><strong>Externships:</strong><br>
+                                      Career-related experience for  first year engineering students during spring break.  Externs job shadow full-time for 1-2 days and  are unpaid. Start with <a href="../../pdfs/extern_student.pdf">externships</a> / <a href="/pdfs/extern_quotes.pdf">student quotes</a>. </li>
                                   
-<li><strong>Externships:</strong>  Career-related experience for  first year engineering students during spring break.  Externs job shadow full-time for 1-2 days and  are unpaid. Start with <a href="../../pdfs/extern_student.pdf">externships</a> / <a href="/pdfs/extern_quotes.pdf">student quotes</a>. </li>
-                                  
-<li><strong>Co-op:</strong>   Career-related experience involving three rotations of work alternating  with semesters of school. Co-ops work  full-time and are paid. Start with a <a href="http://www.ncsu.edu/co-op_ed/">Co-op orientation</a>.  </li>
+<li><strong>Co-op:</strong><br>
+  Caree-related experience involving three rotations of work alternating  with semesters of school. Co-ops work  full-time and are paid. Start with a <a href="http://www.ncsu.edu/co-op_ed/">Co-op orientation</a>.  </li>
                                   
 <li><strong>Research:</strong>  Career-related experience during the summer  or semester working with faculty contributing to a project.  Students work full-time or part-time and are  usually paid. Start with <a href="http://www.ncsu.edu/undergrad-research/">Undergraduate Research</a> and also check directly with faculty associated with <a href="http://www.ncsu.edu/research/index.php">labs</a> of interest.  </li>
-<li><strong>Student organizations</strong>:  Career-related experience gained through  projects and activities sponsored by student groups. Start with the list of <a href="http://ncsu.orgsync.com/">student organizations</a>. </li>
-<li><strong>Projects: </strong>Career-related experience gained through hands-on projects in class, in the community, or on your own.<strong> </strong></li>
-<li><strong>Volunteer:</strong>  Career-related experience gained through  service. Start with <a href="http://www.ncsu.edu/csleps/service"> CSLEPS</a>.    </li>
+<li><strong>Student organizations</strong>:<br>
+  Career-related experience gained through  projects and activities sponsored by student groups. Start with the list of <a href="http://ncsu.orgsync.com/">student organizations</a>. </li>
+<li><strong>Projects: </strong><br>
+  Career-related experience gained through hands-on projects in class, in the community, or on your own.</li>
+<li><strong>Volunteer:</strong><br>
+  Career-related experience gained through  service. Start with <a href="http://www.ncsu.edu/csleps/service"> CSLEPS</a>.    </li>
                                   </ul>
 <hr />
                                   <p><strong>Need help with your decision? </strong><br>
