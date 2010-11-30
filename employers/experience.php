@@ -43,10 +43,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </div>
               </div>
                <p>NC State students actively seek career-related experience
-            prior to graduation -- to develop skills, learn about their profession, increase
+            prior to graduation -- to learn about their profession, develop skills, increase
             confidence, offer fresh ideas, and clarify career decisions.  Thank you for providing outstanding
-            experiences for NC State students!   Choose the options that work best for your
-            organization.      </p>
+            experiences for NC State students!   Choose the options that work best for you.     </p>
           <ul>
             <li><b>Internships:</b>  The most flexible for you and the student, during
               the summer or semester (part-time or full-time).  Internships are usually paid, academic credit

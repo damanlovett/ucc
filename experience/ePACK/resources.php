@@ -54,10 +54,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li><a href="/experience/ePACK/index.php"><strong>ePACK</strong></a>:   Find job postings, on-campus interviews,  employer information sessions, and other career events. Update your ePACK account each semester and partcipate fully!  
           </ul>
           <ul>
-            <li><a href="../jobsearch/careersearch.php"><strong>Career  Search</strong></a>:  Find potential employers  and key contacts in specific industries or  locations through this extensive database  of employers.  Apply directly to  contacts. </li>
+            <li><a href="../jobsearch/careersearch.php"><strong>Career Search</strong></a>: Find potential employers  and key contacts in specific industries or  locations through this extensive database  of employers.  Apply directly to  contacts. </li>
           </ul>
           <ul>
-            <li><a href="../jobsearch/eleads.php"><strong>eLeads</strong></a>:   Find potential employers and key  contacts in fields of particular interest to CHASS, Design, Management and Natural Resources majors.  Apply directly to contacts.   </li>
+            <li><strong><a href="../jobsearch/eleads.php">eLeads</a></strong>: Find potential employers and key  contacts in fields of particular interest to CHASS, Design, Management and Natural Resources majors.  Apply directly to contacts.   </li>
           </ul>
           <ul>
             <li><strong>Social media</strong>:  Update  your <a href="http://www.facebook.com/">Facebook</a> status or <a href="http://twitter.com/">Twitter</a> timeline with information about your search.   New graduates may benefit from <a href="http://www.linkedin.com">LinkedIn</a>, a professional networking site.  Your contacts may be aware of  opportunities!  </li>
@@ -72,7 +72,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li><strong>Company websites:</strong>  Apply for internships and jobs posted on  company websites.  Enhance your chances  by knowing <a href="http://www.jobweb.com/resumesample.aspx?id=868&terms=online+job+application">how  to apply on-line</a>. </li>
           </ul>
           <ul>
-            <li><a href="../jobsearch/sites.php"><strong>Select sites</strong></a>: <strong> </strong>Use  sites selected by UCC staff to help you with your search.</li>
+            <li><strong><a href="../jobsearch/sites.php">Select sites</a></strong>: Use sites selected by UCC staff to help you with your search.</li>
           </ul>
           <ul>
             <li><strong>Alumni  contacts:  </strong>Relocating to  a specific city?  Use the <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=313">alumni network</a> to find a contact.  Looking for NC State alumni associated with specific  organizations?  Access the alumni in database  through <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=590">STAT</a> (students) or <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=305&expandNav=1">traditional membership</a> (new graduates).</li>

@@ -67,9 +67,9 @@ href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a><br>
           <hr />
           <p><b>Other resources @ NC State</b>: </p>
 <ul>
-            <li>Recruit Co-ops</li>
-            <li>Recruit MBAs</li>
-            <li>Recruit experienced alumni</li>
+            <li>Recruit <a href="http://www.mgt.ncsu.edu/mba/career-resources/">MBAs</a></li>
+            <li>Recruit <a href="http://www.ncsu.edu/co-op_ed/employers/">Co-ops</a></li>
+            <li>Recruit <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=330">experienced alumni</a></li>
             <li>Recruit as <a
 href="mailto:bridget_yarborough@ncsu.edu">3rd party recruiter</a> <br>
             [<a href="/pdfs/3rd-party.pdf">View our policies</a>]            </li>
@@ -84,9 +84,7 @@ href="mailto:bridget_yarborough@ncsu.edu">3rd party recruiter</a> <br>
       <?php require_once('../includefiles/epacklogin.php'); ?>
       <div id="navMedia" class="sMedia">
         <?php require_once('../includefiles/socialmedia.php');?>
-      </div>
-    </div>
-  </div>
+      </div></div></div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
     <?php require_once('../includefiles/footer.php');?>

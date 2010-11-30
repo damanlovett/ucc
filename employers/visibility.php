@@ -49,30 +49,29 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li><b>Hire
                 students  <br>
               </b>Create positive P.R. for
-                your organization when students share outstanding experiences with classmates
-                and faculty.  Hire interns and co-ops to identify
+                your organization by hiring students who will return to campus and share their experiences with others!  Hire interns and co-ops to identify
                 talent early and groom future leaders.</li>
             <li><b>Use
                   ePACK<br>
               </b>Post internships and
                   entry-level jobs, search the database for potential candidates, arrange
-                  on-campus interviews, and schedule information sessions.  Login to <a href="epack.php">ePACK</a>.</li>
+                  on-campus interviews, and schedule information sessions.  ePACK is the most visibily system at NC State! Login to <a href="epack.php">ePACK</a>.</li>
             <li><b>Attend
                   career fairs<br>
-              </b>Meet a wide variety of
-                  students in majors of interest.  View list of <a href="events/fairs.php">career fairs</a>.</li>
+              </b>Be visible to a wide range of
+                  students in majors of interest.  View list of <a href="../events/fairs.php">career fairs</a>.</li>
             <li><b>Target student organizations<br>
               </b>Identify
-                  professional and honor societies or social and interest groups to form
-                  partnerships and provide opportunities.  Suggest a presentation, support a project, or invite a group for a site
+                  organizations of interest and inquire about ways to get involved. Suggest a presentation, support a project, or invite a group for a site
                   
               visit.  Identify specific <a href="http://ncsu.orgsync.com/">student
-                    organization</a>s to target. </li>
+                    organizations</a> to target. </li>
             <li><b>Offer
                   practice  interviews or resume critiques<br>
-              </b>Choose a half day or full-day to come to the UCC to meet individually with students.  Select specific majors or open it to all
-                  students.  Contact Bridget Yarborough, Coordinator of Recruiting -- <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>.</li>
-            <li> <b>Advertise with campus media</b>
+              </b>Show students your commitment to helping them prepare. Come to campus for half or full day to conduct practice interviews or resume critiques. At the same time, meet students of potential interest! Contact Bridget Yarborough, Coordinator of Recruiting -- <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>.</li>
+            <li> <b>Advertise with campus media</b><br>
+              Get in front of students through a form of campus media.<br>
+              <a href="../experience/ePACK/guide.php">Job &amp; Internship Guide</a> -- UCC publication
               <br>
               <a
 href="http://www.technicianonline.com/" class="MsoNoSpacing">Technician</a> -- student newspaper<br>
@@ -82,17 +81,16 @@ href="http://www.ncsu.edu/nubian/" class="MsoNoSpacing">Nubian
                     <a
 href="http://www.ncsu.edu/agromeck/" class="MsoNoSpacing">Agromeck</a> -- student yearbook<br>
                     <a href="http://www.wknc.org/" class="MsoNoSpacing">WKNC</a> -- student radio station<br>
-                    Job &amp; Internship Guide -- UCC publication </li>
+            </li>
             <li> <b>Support
                   the college<br>
-              </b>Investigate opportunities
-                  to support students and faculty in a specific college or department through
+              </b>Become visible at the college level by looking for ways to support  students and faculty in specific colleges or departments through
               scholarships, gifts, and service.  Find a <a href="http://www.ncsu.edu/giving/foundations.php">college foundation</a>.</li>
             <li> <b>Ask
                   for help<br>
-              </b>We are pleased to explore
-              ways to help increase your visibility with students of interest.  <br>
-              Consult with <a href="about/staff">UCC staff</a>.  </li>
+              </b>We look forward to helping you explore
+              ways to increase your visibility on campus!  <br>
+              Consult with <a href="../about/staff.php">UCC staff</a>.  </li>
           </ul>
         </div>
       </div>
