@@ -1,17 +1,9 @@
-<h2 class="fairs">Events and <span>Career Fairs</span></h2>
+<h2 class="fairs"><a href="/career/events/">Events and <span>Career Fairs</span></a></h2>
 		<ul>
-			<li><a href="/events/epackevents.php">ePACK</a></li>
-		  <li><a href="/events/fairs.php">Career Fairs</a></li>
-			<li><a href="/events/campusinterviews.php">On-Campus Interviews</a></li>
-			<li><a href="/events/infosessions.php">Information Sessions</a></li>
-			<li><a href="/events/orgs.php">Student Organizations</a></li>
-			<li><a href="/events/presentations.php">UCC Presentations</a></li>
+			<li><a href="/career/events/epackevents.php">ePACK</a></li>
+		  	<li><a href="/career/events/fairs.php">Career Fairs</a></li>
+			<li><a href="/career/events/campusinterviews.php">On-Campus Interviews</a></li>
+			<li><a href="/career/events/infosessions.php">Information Sessions</a></li>
+			<li><a href="/career/events/orgs.php">Student Organizations</a></li>
+			<li><a href="/career/events/presentations.php">UCC Presentations</a></li>
 		</ul>
-<?php /*?>		<ul>
-			<li><a href="/uccNav/events/epackevents.php">ePACK</a></li>
-		  <li><a href="/uccNav/events/fairs.php">Career Fairs</a></li>
-			<li><a href="/uccNav/events/campusinterviews.php">On-Campus Interviews</a></li>
-			<li><a href="/uccNav/events/infosessions.php">Information Sessions</a></li>
-			<li><a href="/uccNav/events/orgs.php">Student Organization</a></li>
-			<li><a href="/uccNav/events/presentations.php">UCC Presentations</a></li>
-		</ul><?php */?>

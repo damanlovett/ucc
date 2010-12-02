@@ -2,8 +2,8 @@
 	<li class="footerList ltColumn">&copy; <?php echo date('Y');?> University Career Center</li>
     <li class="footerList rtColumn">
     	<ul>
-        	<li><a href="/sitemap/index.php">sitemap</a></li>
-            <li><a href="/privacy/index.php">policy</a></li>
+        	<li><a href="/career/sitemap/index.php">sitemap</a></li>
+            <li><a href="/career/privacy/index.php">policy</a></li>
             <li><a href="mailto:career_center@ncsu.edu">web developer</a></li>
         </ul>
     </li>

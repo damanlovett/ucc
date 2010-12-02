@@ -9,6 +9,7 @@
 <script src="../jquery/js/jquery-1.4.2.min.js" type="text/javascript"></script>
 <script src="../jquery/js/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
 <link href="../jquery/css/ucc/jquery-ui-1.8.2.custom.css" rel="stylesheet" type="text/css">
+<?php require_once('../includefiles/init.php');?>
 </head>
 
 <body>
