@@ -80,7 +80,7 @@ var mygallery=new fadeSlideShow({
 		["/career/img/header2/brickyard.jpg", "", "", "Sharing your job search experience with a friend can be rewarding."],
 		["/career/img/header2/ambassadors.jpg", "", "", "The UCC Career Ambassador program is a fun and rewarding experience."],
 		["/career/img/header2/interview.jpg", "", "", "The UCC provides on campus interviewing for employers hiring NC State students."],
-		["/career/img/img/header2/ambassadors2.jpg", "", "", "UCC Career Ambassadors can help with resumes."]//<--no trailing comma after very last image element!
+		["/career/img/header2/ambassadors2.jpg", "", "", "UCC Career Ambassadors can help with resumes."]//<--no trailing comma after very last image element!
 
 	],
 	displaymode: {type:'auto', pause:10000, cycles:0, wraparound:false, randomize:true},
