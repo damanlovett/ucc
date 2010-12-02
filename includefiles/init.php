@@ -52,7 +52,7 @@ $(document).ready(function(){
 </script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 
-<script type="text/javascript" src="/includefiles/js/slideshow.js">
+<script type="text/javascript" src="/career/includefiles/js/slideshow.js">
 
 
 /***********************************************
@@ -70,17 +70,17 @@ var mygallery=new fadeSlideShow({
 	wrapperid: "fadeshow1", //ID of blank DIV on page to house Slideshow
 	dimensions: [720, 165], //width/height of gallery in pixels. Should reflect dimensions of largest image
 	imagearray: [
-		["/img/header2/ambassadors.jpg", "", "", "The UCC Career Ambassador program is a fun and rewarding experience."],
-		["/img/header2/ambassadors2.jpg", "", "", "UCC Career Ambassadors can help with resumes."],
-		["/img/header2/interview.jpg", "", "", "The UCC provides on campus interviewing for employers hiring NC State students."],
-		["/img/header2/studygrass.jpg", "", "", "Students can relax on campus and read the UCC Job Search Guide."],
-		["/img/header2/brickyard.jpg", "", "", "The brickyard is an exciting place to talk about your job search."],
-		["/img/header2/brickyard2.jpg", "", "", "Sharing your job search experience with a friend can be rewarding."],
-		["/img/header2/engineering.jpg", "", "", "The UCC & COE partners together to provide career events."],
-		["/img/header2/brickyard.jpg", "", "", "Sharing your job search experience with a friend can be rewarding."],
-		["/img/header2/ambassadors.jpg", "", "", "The UCC Career Ambassador program is a fun and rewarding experience."],
-		["http://ucc.lovettcreations.org/img/header2/interview.jpg", "", "", "The UCC provides on campus interviewing for employers hiring NC State students."],
-		["http://ucc.lovettcreations.org/img/header2/ambassadors2.jpg", "", "", "UCC Career Ambassadors can help with resumes."]//<--no trailing comma after very last image element!
+		["/career/img/header2/ambassadors.jpg", "", "", "The UCC Career Ambassador program is a fun and rewarding experience."],
+		["/career/img/header2/ambassadors2.jpg", "", "", "UCC Career Ambassadors can help with resumes."],
+		["/career/img/header2/interview.jpg", "", "", "The UCC provides on campus interviewing for employers hiring NC State students."],
+		["/career/img/header2/studygrass.jpg", "", "", "Students can relax on campus and read the UCC Job Search Guide."],
+		["/career/img/header2/brickyard.jpg", "", "", "The brickyard is an exciting place to talk about your job search."],
+		["/career/img/header2/brickyard2.jpg", "", "", "Sharing your job search experience with a friend can be rewarding."],
+		["/career/img/header2/engineering.jpg", "", "", "The UCC & COE partners together to provide career events."],
+		["/career/img/header2/brickyard.jpg", "", "", "Sharing your job search experience with a friend can be rewarding."],
+		["/career/img/header2/ambassadors.jpg", "", "", "The UCC Career Ambassador program is a fun and rewarding experience."],
+		["/career/img/header2/interview.jpg", "", "", "The UCC provides on campus interviewing for employers hiring NC State students."],
+		["/career/img/img/header2/ambassadors2.jpg", "", "", "UCC Career Ambassadors can help with resumes."]//<--no trailing comma after very last image element!
 
 	],
 	displaymode: {type:'auto', pause:10000, cycles:0, wraparound:false, randomize:true},

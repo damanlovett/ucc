@@ -1,5 +1,5 @@
 <div id="slider1" class="sliderwrapper">
-  <div class="contentdiv"> <img src="/img/homeheader/ambassadorprogram.jpg" alt="img" width="977" height="202" border="0" usemap="#slide1">
+  <div class="contentdiv"> <img src="img/homeheader/ambassadorprogram.jpg" alt="img" width="977" height="202" border="0" usemap="#slide1">
     <map name="slide1">
       <area shape="rect" coords="643,112,736,142" href="/about/ambassadors.php" alt="Learn More">
     </map>
