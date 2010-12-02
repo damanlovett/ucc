@@ -11,7 +11,6 @@
 
    <link rel="stylesheet" type="text/css" href="contentslider.css" />
    <link rel="stylesheet" href="css/uccdefaultNAV.css" type="text/css">
-<link rel="stylesheet" type="text/css" href="http://www.ncsu.edu/brand/utility-bar/iframe/css/utility_bar_iframe.css" media="screen" />
 <script type="text/javascript" src="contentslider.js">
 
 /***********************************************
@@ -33,12 +32,13 @@
 
 </head>
 <body>
-
-<iframe name="ncsu_branding_bar" id="ncsu_branding_bar" frameborder="0" src="http://www.ncsu.edu/brand/utility-bar/iframe/index.php?color=red&amp;inurl=ucc.lovettcreations.org&amp;center=yes" scrolling="no">  
+<link rel="stylesheet" type="text/css" href="http://www.ncsu.edu/brand/utility-bar/iframe/css/utility_bar_iframe.css" media="screen" /> 
+<iframe name="ncsu_branding_bar" id="ncsu_branding_bar" frameborder="0" src="http://www.ncsu.edu/brand/utility-bar/iframe/index.php?color=red&amp;inurl=ncsu.edu/career&amp;center=yes" scrolling="no">  
 Your browser does not support inline frames or  
 is currently configured  not to display inline frames.<br /> 
 Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>.
 </iframe>
+
 <div id="doc4" class="yui-t7">
 
 <div id="hd" role="navigation">

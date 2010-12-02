@@ -70,13 +70,13 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <tr>
               <td width="50%" valign=top><h2>Design</h2>
                 <ul>
-                  <li>Tameka Whitaker<br />
+                  <li>Tameka Whitaker, 223 Brooks, 515-8325<br />
                     <a href="mailto:tameka_allen@ncsu.edu" class="ss_sprite ss_email" title="tameka_allen@ncsu.edu"></a> <span class="trigger ss_sprite ss_user" title="Bio for Tameka Allen">&nbsp;</span> 
                                   
                   <div class="bio toggle_container">
                     <p><strong>Tameka Whitaker, M.S.<br />
                         Career and Academic Adviser </strong><br>
-            <a href="mailto:tameka_whitaker@ncsu.edu">tameka_whitaker@ncsu.edu</a> -- 223 Brooks, 515-8325<br>
+            <a href="mailto:tameka_whitaker@ncsu.edu">tameka_whitaker@ncsu.edu</a> <br>
             Tameka Allen serves students in the College of Design. Prior to working in the
             College of Design, she held various positions in the Registration and Records
             Office at NC State and has worked on the campuses of UNC Greensboro and NC
@@ -102,9 +102,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 </ul>
                 <h2>Engineering</h2>
                 <ul>
-                  <li>Beverly Marchi <br>
-                    majors:  
-                    biological, civil, construction, environmental, materials, mechanical, mechatronics<br />
+                  <li>Beverly Marchi – majors: BAE, CCEE, JEM, MAE,MSE<br />
                     <a href="mailto:beverly_marchi@ncsu.edu" class="ss_sprite ss_email" title="beverly_marchi@ncsu.edu"></a> <span class="trigger ss_sprite ss_user" title="Bio for Beverly Marchi">&nbsp;</span>                 
                   <div class="bio toggle_container"><p><strong>Beverly Marchi, M.A.<br />Assistant Director</strong><br>
             <a href="mailto:beverly_marchi@ncsu.edu">beverly_marchi@ncsu.edu</a><br>
@@ -115,9 +113,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             Sciences from the University of Massachusetts at Amherst and a Master of Arts
             in Counseling from Boston College. </p>
 </div></li>
-                  <li>D.R. Ingram<br>
-                    majors:  
-chemical, industrial<br />
+                  <li>D.R. Ingram – majors: CHE, IE <br />
                   <a href="mailto:dr_ingram@ncsu.edu" class="ss_sprite ss_email" title="dr_ingram@ncsu.edu"></a> <span class="trigger ss_sprite ss_user" title="Bio for Tameka Allen">&nbsp;</span>                 
                   <div class="bio toggle_container"><p><strong>D.R. Ingram, M.S.<br />Assistant Director</strong><br>
             <a href="mailto:dr_ingram@ncsu.edu">dr_ingram@ncsu.edu</a><br>
@@ -129,9 +125,7 @@ chemical, industrial<br />
             received a Bachelor of Arts in History (Teacher Education Option) from NC State
             and a Master of Science in College Student Personnel Services from Miami
             University.</p></div></li>
-                  <li>Leslie Rand-Pickett<br>
-                    majors:  
-                    computer, computer science, electrical, integrated manufacturing, nuclear, operations research<br />
+                  <li>Leslie Rand-Pickett – majors: CSC, ECE, IMSE, NE, OR<br />
                     <a href="mailto:leslie_randpickett@ncsu.edu" class="ss_sprite ss_email" title="leslie_randpickett@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Leslie Rand-Pickett">&nbsp;</span>
                     <div class="bio toggle_container">
                       <p><strong>Leslie Rand-Pickett, M.Ed.<br />
@@ -141,9 +135,7 @@ chemical, industrial<br />
                     </div>
                     </li>
                   
-                <li>Leslie Bowman<br>
-                  majors:  
-                  biomedical<br />
+                <li>Leslie Bowman – BME <br />
                       <a href="mailto:leslie_bowman@ncsu.edu" class="ss_sprite ss_email" title="leslie_bowman@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Leslie Bowman">&nbsp;</span>
                       <div class="bio toggle_container">
                           <p><strong>Leslie Bowman, M.A.<br />
@@ -161,9 +153,7 @@ chemical, industrial<br />
                 </ul>                
                 <h2>Humanities &amp; Social Sciences</h2>
                 <ul>
-                  <li>Dr. Woody Catoe<br>
-                    majors:  
-last names I-Z<br />
+                  <li>Dr. Woody Catoe – last names: I-Z<br />
                     <a href="mailto:woody_catoe@ncsu.edu" class="ss_sprite ss_email" title="woody_catoe@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Dr. Woody Catoe">&nbsp;</span>                 
                   <div class="bio toggle_container"><p><strong>Woody Catoe, Ed.D.<br />Assistant Director</strong><br>
             <a href="mailto:woody_catoe@ncsu.edu">woody_catoe@ncsu.edu</a><br>
@@ -179,9 +169,7 @@ last names I-Z<br />
             in Counselor Education from NC State. Woody is also a NC Licensed Professional
             Counselor.</p></div></li>
                   
-                  <li>Sara Concini<br>
-                    majors:  
-last names A-H<br />
+                  <li>Sara Concini –  last names: A-H<br />
                     <a href="mailto:sara_concini@ncsu.edu" class="ss_sprite ss_email" title="sara_concini@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Sara Concini ">&nbsp;</span>                 
                   <div class="bio toggle_container"><p><strong>Sara Concini, M.S.<br />
                   Career Counselor</strong><br>
@@ -199,12 +187,12 @@ last names A-H<br />
                 </ul>
                 <h2>Management</h2>
                 <ul>
-                  <li>Dr. Janet Rakes</li>
+                  <li>Dr. Janet Rakes, 2150 Nelson, 515.5565</li>
                 <li>                  <a href="mailto:sara_concini@ncsu.edu" class="ss_sprite ss_email" title="sara_concini@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Sara Concini ">&nbsp;</span>
                   <div class="bio toggle_container">
                     <p><strong>Janet Rakes, Ph.D.<br />
     Career Coach</strong><br>
-    <a href="mailto:janet_rakes@ncsu.edu">janet_rakes@ncsu.edu</a> -- 2150 Nelson, 515-5565<br>
+    <a href="mailto:janet_rakes@ncsu.edu">janet_rakes@ncsu.edu</a><br>
     Dr. Janet Rakes serves students in the College of Management. Previously she worked as a Middle Grades Academy Coordinator in the College of Education at NC State University, a Career Counselor in the Career Services Center at the University of North Carolina at Greensboro, and a Language Arts and Social Studies teacher in the Virginia and North Carolina Public School Systems. Janet earned her Bachelor of Arts degree in English and Psychology, her Master of Arts and Master of Science degrees in Education and Counseling, and her PhD in Curriculum and Teaching from the University of North Carolina at Greensboro. 
                     <a href="mailto:janet_rakes@ncsu.edu" class="ss_sprite ss_email" title="janet_rakes@ncsu.edu"></a></p>
                   </div>
@@ -250,7 +238,7 @@ last names A-H<br />
             Administrative Staff 
             </caption>
             <tr>
-              <td width="49%" valign=top><h2>On-campus Recruiting</h2>
+              <td width="54%" valign=top><h2>On-campus Recruiting</h2>
                 <ul>
                   <li>Bridget Yarborough, <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>&nbsp;</li>
                 </ul>
@@ -258,7 +246,7 @@ last names A-H<br />
                 <ul>
                   <li>Eddie D. Lovett, II, <a href="mailto:eddie_lovett@ncsu.edu">eddie_lovett@ncsu.edu</a>&nbsp;</li>
                 </ul></td>
-              <td width="51%" valign=top><h2>Administrative Assistants</h2>
+              <td width="46%" valign=top><h2>Administrative Assistants</h2>
                 <ul>
                 <ul>
                   <li>Della Shepherd, <a href="mailto:della_sheperd@ncsu.edu">della_sheperd@ncsu.edu</a><br>
@@ -268,18 +256,18 @@ last names A-H<br />
           </table>
           </div>
           
-          <div id="tab-3"><table width="572" class="basicTable">
+          <div id="tab-3"><table width="547" class="basicTable">
             <caption>
             Satellite Career Centers
             </caption>
             <tr>
-              <td width="162"><a href="http://harvest.cals.ncsu.edu/career/">CALS Career Services</a></td>
-              <td width="398">– resources for students in the College of Agriculture
+              <td width="151"><a href="http://harvest.cals.ncsu.edu/career/">CALS Career Services</a></td>
+              <td width="363">– help for students in the College of Agriculture
                 &amp; Life Sciences </td>
             </tr>
             <tr>
               <td><a href="http://www.tx.ncsu.edu/student_services/career_services.html">Textiles Career Services</a></td>
-              <td>– resources for students in the College of Textiles</td>
+              <td>– help for students in the College of Textiles</td>
             </tr>
           </table>
           </div>
@@ -303,7 +291,7 @@ last names A-H<br />
             </tr>
             <tr>
               <td><a href="http://www.jobweb.com/parents.aspx?id=680">Parent/Family Resources </a></td>
-              <td> – resources to help your student</td>
+              <td> – help for family at home </td>
             </tr>
           </table>
           </div>
