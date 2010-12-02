@@ -32,8 +32,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
               <ul>
-                <li class="first"><a href="/">Home</a></li>
-                <li> <a href="/about">About The Career Center</a> </li>
+                <li class="first"><a href="/career/">Home</a></li>
+                <li> <a href="/career/about">About The Career Center</a> </li>
                 <li class="last">Career Ambassadors</li>
               </ul>
             </div>
@@ -113,7 +113,20 @@ href="../pdfs/ca-alumni.pdf">meet our alumni</a>] </li>
         </div>
       </div>
     </div>
+ <div class="yui-b">
+      <div id="navTop" class="sideTop">
+        <?php require_once('../includefiles/nav/aboutNav.php');?>
+      </div>
+      <?php require_once('../includefiles/epacklogin.php'); ?>
+      <div id="navMedia" class="sMedia">
+        <?php require_once('../includefiles/socialmedia.php');?>
+      </div>
     </div>
   </div>
+  <!-- End of bd -->
+  <div id="ft" role="contentinfo">
+    <?php require_once('../includefiles/footer.php');?>
+  </div>
+</div>
 </body>
 </html>

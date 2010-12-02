@@ -36,8 +36,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
                 <ul>
-                <li class="first"><a href="/">Home</a></li>
-                <li> <a href="/about">About The Career Center</a> </li>
+                <li class="first"><a href="/career/">Home</a></li>
+                <li> <a href="/career/about">About The Career Center</a> </li>
                 <li class="last">Hours Appointments</li>
               </ul>
               </div>
@@ -49,7 +49,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             search strategies. 
             Call 919.515.2396 to
               make an appointment with your <a
-href="file:///\\Share7_server\share7\CPP\Career%20Web%20Site%20--%202010\about\staff.php">career counselor</a>. Appointments are typically 30 minutes in
+href="/career/about/staff.php">career counselor</a>. Appointments are typically 30 minutes in
           length and available throughout the year.   </p>
           <p><b>Walk-ins</b>  <br>
             For quick career-related questions, stop by during walk-in hours,

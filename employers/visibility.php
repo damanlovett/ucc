@@ -35,7 +35,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
                 <ul>
-                <li class="first"> <a href="/">Home</a> </li>
+                <li class="first"> <a href="/career/">Home</a> </li>
                 <li> <a href="./">Access For Employers</a> </li>
                 <li class="last"> Visibility on campus </li>
               </ul>

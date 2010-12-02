@@ -37,7 +37,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
                 <ul>
-                <li class="first"> <a href="/">Home</a> </li>
+                <li class="first"> <a href="/career/">Home</a> </li>
                 <li class="last"> About the career center </li>
               </ul>
               </div>
@@ -52,7 +52,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             motivated to find career opportunities following college - we share your
             excitement and can help you get there successfully by making the steps more
             manageable.</p>
-          <p>[<a href="conduct.php">Professionalism at the UCC</a>]</p>
+          <p>[&nbsp;<a href="conduct.php">Professionalism at the UCC</a>&nbsp;]</p>
         </div>
       </div>
     </div>

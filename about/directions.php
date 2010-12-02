@@ -36,8 +36,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
                 <ul>
-                <li class="first"><a href="/">Home</a></li>
-                <li> <a href="/about">About The Career Center</a> </li>
+                <li class="first"><a href="/career/">Home</a></li>
+                <li> <a href="/career/about">About The Career Center</a> </li>
                 <li class="last">Directions</li>
               </ul>
             </div>

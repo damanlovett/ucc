@@ -33,13 +33,12 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
                 <ul>
-                <li class="first"> <a href="#">Home</a> </li>
+                <li class="first"> <a href="/career/">Home</a> </li>
                 <li class="last">NCSU Career on The Web</li>
               </ul>
               </div>
               </div>
 
-          <p>&nbsp;</p>
 <p>We know you’re busy and want to stay connected to the  UCC.  To this end, we provide  a  variety of venues to do this. Please take a moment to explore and participate! </p>
           <p>Your ideas and feedback are important as we continue to develop these services. <br>
           <a href="career_center@ncsu.edu">career_center@ncsu.edu</a>     </p>

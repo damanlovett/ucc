@@ -36,15 +36,13 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
                 <ul>
-                <li class="first"> <a href="/">Home</a> </li>
+                <li class="first"> <a href="/career/">Home</a> </li>
                 <li> <a href="./">Access for Emplyer</a> </li>
                 <li class="last">Entry-level jobs</li>
               </ul>
             </div>
           </div>
 
-         
-          <p>&nbsp;</p>
           <p>NC State students graduate in May, summer, and  December.  While many students continue  on to graduate or professional school, most will seek entry-level jobs.  Thank you for providing outstanding  opportunities for NC State graduates!</p>
           <p><strong>Start with ePACK </strong></p>
           <ul>
