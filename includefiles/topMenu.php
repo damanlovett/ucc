@@ -1,4 +1,4 @@
- <h1><a href="/">UCC Home</a></h1>
+ <h1><a href="/career/">UCC Home</a></h1>
 <ul class="topMenu">
 			<li><a class="major" href="/career/major" title="Choosing a Major">Choosing a Major</a></li>
 			<li><a class="experience" href="/career/experience" title="Getting Experience">Getting Experience</a></li>
