@@ -1,27 +1,27 @@
 <div id="slider1" class="sliderwrapper">
   <div class="contentdiv"> <img src="img/homeheader/ambassadorprogram.jpg" alt="img" width="977" height="202" border="0" usemap="#slide1">
     <map name="slide1">
-      <area shape="rect" coords="643,112,736,142" href="/about/ambassadors.php" alt="Learn More">
+      <area shape="rect" coords="643,112,736,142" href="/career/about/ambassadors.php" alt="Learn More">
     </map>
   </div>
   <div class="contentdiv"> <img src="img/homeheader/resume.jpg" alt="img" width="977" height="202" border="0" usemap="#slide2">
     <map name="slide2">
-      <area shape="rect" coords="642,112,738,141" href="experience/resumes/index.php" alt="Learn More">
+      <area shape="rect" coords="642,112,738,141" href="/career/experience/resumes/index.php" alt="Learn More">
     </map>
   </div>
   <div class="contentdiv"> <img src="img/homeheader/careercourses.jpg" alt="img" width="977" height="202" border="0" usemap="#slide3">
     <map name="slide3">
-      <area shape="rect" coords="637,111,739,142" href="/major/courses.php" alt="Learn More">
+      <area shape="rect" coords="637,111,739,142" href="/career/major/courses.php" alt="Learn More">
     </map>
   </div>
   <div class="contentdiv"> <img src="img/homeheader/careerfair.jpg" alt="img" width="977" height="202" border="0" usemap="#slide4">
     <map name="slide4">
-      <area shape="rect" coords="637,113,740,140" href="/events/" alt="Learn More">
+      <area shape="rect" coords="637,113,740,140" href="/career/events/" alt="Learn More">
     </map>
   </div>
   <div class="contentdiv"> <img src="img/homeheader/connected.jpg" alt="img" width="977" height="202" border="0" usemap="#slide5">
     <map name="slide5">
-      <area shape="rect" coords="639,110,737,143" href="/ncsuweb/" alt="Learn More">
+      <area shape="rect" coords="639,110,737,143" href="/career/ncsuweb/" alt="Learn More">
     </map>
   </div>
 </div>
