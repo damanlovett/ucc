@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsFairs" value="name:title;datatype:string,name:eventdate;datatype:string,name:starttime;datatype:string,name:endtime;datatype:string,name:id;datatype:int,name:id;datatype:int" />
+</info>

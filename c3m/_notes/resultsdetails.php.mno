@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsc3mregistration" value="name:title;datatype:int,name:eventdate;datatype:int,name:starttime;datatype:int,name:endtime;datatype:int,name:location;datatype:int,name:eventdescription;datatype:int,name:orgname;datatype:int,name:contactfirst;datatype:int,name:contactlast;datatype:int,name:email;datatype:int,name:officeaddress;datatype:int,name:contactphone;datatype:int,name:expectattendance;datatype:int,name:carolcontact;datatype:int,name:notes;datatype:int,name:id;datatype:int" />
+	<infoitem key="UD_rsFairs" value="name:id;datatype:int,name:title;datatype:string,name:eventdate;datatype:string,name:starttime;datatype:string,name:endtime;datatype:string,name:location;datatype:string,name:eventdescription;datatype:string,name:orgname;datatype:string,name:contactfirst;datatype:string,name:contactlast;datatype:string,name:email;datatype:string,name:officeaddress;datatype:string,name:contactphone;datatype:string,name:expectattendance;datatype:string,name:carolcontact;datatype:string,name:notes;datatype:string" />
+</info>
