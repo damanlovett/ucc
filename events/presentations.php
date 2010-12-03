@@ -49,11 +49,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               leaders.  These are ideal for residence halls, Greek
               life, or clubs where a mixture of majors will be in attendance.  Typical topics are UCC services, resumes,
               interviews, or ePACK.  Request a presentation from the <a
-href="\about\ambassadors.php">career
+href="/career/about/ambassadors.php">career
             ambassadors</a>. </p>
           <p><b>Specific Presentations</b> <i>– by Career Counselors<br>
             </i>Request a presentation for your professional society, honor society or class where specific information of interest to your major or college is desired. Contact your <a
-href="\about\staff.php">career counselor</a> to make a request  </p>
+href="/career/about/staff.php">career counselor</a> to make a request  </p>
 </div>
       </div>
     </div>
