@@ -52,7 +52,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               options vary by department. <a href="http://www.ncsu.edu/epack/employer">Post in ePACK</a>.  </li>
             <li><b>Externships:</b>  Designed specifically to help first year
               engineering students learn more about career options.  This is a 1-2 day job shadow experience
-              during spring break, unpaid. <a href="/employers/externships.php">Learn more</a>.</li>
+              during spring break, unpaid. <a href="/career/employers/externships.php">Learn more</a>.</li>
             <li><b>Co-op:</b>  An option with a student commitment of three rotations of work
               alternating with semesters of school beginning in the summer or semester.  Co-ops are always paid. <a
 href="http://www.ncsu.edu/co-op_ed/employers/">Post in Co-op</a>.</li>
