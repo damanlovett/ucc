@@ -34,7 +34,18 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         </div>
         <div id="secContent" class="yui-g">
           <h1>VISITING NC STATE</h1>
-          <div class="breadCrumbHolder module"></div>
+          
+                   
+          <div class="breadCrumbHolder module">
+          <div id="breadCrumb" class="breadCrumb module">
+            <ul>
+              <li class="first"><a href="/">Home</a></li>
+              <li> <a href="/about">About The Career Center</a> </li>
+              <li class="last">Visiting</li>
+            </ul>
+          </div>
+        </div>
+
           <p><a href="#directions">Directions</a> / <a href="#parking">Parking</a> / <a href="#accommodations">Accommodations</a> / <a href="#attractions">Attractions</a> / <a href="#weather">Weather</a><br>
           </p>
 <p><b><a name="directions"></a>Directions</b><br>
@@ -1330,16 +1341,7 @@ class="odometer">12.9 mi</td>
    </ul>
    <hr />
    <p><strong><a name="weather"></a>Weather</strong></p>
-        <div class="breadCrumbHolder module">
-          <div id="breadCrumb" class="breadCrumb module">
-            <ul>
-              <li class="first"><a href="/">Home</a></li>
-              <li> <a href="/about">About The Career Center</a> </li>
-              <li class="last">Visiting</li>
-            </ul>
-          </div>
-        </div>
-        <div id="weather">
+                <div id="weather">
           <script type="text/javascript" language="javascript1.2" src="http://weatherreports.com/jscript.html?width=234&height=60&theme=white_no_search_box&location=27695&units=f">
         </script>
           <a href="http://www.weatherreports.com/"><small>WeatherReports.com</small></a></div>
