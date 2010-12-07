@@ -44,9 +44,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </div>
           </div>
           <p>Bring your work to life!</p>
-          <p> Identify a project you'd like to share. Create a work sample.  Send it electronically with your resume and bring it with you to an interview or career fair.  Employer feedback is overwhelmingly positive! <br>
+          <p> Identify a project you'd like to share. Create a work sample.  Send it electronically with your resume and bring it with you to an interview or career fair.  Employer feedback is overwhelmingly positive!<br>
         </p>
-          <ul><li>  One page project:  <a href="/pdfs/worksample.pdf">senior design project</a> or <a href="/pdfs/worksample_2.pdf">research project</a> </li>
+          <ul><li>  One page project:  <a href="../../pdfs/worksample.pdf">senior design project</a> or <a href="/career/pdfs/worksample_2.pdf">research project</a> </li>
             <li>Article, press release, or <a
 href="http://owl.english.purdue.edu/owl/resource/656/01/">report abstract</a></li>
             <li>Website: <a href="http://www.mae.ncsu.edu/research/space_design/Drill/Homepage.html">senior design project</a></li>

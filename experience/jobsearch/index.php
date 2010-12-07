@@ -57,19 +57,19 @@ href="http://www.naceweb.org/Publications/Spotlight_Online/2010/0331/Intern_Hiri
               to the process <br>
               </b>Know the search is likely to take longer than
               expected.  Begin   two
-              semesters prior to graduation. Be aware that some employers  may not know if they can  hire until later!  Patience and persistence are essential. </li>
+              semesters prior to graduation. Be aware that some employers  may not know if they can  hire until later!  Patience and persistence are essential.</li>
             <li><strong>Form a job search group</strong><br>
             Simliar to a study group, pair up with others and meet regularly for ideas, motivation, and support.
             </li>
             <li><b class="MsoNoSpacing">Use multiple job search resources</b><br>
               One is not enough.  Employers use
-              different resources; we recommend you do as well!  <br>
-              Stay on track by using the UCC's suggested list of   <a href="/experience/ePACK/resources.php">resources</a>.  </li>
+              different resources; we recommend you do as well! <br>
+              Stay on track by using the UCC's suggested list of   <a href="/career/experience/ePACK/resources.php">resources</a>.  </li>
             <li><b class="MsoNoSpacing">Let others help</b><br>
               The best leads come from people.  Let
               others know about your search and seek their advice (family, friends, faculty,
               supervisors).  Be ready with specifics or
-              ideas about the type of work or environment you seek.   </li>
+              ideas about the type of work or environment you seek.  </li>
             <li><b class="MsoNoSpacing">Personalize the process</b><br>
               People remember faces and stories.  Be ready for                                         "<a href="/pdfs/tellme.pdf">tell
                 me about yourself</a>."  Leave a

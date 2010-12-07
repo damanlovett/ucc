@@ -45,11 +45,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           
 
-          <p>&nbsp;</p>
-          <p>Students tell us – the more they practice, the more comfortable and prepared   they feel.</p>
+          <p>Students tell us – comfort, confidence and performance improve with practice!</p>
           <p><b>Practice with a friend </b><br>
             Arrange a quiet place to conduct an interview.  Evaluate answers together and brainstorm ways
-            to strengthen them.</p>
+            to strengthen.</p>
           <ul>
             <li><a
 href="questions.php">Sample questions</a></li>

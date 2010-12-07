@@ -33,8 +33,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         </div>
         <div id="secContent" class="yui-g">
           <h1>Professionalism</h1>
-          <p><br>
-            We take   professionalism seriously. As you begin to interact with UCC staff as well as prospective employers, we want you to know what you can expect from us and what we expect from you.</p>
+          <p>We take   professionalism seriously. As you begin to interact with UCC staff as well as prospective employers, we want you to know what you can expect from us and what we expect from you.</p>
               <p><strong>Staff responsibility</strong> </p>
               <ul>
                 <li>Provide the best available advice and assistance to you regarding career choice and job search assistance. </li>

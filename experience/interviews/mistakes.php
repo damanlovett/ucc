@@ -46,7 +46,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           
 
           <p>You can avoid all of these!</p>
-          <ol>
+          <ul>
             <li> Arrive
               late</li>
             <li> Arrive
@@ -103,7 +103,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li> Ask
               about salary</li>
             <li> When asked, &quot;Do you have any questions?&quot; -- you say no</li>
-          </ol>
+          </ul>
         </div>
       </div>
     </div>

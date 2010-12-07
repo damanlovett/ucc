@@ -55,7 +55,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             Just graduate?  Our services
           continue for one year.</p>
           <ul>
-            <li><a href="/pdfs/jobsearch.pdf">Checklist</a> – quick overview of tasks for your search </li>
+            <li><a href="/career/pdfs/jobsearch.pdf">Checklist</a> – quick overview of tasks for your search </li>
             <li><a
 href="ePACK/guide.php">Job &amp; Internship
               Guide</a> – indispensible reference for your search</li>

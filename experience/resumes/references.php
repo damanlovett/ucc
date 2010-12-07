@@ -41,8 +41,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <li><a href="./">Resumes &amp; Documents</a></li>
                 <li class="last">List of References</li>
               </ul>
-            </div>  <p><br>
-    You'll need a list of three references if you are graduating this year and seeking an entry-level job. Some employers
+            </div>  <p>You'll need a list of three references if you are graduating this year and seeking an entry-level job. Some employers
                   will request it and you'll be ready.  Bring a copy to interviews -- along with  an unofficial  copy of your transcript and of course,  your resume.    </p>
             <p> Looking for an internship or co-op this year? It's very unlikely you'll be asked for a list of references. Be aware that some research-related opportunities will require the list. Watch individual postings for details.</p>
 </div>

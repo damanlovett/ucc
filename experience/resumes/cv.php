@@ -44,7 +44,6 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-          <br>
           CVs are typically
             used by doctoral students who are seeking academic or research
             positions.&nbsp; The format of the CV is different from a resume in terms of

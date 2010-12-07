@@ -55,11 +55,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                  <li>Help students learn how to apply  their&nbsp;major through discussions with professionals who may have a similar  background. </li>
                  <li>Students can assess a &quot;fit&quot; for a  particular position, company, or industry.  </li>
                  <li>Allow students to make career connections and  begin establishing networks for possible internships and future employment.</li>
-                 <li><a href="/pdfs/extern_quotes.pdf">View quotes of past externs</a>.  </li>
+                 <li><a href="/career/pdfs/extern_quotes.pdf">View quotes of past externs</a>.  </li>
                </ul>
                <p><strong>Benefits to employers</strong></p>
                <ul>
-                 <li>Gain  exposure and visibility for your company. </li>
+                 <li>Gain  exposure and visibility for your company.</li>
                  <li>Introduces  you to potential interns and future employees. </li>
                  <li>Build  satisfying and lasting relationships (if choose to become a mentor). </li>
                  <li>Reconnects  you with NC State and the student experience. </li>

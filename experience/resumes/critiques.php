@@ -44,8 +44,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-          <p>Before you use your resume, get a second opinion!</p>
-          <p>Ask a friend, family member, or supervisor at work  to take a look.  What is their first impression?  Have a suggestion about format? Find a typo or grammatical error?  You'll be thankful for their observations!    </p>
+          <p>Before you use your resume, get a second opinion! Ask a friend, family member, or supervisor at work  to take a look.  What is their first impression?  Have a suggestion about format? Find a typo or grammatical error?  You'll be thankful for their observations!    </p>
           <p> Wondering which words are most <strong>PROMINENT</strong> on your resume?<br>
           Cut and paste your resume and run it through <a
 href="http://www.wordle.net/create">Wordle</a>!     </p>

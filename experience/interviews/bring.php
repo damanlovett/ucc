@@ -53,8 +53,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               <span style='font-family:Wingdings;
 mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'> </span></span></span>
-            <![endif]></li>
-  <li>Simple
+            <![endif]>Simple
             portfolio, notebook, or folder to carry documents</li>
   <li>
               <![if !supportLists]>

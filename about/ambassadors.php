@@ -38,15 +38,16 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-          <p>&nbsp;</p>
-          <p>Looking for a program for your student group? <br>
-            <a
-href="../pdfs/ca-request.pdf">Request a program</a> from trained student leaders!<br>
-          Ideal for residence halls, Greek life, or clubs where a variety of majors are represented.</p>
+          <p>Looking for a program for your student group?<br>
+          Ideal for residence halls, Greek life, or clubs where a variety of majors are represented.<br>
+          <a
+href="../pdfs/ca-request.pdf">Request a program</a> from trained student leaders!          </p>
+          <hr />
           <table width="447">
             <caption>
-            <strong>Career Ambassadors -- 2010-2011</strong> 
-            <br>
+            <div align="left"><strong>Career Ambassadors -- 2010-2011</strong> 
+              <br>
+            </div>
             </caption>
             <tr>
               <td width="131">Travis Jones</td>
@@ -54,11 +55,7 @@ href="../pdfs/ca-request.pdf">Request a program</a> from trained student leaders
             </tr>
             <tr>
               <td>Meaghan Lynch </td>
-              <td>Senior, Psychology &amp; Communication </td>
-            </tr>
-            <tr>
-              <td>Nga&nbsp;Nguyen </td>
-              <td>Senior, Chemical Engineering </td>
+              <td>Senior, Communication &amp; Psychology </td>
             </tr>
             <tr>
               <td>Rhonda Andrews</td>
@@ -70,7 +67,11 @@ href="../pdfs/ca-request.pdf">Request a program</a> from trained student leaders
             </tr>
             <tr>
               <td>Sophie Gustafson </td>
-              <td>Junior, Biological Sciences</td>
+              <td>Junior, Psychology</td>
+            </tr>
+            <tr>
+              <td>Nga&nbsp;Nguyen </td>
+              <td>Junior, Chemical Engineering </td>
             </tr>
             <tr>
               <td>Tuan Nguyen </td>
@@ -82,7 +83,7 @@ href="../pdfs/ca-request.pdf">Request a program</a> from trained student leaders
             </tr>
             <tr>
               <td>Rachel Stone </td>
-              <td>Junior, Business Management</td>
+              <td>Junior, Management &amp; International Studies</td>
             </tr>
             <tr>
               <td>Nick Banks</td>
@@ -94,9 +95,10 @@ href="../pdfs/ca-request.pdf">Request a program</a> from trained student leaders
             </tr>
             <tr>
               <td>Heath Witzen</td>
-              <td>Sophomore, Business Management </td>
+              <td>Sophomore, Economics</td>
             </tr>
           </table>
+          <hr />
           <p><b>Role of Career Ambassadors</b></p>
           <ul>
             <li>Work one-on-one with students who visit the UCC </li>
@@ -104,13 +106,16 @@ href="../pdfs/ca-request.pdf">Request a program</a> from trained student leaders
             <li> Assist with front office coverage @ the UCC </li>
             <li> Present programs in residence halls, as well as clubs &amp; organizations </li>
             <li> Represent the UCC at events and career fairs </li>
-            <li> Provide outreach through technology-based methods </li>
+            <li> Provide outreach through technology-based methods</li>
             <li> Serve as an informal resource to the UCC and employers </li>
             <li> Apply this experience to your own career! [<a
-href="../pdfs/ca-alumni.pdf">meet our alumni</a>] </li>
+href="../pdfs/ca-alumni.pdf">meet our alumni</a>]</li>
           </ul>
-          <p>&nbsp;</p>
-        </div>
+          <hr />
+          <p><strong>Questions?<br>
+        </strong>Contact Jane Matthews, Coordinator of Career Ambassador Program -- 
+        <a href="mailto:jane_matthews@ncsu.edu">jane_matthews@ncsu.edu</a></p>
+</div>
       </div>
     </div>
  <div class="yui-b">

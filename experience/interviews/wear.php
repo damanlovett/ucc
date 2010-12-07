@@ -46,9 +46,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <p>Attire for interviews is professional and on the
             conservative side.  <br>
             Since your appearance
-            is your first impression -- make it a great one!</p>
-          <p><a name=traditional></a><b>Traditional interview attire<br>
-          </b>Suggestions below are for the most conservative settings and will be a safe choice. If your employer is less formal, bring it down a notch, but always err on the side of being overdressed vs. underdressed. </p>
+            is your first impression -- make it a great one!<br>
+          Avoid <a href="../../pdfs/wear-not.pdf">what not to wear</a>! </p>
+          <hr />
+          <p><a name=traditional></a><b>Traditional<br>
+        </b>Suggestions below are for the most conservative settings and will be a safe choice. If your employer is less formal, bring it down a notch, but always err on the side of being overdressed vs. underdressed. </p>
           <ul>
             <li> <strong>Men: </strong>Dark conservative suit with white (or light
                 color) long sleeved shirt and tie.  Dark
@@ -70,31 +72,25 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 sweater.&nbsp;</li>
           </ul>
           <hr />
-          <strong>What not to wear</strong><br>
-          Help an employer remember you, not your what you wore!          [<a href="/pdfs/wear-not.pdf">What not to wear</a>]
-          <br>
-          <hr />
 <p><b>Where to shop</b><br>
-          We've provided some local options to help you assemble your interview attire. <br>
+          We've provided some local options to help you assemble your interview attire!<br>
       </p>
-          <ul>
-            <li><strong>High-end</strong><i> <br>
-              </i><a
-href="http://www.josbank.com/menswear/shop/suits%20">Jos. Banks</a> (men) – Cameron Village <br>
-              <a
-href="http://www.anntaylor.com">Ann Taylor</a> (women) – Cameron Village
-            </li>
-            <li><strong>Mid-range</strong><i> <br>
-              </i><a
+<p><strong>$$$</strong><i> <br>
+  </i><a
+href="http://www.josbank.com/menswear/shop/suits%20">Jos. Banks</a> – Cameron Village<br>
+  <a
+href="http://www.anntaylor.com">Ann Taylor</a> – Cameron Village
+</p>
+<p><strong>$$</strong><i> <br>
+  </i><a
 href="http://www.belk.com">Belk</a>  –
-              Crabtree Valley Mall </li>
-          <li>              <strong>Economical</strong><i> <br>
-                        </i><a
+  Crabtree Valley Mall </p>
+<p><strong>$</strong><i> <br>
+  </i><a
 href="http://www.jlraleigh.org/bargainbox.shtml">Bargain Box</a>&nbsp;–
-                Cameron Village<br> 
-              <a
-href="http://maps.google.com/maps?li=d&amp;hl=en&amp;f=d&amp;iwstate1=dir:to&amp;daddr=4801+Grove+Barton+Rd,+Raleigh,+NC+27613+(Goodwill+Industries)&amp;geocode=CZ8-gPKe8kt3FXtXIwIdK-ZO-w&amp;iwloc=1&amp;dq=goodwill,&amp;ei=obgeSpLHL4G2M6j73MEG">Goodwill</a> – North Raleigh </li>
-          </ul>
+  Cameron Village<br> 
+  <a
+href="http://maps.google.com/maps?li=d&amp;hl=en&amp;f=d&amp;iwstate1=dir:to&amp;daddr=4801+Grove+Barton+Rd,+Raleigh,+NC+27613+(Goodwill+Industries)&amp;geocode=CZ8-gPKe8kt3FXtXIwIdK-ZO-w&amp;iwloc=1&amp;dq=goodwill,&amp;ei=obgeSpLHL4G2M6j73MEG">Goodwill</a> – North Raleigh </p>
         </div>
       </div>
     </div>

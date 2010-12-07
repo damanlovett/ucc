@@ -133,8 +133,6 @@ href="http://www.kiplinger.com/money/bestcities/" class="MsoNoSpacing">Best citi
             <li><a
 href="http://www.ncsu.edu/housing/conferences/intern.php" class="MsoNoSpacing">Summer intern housing @ NC State</a></li>
             <li><a href="http://www.sublet.com/">Find a sublet</a></li>
-            <li>Find a mover</li>
-            <li>Find a realtor</li>
             <li><a
 href="http://www.moving.com/" class="MsoNoSpacing">Moving.com</a></li>
             <li><a
