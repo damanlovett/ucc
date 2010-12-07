@@ -61,7 +61,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 	<h1 class="major">Featured Article</h1>
       <p><img src="img/imFeaturedArticle.jpg" alt="" name="imFeaturedArticle" width="100" height="100" border="0" id="imgFeaturedArticle">
       <h2>YOUR  CAREER STARTS NOW!</h2>
-	  <p>Figuring out what to do after college can be  intimidating, but planning early and getting help can make all the difference.  Take a  look at our 4 Year Career Plan. We'll get you moving and keep you going in the right direction! Your career starts now.<br>
+	  <p>Figuring out what to do after college can be  intimidating, but planning early and getting help can make all the difference.  Take a  look at our 4 Year Career Plan. We'll get you moving and keep you going in the right direction! <br>
 	    [ <a href="major/plan.php"> more info</a> ]</p>
    	</div>
 	<div class="yui-g announcements">
@@ -72,11 +72,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           [ <a href="http://online.wsj.com/article/SB10001424052748704554104575435563989873060.html">more info</a> ]</p>
 		</div>
 		<div class="yui-u a2">
-		<h2>Spring recruiting begins</h2>
-        <p> Looking for an internship or <br>
-          entry-level job? Get started with ePACK.<br>
-          [ <a href="experience/ePACK/index.php">more info</a> ]</p>
-        </div>
+		<h2>December grads -- <em>what's next?</em></h2>
+        <p>Let us know your plans!   Job? Grad school? Still deciding? The 10 min. survey is now open!<br>
+          [ <a href="http://www2.acs.ncsu.edu/UPA/survey/future_plans.htm">more info</a> ]</p>
+</div>
 	</div>
 	
 	</div>
