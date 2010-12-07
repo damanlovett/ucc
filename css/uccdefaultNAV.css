@@ -17,7 +17,7 @@
 	display: none;
 }
 #secContent {
-	z-index: 20;
+	z-index: 10;
 }
 #major #doc4 #bd .yui-b #navTop {
 	display: none;
