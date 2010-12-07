@@ -1,0 +1,12 @@
+DirectoryIndex index.php index.html index.htm 
+
+# handles most errors with a script
+ 
+#ErrorDocument 404 http://www.ncsu.edu/career/customerrorpage.php
+
+ # Added for Custom Errors
+ErrorDocument 400 /career/customerrorpage.php
+ErrorDocument 401 /career/customerrorpage.php
+ErrorDocument 403 /career/customerrorpage.php
+ErrorDocument 404 /career/customerrorpage.php
+ErrorDocument 500 /career/customerrorpage.php

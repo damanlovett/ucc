@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsRSSFEED" value="name:id;datatype:int,name:title;datatype:string,name:eventdate;datatype:string,name:starttime;datatype:string,name:endtime;datatype:string,name:location;datatype:string,name:eventdescription;datatype:string,name:orgname;datatype:string,name:contactfirst;datatype:string,name:contactlast;datatype:string,name:email;datatype:string,name:officeaddress;datatype:string,name:contactphone;datatype:string,name:expectattendance;datatype:string,name:carolcontact;datatype:string,name:notes;datatype:string" />
+</info>
