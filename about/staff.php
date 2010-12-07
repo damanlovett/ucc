@@ -82,7 +82,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <h2>Education</h2>
                 <ul>
                   <li>D.R. Ingram   
+<a href="mailto:dr_ingram@ncsu.edu" class="ss_sprite ss_email" title="dr_ingram@ncsu.edu"></a>
 <span class="trigger ss_sprite ss_user" title="Bio for D.R. Ingram">&nbsp;</span> 
+                    
                       <div class="bio toggle_container"><p align="left"><strong>D.R. Ingram, M.S.<br />Assistant Director</strong><br>
             <a href="mailto:dr_ingram@ncsu.edu">dr_ingram@ncsu.edu</a><br>
             D.R. Ingram serves students in the College of Education, College of Engineering
@@ -100,7 +102,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                   <li>Beverly Marchi<em><br>
                       [Majors:  Aerospace,
 Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatronics] 
-                  </em><span class="trigger ss_sprite ss_user" title="Bio for Beverly Marchi">&nbsp;</span>                 
+                  </em><a href="mailto:beverly_marchi@ncsu.edu" class="ss_sprite ss_email" title="beverly_marchi@ncsu.edu"></a>
+<span class="trigger ss_sprite ss_user" title="Bio for Beverly Marchi">&nbsp;</span>                 
                   <div class="bio toggle_container"><p align="left"><strong>Beverly Marchi, M.A.<br />Assistant Director</strong><br>
             <a href="mailto:beverly_marchi@ncsu.edu">beverly_marchi@ncsu.edu</a><br>
             Beverly Marchi serves students in the College of Engineering (Aerospace, Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatronics). She also has experience working with students in the Colleges
@@ -125,7 +128,7 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
             University.</p></div></li>
                   <li><strong><br>
                     </strong>Leslie Rand-Pickett<strong><br>
-                    </strong><em>[Majors: Computer, Computer Science, Electrical, Integrated Manufacturing Systems, Nuclear, Operations Research</em>]<span class="trigger ss_sprite ss_user" title="Bio for Leslie Rand-Pickett">&nbsp;</span>
+                    </strong><em>[Majors: Computer, Computer Science, Electrical, Integrated Manufacturing Systems, Nuclear, Operations Research</em>]&nbsp;<a href="mailto:leslie_randpickett@ncsu.edu" class="ss_sprite ss_email" title="leslie_randpickett@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Leslie Rand-Pickett">&nbsp;</span>
                     <div class="bio toggle_container">
                       <p align="left"><strong>Leslie Rand-Pickett, M.Ed.<br />
                         Assistant Director</strong><br>
