@@ -42,8 +42,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </div>
           </div>
 
-          <p><br>
-          Everything you do has the potential to add to  your skill set.  Document your  experiences and be ready to communicate your skills through your resume and during conversations with employers. When asked about your skills,  you'll be prepared and confident about your answer!           </p>
+          <p>Everything you do has the potential to add to  your skill set.  Document your  experiences and be ready to communicate your skills through your resume and during conversations with employers. When asked about your skills,  you'll be prepared and confident about your answer!           </p>
           <p><strong>Identify your job skills</strong><br>
 Use the Purdue OWL <a href="http://owl.english.purdue.edu/owl/resource/626/01/">job skills checklist</a>. Circle skills you possess and can back up with  specific examples gained through work, courses, projects, organizations, or service.</p>
           <p><strong>Skills employers desire</strong></p>

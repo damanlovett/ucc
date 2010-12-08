@@ -46,7 +46,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
         </div>
 
-          <p><a href="#directions">Directions</a> / <a href="#parking">Parking</a> / <a href="#accommodations">Accommodations</a> / <a href="#attractions">Attractions</a> / <a href="#weather">Weather</a><br>
+          <p>We're pleased to help you plan your trip!<br>
+            <a href="#directions">Directions</a> / <a href="#parking">Parking</a> / <a href="#accommodations">Accommodations</a> / <a href="#attractions">Attractions</a> / <a href="#weather">Weather</a><br>
           </p>
 <p><b><a name="directions"></a>Directions</b><br>
             NC State is located in the capital city of Raleigh, inside
