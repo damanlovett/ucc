@@ -256,7 +256,7 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
               <td width="46%" valign=top><h2>Administrative Assistants</h2>
                 <ul>
                 <ul>
-                  <li>Della Shepherd, <a href="mailto:della_sheperd@ncsu.edu">della_sheperd@ncsu.edu</a><br>
+                  <li>Della Shepherd, <a href="mailto:della_shepherd@ncsu.edu">della_shepherd@ncsu.edu</a><br>
                     Jane Matthews, <a href="mailto:jane_matthews@ncsu.edu">jane_matthews@ncsu.edu</a>         </li>
                   </ul></td>
             </tr>
