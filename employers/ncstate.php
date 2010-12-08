@@ -30,8 +30,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
       <div class="yui-b">
         <div class="yui-g"><div id="fadeshow1"></div></div>
         <div id="secContent" class="yui-g">
-          <h1>ABOUT NC STATE</h1>
-          
+          <h1>ABOUT NC STATE          </h1>
           <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
                 <ul>
@@ -40,34 +39,46 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <li class="last"> About NC State </li>
               </ul>
             </div>
-          </div>
-          
-          <ul class="noBulletList">
-            <li> <a
+            <ul>
+              <li><a
 href="http://www.ncsu.edu/about-nc-state/quick-view/index.php">NC State at-a-glance</a> <br>
-              NC State is a recognized leader in science, technology, and engineering. </li>
+                NC State is a recognized leader in science, technology, and engineering.
+                <br>
+              </li>
+            </ul>
+          </div>
+<ul>
             <li><a href="../about/directions.php">Visiting NC State</a><br> 
-            Plan your trip in advance with our help.</li>
-            <li> <a
+            Plan your trip in advance with our help.<br>
+            <br>
+          </li>
+            <li><a
 href="http://www.ncsu.edu/reg_records/calendars/index.html">Academic calendar</a> / <a href="../pdfs/recruiting-calendar.pdf">recruiting
               calendar</a><br>
-              Know important dates before making plans.</li>
-            <li> <a
+              Know important dates before making plans.<br>
+              <br>
+            </li>
+            <li><a
 href="http://www.ncsu.edu/colleges_schools.html">Colleges</a> / <a
 href="http://www.ncsu.edu/acad_depart.html">departments</a> / <a
 href="http://www.ncsu.edu/academics/degrees-programs/index.php">degree programs</a> / <a
 href="http://www.ncsu.edu/research/index.php">research</a><br>
-              Find links to degree programs, curriculum, faculty, and areas of research.</li>
-            <li> <a
+              Find links to degree programs, curriculum, faculty, and areas of research.<br>
+              <br>
+            </li>
+            <li><a
 href="http://www2.acs.ncsu.edu/upa/enrollmentdata/index.htm">Enrollment statistics by major</a><br>
-              Find the profiles of students enrolled in each major.</li>
-            <li> <a
+              Find the profiles of students enrolled in each major.<br>
+              <br>
+            </li>
+            <li><a
 href="http://www2.acs.ncsu.edu/upa/degrees/index.htm">Graduation statistics by major</a><br>
-              Find the number and profile of students who graduate in each major.  </li>
-            <li> <a
+              Find the number and profile of students who graduate in each major.  <br>
+              <br>
+            </li>
+            <li><a
 href="http://www.ncsu.edu/diversity/index.php">Diversity @ NC State</a><br>
               Connect with diverse student organizations and programs.</li>
-          <li></li>
           </ul>
         </div>
       </div>

@@ -52,7 +52,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             permission, add them to your list.&nbsp; Provide each reference with a copy of
             your resume and a note of thanks.  Employers
             will typically check your references by phone. </p>
-          <p><a href="/pdfs/references.pdf">Sample list of references</a> </p>
+          <p><a href="/career/pdfs/references.pdf">Sample list of references</a> </p>
         </div>
       </div>
     </div>
