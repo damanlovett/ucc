@@ -40,7 +40,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 	    <ol>
 	      <li>The page you are looking for no longer exists.</li>
 	      <li>You have book marked a page that has moved because of our new site. You may continue by going to our <a href="http://www.ncsu.edu/career">home page</a>. </li>
-	      <li>There is a problem with the server. Pleaser <a target="_self" xhref="javascript:location.reload()"></a>refresh this page and try again. </li>
+	      <li>There is a problem with the server. Please <a target="_self" xhref="javascript:location.reload()"></a>refresh this page and try again. </li>
 	    </ol>
 
         	    	
