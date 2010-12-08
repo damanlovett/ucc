@@ -202,8 +202,8 @@ href="../experience/ePACK/index.php">ePACK</a>. </li>
                   events posted in ePACK. </li>
                 <li>Use all of the resources available through the UCC, as needed, for
                   one year following graduation. </li>
-                <li>Fill out the <a href="http://www.ncsu.edu/career/gradsurvey">new-graduate
-                  survey</a> through the UCC website to tell us about your future plans or to let us know
+                <li>Fill out the <a href="http://www2.acs.ncsu.edu/UPA/survey/future_plans.htm">new-graduate
+                  survey</a>  to tell us about your future plans or to let us know
                   that you are still seeking an opportunity. </li>
               </ul>
                   </p>

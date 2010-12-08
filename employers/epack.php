@@ -72,7 +72,7 @@ href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a><br>
             <li>Recruit <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=330">experienced alumni</a></li>
             <li>Recruit as <a
 href="mailto:bridget_yarborough@ncsu.edu">3rd party recruiter</a> <br>
-            [<a href="/pdfs/3rd-party.pdf">View our policies</a>]            </li>
+              [<a href="../pdfs/3rd-party.pdf">View our policies</a>]</li>
           </ul>
         </div>
       </div>

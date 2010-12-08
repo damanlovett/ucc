@@ -55,15 +55,17 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <p>The UCC  hosts or supports a variety of career fairs each year. You are encouraged to
             identify at least one fair to attend each semester.   These  are outstanding opportunities
             to  learn about careers associated with
-            your major as well as internships, co-ops, and entry-level jobs.  All students in all majors are invited!  </p>
-          <p>[&nbsp;<a
+            your major as well as internships, co-ops, and entry-level jobs.  All students in all majors are invited!  <br>
+            [&nbsp;<a
 href="../pdfs/fairprep-students.pdf">student
             success</a>&nbsp;] [&nbsp;<a
 href="../pdfs/fairprep-employers.pdf">employer
-            success</a>&nbsp;]</p>      
+            success</a>&nbsp;]<br>
+            <br>
+          </p>      
               
         <div id="tabs">
-        <ul>
+          <ul>
         	<li class="tabHeader"><a href="#tab-1">Fall 2010</a></li>
         	<li class="tabHeader"><a href="#tab-2">Spring 2011</a></li>
         </ul>
@@ -198,7 +200,7 @@ href="../pdfs/fairprep-employers.pdf">employer
     </tr> 
   </table> 
 </div>
-          </div>
+        </div>
           
         </div>
       </div>
