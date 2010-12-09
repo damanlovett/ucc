@@ -162,7 +162,7 @@ href="../pdfs/fairprep-employers.pdf">employer
       <td valign="top"><p><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></p></td> 
     </tr>
     <tr class="altrows"> 
-      <td width="30%" valign="top"><p><a href="../../careerfairparts/com.php">Management Career Fair</a></p></td> 
+      <td width="30%" valign="top"><p><a href="com.php">Management Career Fair</a></p></td> 
       <td width="11%" valign="top">Feb. 3
         <br />      </td> 
       <td width="11%" valign="top"><p>10:00-4:00</p></td> 
@@ -177,14 +177,6 @@ href="../pdfs/fairprep-employers.pdf">employer
       <td valign="top"><a href="mailto:sara_concini@ncsu.edu">Sara Concini </a><br />
         919.515.2396</td>
       <td valign="top"><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></td>
-    </tr>
-    <tr class="altrows"> 
-      <td valign="top"><p> Networking &amp; Career Fair <span class="style14">(Forestry &amp; Environmental Resources / Wood &amp; Paper Science)</span></p></td> 
-      <td valign="top">Mar. TBA</td> 
-      <td valign="top">12:00-3:00</td> 
-      <td valign="top"><p> <a href="mailto:anita_flick@ncsu.edu%20"> </a><a href="mailto:shannon_ford@ncsu.edu%20">Shannon Shinault Ford</a> 919.513.2582</p></td> 
-      <td valign="top"><p><a href="http://www.ncsu.edu/student_center">Talley Student Center </a><br /> 
-        </p></td> 
     </tr> 
     <tr class="altrows"> 
       <td valign="top"><p><span class="style9"><a href="http://www.peace.edu/content/page/id/821">Non-profit Career Fair</a></span></p></td> 
@@ -193,7 +185,7 @@ href="../pdfs/fairprep-employers.pdf">employer
       <td valign="top"><p><a href="mailto:befird@peace.edu">Barbara Efird</a> <br /> 
         919.508.2006</p></td> 
       <td valign="top"><p><a href="http://www.peace.edu/files/shared/pdfs/aboutPeace/campusmap.pdf">Peace College</a><br /> 
-         Student Center </p></td> 
+        Student Center </p></td> 
     </tr> 
     <tr class="altrows"> 
       <td valign="top"><p><a href="http://harvest.cals.ncsu.edu/health_pac/index.cfm?pageID=1740">Health Career Expo</a><br /> 

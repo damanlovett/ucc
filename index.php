@@ -79,7 +79,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           <div class="yui-u a2">
             <h2>December grads -- <em>what's next?</em></h2>
-            <p>Let us know your plans!   Job? Grad school? Still deciding? The 10 min. survey is now open!<br>
+            <p>Let us know your plans!   Job? Grad school? Still deciding? The 5 min. survey is now open!<br>
               [ <a href="http://www2.acs.ncsu.edu/UPA/survey/future_plans.htm">more info</a> ]</p>
           </div>
         </div>

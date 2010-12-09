@@ -31,8 +31,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div class="yui-g"><div id="fadeshow1"></div></div>
         <div id="secContent" class="yui-g">
           <h1>Masters & PhD Career Fair</h1>
-            <p><br>
-            This event is sponsored by a consortium of six outstanding North Carolina   graduate schools including NC State, Duke, UNC-Chapel Hill, UNC-Charlotte,   UNC-Greensboro, and Wake Forest. Participating employers can expect up to 350   masters, doctoral, and postdoctoral candidates in science, engineering,   humanities and social sciences to attend. </p>
+            <p>This event is sponsored by a consortium of six outstanding North Carolina   graduate schools including NC State, Duke, UNC-Chapel Hill, UNC-Charlotte,   UNC-Greensboro, and Wake Forest. Participating employers can expect up to 350   masters, doctoral, and postdoctoral candidates in science, engineering,   humanities and social sciences to attend. </p>
           <p>Thursday, November 18, 2010<BR>
               1:00pm to 4:30pm<BR>
               Friday Center, UNC-Chapel   Hill<BR>
