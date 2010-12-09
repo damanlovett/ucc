@@ -1,16 +1,13 @@
-<!DOCTYPE html><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-   <title>University Career Center  </title>
-	
-   
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>University Career Center</title>
 <link rel="stylesheet" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" type="text/css">
-
-   <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.0r4/build/base/base-min.css">
-   <link rel="stylesheet" href="css/fonts.css" type="text/css">
-   <link href="jquery/css/ucc/jquery-ui-1.8.2.custom.css" rel="stylesheet" type="text/css">
-
-   <link rel="stylesheet" type="text/css" href="contentslider.css" />
-   <link rel="stylesheet" href="css/uccdefaultNAV.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.0r4/build/base/base-min.css">
+<link rel="stylesheet" href="css/fonts.css" type="text/css">
+<link href="jquery/css/ucc/jquery-ui-1.8.2.custom.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="contentslider.css" />
+<link rel="stylesheet" href="css/uccdefaultNAV.css" type="text/css">
 <script type="text/javascript" src="contentslider.js">
 
 /***********************************************
@@ -25,11 +22,18 @@
 <script src="jquery/js/homeCalendar.js" type="text/javascript"></script>
 <?php require_once('includefiles/initHome.php'); ?>
 <style>
-
-	div#navMedia, ul#navePack {margin: 15px 0 0 30px;}
+div#navMedia, ul#navePack {
+	margin: 15px 0 0 30px;
+}
+ul.contactInfo {
+	margin:30px 0 0 0;
+}
+ul.contactInfo li {
+	margin:0px;
+	list-style-type: none;
+	color:#666;
+}
 </style>
-
-
 </head>
 <body>
 
@@ -40,71 +44,66 @@
 Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 <!-- End of NCSTATE Bar -->
 
-
 <div id="doc4" class="yui-t7">
-
-<div id="hd" role="navigation">
-   
-	<?php require_once('includefiles/topMenuHeader.php');?>
-
-   
+  <div id="hd" role="navigation">
+    <?php require_once('includefiles/topMenuHeader.php');?>
   </div>
-   <div id="bd" role="main">
-	<div id="headlines" class="yui-g">
-		<?php require_once('feature3.php'); ?>
-	</div>
-<div id="mainContent" class="yui-g">
-    <div id="articles" class="yui-u first">
-	<div class="articles">
-    <!--  major fairs web employers center -->
-    
-	<h1 class="major">Featured Article</h1>
-      <p><img src="img/imFeaturedArticle.jpg" alt="" name="imFeaturedArticle" width="100" height="100" border="0" id="imgFeaturedArticle">
-      <h2>YOUR  CAREER STARTS NOW!</h2>
-	  <p>Figuring out what to do after college can be  intimidating, but planning early and getting help can make all the difference.  Take a  look at our 4 Year Career Plan. We'll get you moving and keep you going in the right direction! <br>
-	    [ <a href="major/plan.php"> more info</a> ]</p>
-   	</div>
-	<div class="yui-g announcements">
-		<h1 class="center">UCC Announcements</h1>
-		<div class="yui-u first a1">
-		<h2>NC State graduates ranked 19th</h2>
-        <p><a href="http://students.engr.ncsu.edu/careerfair/"></a>Recruiters from the nation's largest employers were surveyed by the Wall  Street Journal.  <br>
-          [ <a href="http://online.wsj.com/article/SB10001424052748704554104575435563989873060.html">more info</a> ]</p>
-		</div>
-		<div class="yui-u a2">
-		<h2>December grads -- <em>what's next?</em></h2>
-        <p>Let us know your plans!   Job? Grad school? Still deciding? The 10 min. survey is now open!<br>
-          [ <a href="http://www2.acs.ncsu.edu/UPA/survey/future_plans.htm">more info</a> ]</p>
-</div>
-	</div>
-	
-	</div>
-    <div class="yui-g">
+  <div id="bd" role="main">
+    <div id="headlines" class="yui-g">
+      <?php require_once('feature3.php'); ?>
+    </div>
+    <div id="mainContent" class="yui-g">
+      <div id="articles" class="yui-u first">
+        <div class="articles"> 
+          <!--  major fairs web employers center -->
+          
+          <h1 class="major">Featured Article</h1>
+          <p><img src="img/imFeaturedArticle.jpg" alt="" name="imFeaturedArticle" width="100" height="100" border="0" id="imgFeaturedArticle">
+          
+          <h2>YOUR  CAREER STARTS NOW!</h2>
+          <p>Figuring out what to do after college can be  intimidating, but planning early and getting help can make all the difference.  Take a  look at our 4 Year Career Plan. We'll get you moving and keep you going in the right direction! <br>
+            [ <a href="major/plan.php"> more info</a> ]</p>
+        </div>
+        <div class="yui-g announcements">
+          <h1 class="center">UCC Announcements</h1>
+          <div class="yui-u first a1">
+            <h2>NC State graduates ranked 19th</h2>
+            <p><a href="http://students.engr.ncsu.edu/careerfair/"></a>Recruiters from the nation's largest employers were surveyed by the Wall  Street Journal. <br>
+              [ <a href="http://online.wsj.com/article/SB10001424052748704554104575435563989873060.html">more info</a> ]</p>
+            <ul class="contactInfo">
+              <li>University Career Center</li>
+              <li>2100 Pullen Hall #7303</li>
+              <li>career_center@ncsu.edu</li>
+              <li>919-515-2396</li>
+            </ul>
+          </div>
+          <div class="yui-u a2">
+            <h2>December grads -- <em>what's next?</em></h2>
+            <p>Let us know your plans!   Job? Grad school? Still deciding? The 10 min. survey is now open!<br>
+              [ <a href="http://www2.acs.ncsu.edu/UPA/survey/future_plans.htm">more info</a> ]</p>
+          </div>
+        </div>
+      </div>
+      <div class="yui-g">
         <div class="yui-u first twitterfeed">
-			<h2><img src="img/imgHomeTwitter.jpg" alt="Twitter Header"></h2>
-			<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-            <script src="includefiles/js/widgetFBUCC.js"></script>	
-			
-			
-		</div>
+          <h2><img src="img/imgHomeTwitter.jpg" alt="Twitter Header"></h2>
+          <script src="http://widgets.twimg.com/j/2/widget.js"></script> 
+          <script src="includefiles/js/widgetFBUCC.js"></script> 
+        </div>
         <div class="yui-u rtNav">
-        
-      <?php require_once('includefiles/epacklogin.php'); ?>
-		
-		<div id="navMedia" class="sMedia">
-		<?php require_once('includefiles/socialmedia.php');?>		
-		</div>
-		<!-- <div id="datepicker"><a href="http://ncsu.edu">calendar</a></div> -->
-		<div id="datepicker"></div>
-        <a href="https://ncsu-csm.symplicity.com/calendar/" title="Calendar of Events" target="_blank" id="datepickerLink">Calendar of Events</a>
-		</div>
+          <?php require_once('includefiles/epacklogin.php'); ?>
+          <div id="navMedia" class="sMedia">
+            <?php require_once('includefiles/socialmedia.php');?>
+          </div>
+          <!-- <div id="datepicker"><a href="http://ncsu.edu">calendar</a></div> -->
+          <div id="datepicker"></div>
+          <a href="https://ncsu-csm.symplicity.com/calendar/" title="Calendar of Events" target="_blank" id="datepickerLink">Calendar of Events</a> </div>
+      </div>
     </div>
-</div>
-
-	</div>
-	<div id="ft" role="contentinfo">
+  </div>
+  <div id="ft" role="contentinfo">
     <?php require_once('includefiles/footer.php');?>
-    </div>
+  </div>
 </div>
 </body>
 </html>
