@@ -45,7 +45,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
 
          
-          <p class=MsoNoSpacing> A student favorite! Pick up or access on-line our  Job &amp; Internship Guide, published each year by the UCC. The guide offers step-by-step advice on
+          <p> A student favorite! Pick up or access on-line our  Job &amp; Internship Guide, published each year by the UCC. The guide offers step-by-step advice on
             how to prepare for and conduct a successful job search -- complete with   sample resumes, cover
             letters, and interview questions.    </p>
 <ul class="noBulletList">
@@ -53,7 +53,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               version</b> -- pick up a copy in 2100 Pullen Hall<br>
               <b class="MsoNoSpacing">Electronic
             version</b> -- [<a
-href="../../pdfs/jobSearchGuide2010.pdf">printable version</a>]</li>
+href="../../pdfs/jobSearchGuide2010lowRes.pdf">printable version</a>]</li>
           </ul>
           <p class=MsoNoSpacing><strong>Need a handful for your student group?</strong>  <br>
           Come by to pick them up or call ahead and we'll have them ready for you!  <br>

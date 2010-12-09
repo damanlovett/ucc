@@ -41,7 +41,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <li><a href="./">Resumes &amp; Documents</a></li>
                 <li class="last">Sample Resumes</li>
               </ul>
-            </div>  <p>Every resume will be unique.  Your goal is to create a  resume that highlights
+            </div>  
+            <p>Every resume will be unique.  Your goal is to create a  resume that highlights
     your individual strengths, interests, and accomplishments. These sample resumes will  help you get started!</p>
 </div>
 <p>How does a resume progress from freshman to senior? See Eric Lawson's progression below.<br>

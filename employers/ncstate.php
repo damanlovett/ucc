@@ -10,6 +10,7 @@
 <script src="../jquery/js/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
 <link href="../jquery/css/ucc/jquery-ui-1.8.2.custom.css" rel="stylesheet" type="text/css">
 <?php require_once('../includefiles/init.php'); ?>
+
 </head>
 
 <body>
@@ -26,7 +27,6 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
     <?php require_once('../includefiles/topMenu.php');?>
   </div>
   <div id="bd" role="main">
-    <p>&nbsp;</p>
     <div id="yui-main">
       <div class="yui-b">
         <div class="yui-g"><div id="fadeshow1"></div></div>
