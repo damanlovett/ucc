@@ -97,7 +97,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           <!-- <div id="datepicker"><a href="http://ncsu.edu">calendar</a></div> -->
           <div id="datepicker"></div>
-          <a href="https://ncsu-csm.symplicity.com/calendar/" title="Calendar of Events" target="_blank" id="datepickerLink">Calendar of Events</a> </div>
+          <a href="https://ncsu-csm.symplicity.com/calendar/" title="Events List" target="_blank" id="datepickerLink">&raquo; Click Here For Events List</a> </div>
       </div>
     </div>
   </div>
