@@ -143,6 +143,14 @@ href="../pdfs/fairprep-employers.pdf">employer
 
 <div id="tab-2"> 
           <table class="basicTable100">
+            <tr class="altrows">
+              <td valign="top"><p>Social Work Volunteer/Career Fair</p></td>
+              <td valign="top">Jan. 20</td>
+              <td valign="top"><p>2:00-4:00</p></td>
+              <td valign="top"><a href="mailto:tltaylo4@ncsu.edu">Tora Taylor-Glover<br>
+                </a>919.515.2492              </td>
+              <td valign="top"><p><a href="http://www.ncsu.edu/student_center">Talley Student Center</a></p></td>
+            </tr>
     <caption>Spring 2011</caption>
     <tr class="altrows"> 
       <td valign="top"><p><a href="http://students.engr.ncsu.edu/careerfair/">Engineering Career Fair</a>          </p> 
