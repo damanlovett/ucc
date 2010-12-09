@@ -74,7 +74,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
     </div>
     <div class="yui-b">
       <div id="navTop" class="sideTop">
-        <?php require_once('../../includefiles/nav/jobsearchNav.php');?>
+        <?php require_once('../../includefiles/nav/experienceNav.php');?>
       </div>
       <?php require_once('../../includefiles/epacklogin.php'); ?>
       <div id="navMedia" class="sMedia">
