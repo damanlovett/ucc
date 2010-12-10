@@ -51,6 +51,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               make a difference</span>.</p>
           <ul>
             <li>            Stay on track with the <a href="checklist.php">interview checklist</a></li>
+            <li>View an <a href="http://www.youtube.com/ncsucareer">interview video</a></li>
             <li>              Review the interview section of the <a href="../ePACK/guide.php">Job &amp; Internship Guide</a></li>
             <li>View links throughout this section to prepare for important conversations with employers<br>
             </li>

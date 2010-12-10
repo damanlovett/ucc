@@ -194,7 +194,7 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
                 <h2>Management</h2>
                 <ul>
                   <li>                    Dr. Janet Rakes<em><br>
-                    2150 Nelson, 515.5565</em><a href="mailto:sara_concini@ncsu.edu" class="ss_sprite ss_email" title="sara_concini@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Sara Concini ">&nbsp;</span>
+                    2150 Nelson, 515.5565</em><a href="mailto:janet_rakes@ncsu.edu" class="ss_sprite ss_email" title="janet_rakes@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Sara Concini ">&nbsp;</span>
                     <div class="bio toggle_container">
                       <p align="left"><strong>Janet Rakes, Ph.D.<br />
                         Career Coach</strong><br>
