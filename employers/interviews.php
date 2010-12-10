@@ -37,7 +37,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <ul>
                 <li class="first"> <a href="/career/">Home</a> </li>
                 <li> <a href="./">Access for Employers</a> </li>
-                <li class="last"> About NC State </li>
+                <li class="last"> On-campus Interviews </li>
               </ul>
             </div>
           </div>
