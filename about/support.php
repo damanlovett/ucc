@@ -54,7 +54,7 @@ href="\about\staff.php">career counselor</a></li>
           <hr />
           <p><b>Refer
             employers <br>
-          </b>Thank you for referring employers to the UCC!   We help employers develop a presence on campus and maximize their efforts in recruiting of NC State students!</p>
+          </b>Thank you for referring employers to the UCC!   We help employers develop a presence on campus and strategies to help them recruit successfully at NC State!</p>
           <ul class="noBulletList">
             <li> <strong>ePACK</strong>:  request access to ePACK, NC State's internship &amp; job system, <a href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a><br>
             <strong>Consult
