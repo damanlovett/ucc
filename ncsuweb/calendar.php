@@ -20,7 +20,7 @@ $(document).ready(function(){
 </script>
 </head>
 
-<body>
+<body id="web">
 
 <!-- NCSTATE Bar -->
 <link rel="stylesheet" type="text/css" href="http://www.ncsu.edu/brand/utility-bar/iframe/css/utility_bar_iframe.css" media="screen" />
