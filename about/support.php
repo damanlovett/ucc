@@ -41,29 +41,25 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </div>
           </div>
           <p><b>Refer
-            students to the UCC</b><br>
-            Thank you for referring freshmen through graduate students who are in degree programs.  We look forward to providing personalized services to meet their needs.         </p>
+            students</b><br>
+            Thank you for referring students to the UCC! We serve students in all degree programs -- from freshman year through graduate school.         </p>
           <ul class="noBulletList">
-            <li> <strong>Appointments</strong>:  meet with a career counselor who works with
-              your major, call 919.515.2396<br> 
+            <li> <strong>Appointments</strong>:  call 919.515.2396 to schedule an appointment with a career counselor<br> 
               <strong>Walk-in
-              hours</strong>:  meet with
-            a career counselor on duty, 11am-2pm daily<br> 
-            <strong>Email</strong>:  call
-            919.515.2396, send a <a
+              hours</strong>:  stop by 11am-2pm daily when school is in session for quick questions<br> 
+            <strong>Email</strong>:  send a <a
 href="mailto:career_center@ncsu.edu">general inquiry</a> or email a <a
 href="\about\staff.php">career counselor</a></li>
           </ul>
+          <hr />
           <p><b>Refer
-            employers to the UCC<br>
-          </b>Thank you for referring employers of all sizes and locations to the UCC.  Be rest assured that we will offer Small local to large international employers
-              benefit from the  assistance we provide to help them recruit NC State students.    </p>
+            employers <br>
+          </b>Thank you for referring employers to the UCC!   We help employers develop a presence on campus and maximize their efforts in recruiting of NC State students!</p>
           <ul class="noBulletList">
             <li> <strong>ePACK</strong>:  request access to ePACK, NC State's internship &amp; job system, <a href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a><br>
             <strong>Consult
               with professional staff</strong>:  call
-              919.515.2396, send a <a
-href="mailto:career_center@ncsu.edu">general inquiry</a> or email <a
+              919.515.2396 or email <a
 href="mailto:bridget_yarborough@ncsu.edu">Bridget Yarborough</a></li>
           </ul>
           <hr />

@@ -67,8 +67,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div class="yui-g announcements">
           <h1 class="center">UCC Announcements</h1>
           <div class="yui-u first a1">
-            <h2>NC State graduates ranked 19th</h2>
-            <p><a href="http://students.engr.ncsu.edu/careerfair/"></a>Recruiters from the nation's largest employers were surveyed by the Wall  Street Journal. <br>
+            <h2>Career ready!</h2>
+            <p><a href="http://students.engr.ncsu.edu/careerfair/"></a>NC State ranked #19 in the nation for job recruits according to Wall Street Journal survey!<br>
               [ <a href="http://online.wsj.com/article/SB10001424052748704554104575435563989873060.html">more info</a> ]</p>
             <ul class="contactInfo">
               <li>University Career Center</li>
