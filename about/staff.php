@@ -70,10 +70,12 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               <td width="50%" valign=top><h2>Design</h2>
                 <ul>
                   <li>Amanda Williams<strong><br>
-                  </strong><em>223 Brooks, 515-8325</em> <br>
+                  </strong><em>223 Brooks, 515-8325</em>&nbsp;<a href="mailto:amanda_williams@ncsu.edu" class="ss_sprite ss_email" title="amanda_williams@ncsu.edu"></a>
+<span class="trigger ss_sprite ss_user" title="Bio for Amanda Williams">&nbsp;</span>
                     <div class="bio toggle_container">
                       <p align="left"><strong>Amanda Williams, M.A.<br />
                         Director of Career and Academic Advising </strong><br>
+                        
                         <a href="mailto:amanda_williams@ncsu.edu">amanda_williams@ncsu.edu</a><br>
                         Amanda   serves students in the College of Design. Prior to joining the College of   Design, she worked in Career Services at UNC Chapel Hill and Boston College. She   has worked in a number of other student services capacities including academic   advising, orientation and leadership development. Amanda received her Master of   Arts in Higher Education Administration from Boston College and a dual   Bachelor’s degree in Human Development &amp; Sociology from Binghamton   University (NY). She is currently pursuing a PhD in Educational Research and   Policy Analysis (concentration in higher education) here at NC State. </p>
                     </div>
