@@ -70,12 +70,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <h2>Career ready!</h2>
             <p><a href="http://students.engr.ncsu.edu/careerfair/"></a>NC State ranked #19 in the nation for job recruits according to Wall Street Journal survey!<br>
               [ <a href="http://online.wsj.com/article/SB10001424052748704554104575435563989873060.html">more info</a> ]</p>
-            <ul class="contactInfo">
-              <li>University Career Center</li>
-              <li>2100 Pullen Hall #7303</li>
-              <li>career_center@ncsu.edu</li>
-              <li>919-515-2396</li>
-            </ul>
+            
           </div>
           <div class="yui-u a2">
             <h2>December grads -- <em>what's next?</em></h2>
@@ -83,6 +78,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               [ <a href="http://www2.acs.ncsu.edu/UPA/survey/future_plans.htm">more info</a> ]</p>
           </div>
         </div>
+        
+        
+        <div id="featuredVideo" class="yui-g announcements">
+            <h1 class="major">Featured Video</h1>
+            <iframe title="YouTube video player" class="youtube-player" type="text/html" width="200" height="180" src="http://www.youtube.com/embed/Gjv0fOuzTMQ" frameborder="0"></iframe>
+            </div>
+        
+        
       </div>
       <div class="yui-g">
         <div class="yui-u first twitterfeed">

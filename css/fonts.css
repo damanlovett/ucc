@@ -1,0 +1,28 @@
+/* Extra css testing page */
+
+#footerInformation {
+	background:#CC0000;
+	text-align:center;
+	border:none;
+	padding:2px 0;
+}
+.footerList {
+	display:none;
+}
+li.redFooter {
+	margins:0 auto;
+	color:#fff;
+	padding:2px 0 2px 0;
+	list-style-type: none;
+}
+#footerInformation li.redFooter a, #footerInformation li.redFooter a:visited{
+	color:#fff;
+	text-decoration:underline;
+}
+#footerInformation li.redFooter a:hover {
+	text-decoration:none;
+}
+
+iframe {margin:10px 0 0 0;border:1px solid #000;}
+
+#featuredVideo { width:100%; margin-top:10px }
