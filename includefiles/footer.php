@@ -1,6 +1,6 @@
-<ul id="footerInformation">
+<ul id="footerInformation" class="ui-corner-bottom">
 	<li class="redFooter">Copyright &copy; <?php echo date ('Y');?> University Career Center at NC State | <a href="mailto:career_center@ncsu.edu">Send Feedback</a> </li>
-    <li class="redFooter">2100 Pullen Hall #7303 &bull; Raleigh, NC 27695 &bull; phone: 919-515-2396 &bull; fax: 919-515-4210 </li>
+    <li class="redFooter">2100 Pullen Hall CB7303 &bull; Raleigh, NC 27695 &bull; phone: 919-515-2396 &bull; fax: 919-515-4210 </li>
 	<li class="footerList ltColumn">&copy; <?php echo date('Y');?> University Career Center</li>
     <li class="footerList rtColumn">
     	<ul>
