@@ -25,6 +25,9 @@
 div#navMedia, ul#navePack {
 	margin: 15px 0 0 30px;
 }
+#featuredVideo .youtube-player {
+	margin-right: 15px;
+}
 ul.contactInfo {
 	margin:30px 0 0 0;
 }
@@ -81,8 +84,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         
         
         <div id="featuredVideo" class="yui-g announcements">
-            <h1 class="major">Featured Video</h1>
+            <h1 class="major">Featured Videos</h1>
             <iframe title="YouTube video player" class="youtube-player" type="text/html" width="200" height="180" src="http://www.youtube.com/embed/Gjv0fOuzTMQ" frameborder="0"></iframe>
+            <iframe title="YouTube video player" class="youtube-player" type="text/html" width="200" height="180" src="http://www.youtube.com/embed/T1WwkOVaUxU" frameborder="0"></iframe>
             </div>
         
         
