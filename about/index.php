@@ -24,7 +24,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
   <div id="hd" role="navigation">
     <?php require_once('../includefiles/topMenu.php');?>
   </div>
-  <div id="bd" role="main">
+  <div id="bd" role="main"> 
     <div id="yui-main">
       <div class="yui-b">
         <div class="yui-g">
@@ -46,13 +46,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             help can make all the difference.  UCC
             counselors use expertise drawn from working with professionals in your field,
             faculty, staff and students to give you the knowledge, insight and resources
-            you need to get you moving and keep you going in the right direction.  </p>
+            you need to get you moving and keep you going in the right direction.</p>
           <p>We know you're
             motivated to find career opportunities following college - we share your
             excitement and can help you get there successfully by making the steps more
             manageable.</p>
-          <p>[&nbsp;<a href="conduct.php">Professionalism at the UCC</a>&nbsp;]</p>
-        </div>
+          <hr />
+          <a href="../pdfs/ataglance.pdf">UCC at a glance</a><br>
+        <a href="conduct.php">Professionalism at the UCC</a> </div>
       </div>
     </div>
     <div class="yui-b">
