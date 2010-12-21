@@ -68,8 +68,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                <p><strong>History</strong><u><br>
                </u>Pilot program  occurred at the end of spring 2009 semester exams.  We had 9 student participants and 6 employers. Spring 2010 externship program occurred  during spring break week with 27 students and 19 employers. </p>
                <p><strong>Questions</strong><br>
-                 <a href="/pdfs/extern_student.pdf">Student FAQs</a> <br>
-                 <a href="/pdfs/extern_employer.pdf">Employer FAQs</a> <br>
+                 <a href="/career/pdfs/extern_student.pdf">Student FAQs</a> <br>
+                 <a href="/career/pdfs/extern_employer.pdf">Employer FAQs</a> <br>
                  Contact  Leslie Bowman, Externship Coordinator, <a href="mailto:leslie_bowman@ncsu.edu">leslie_bowman@ncsu.edu</a></p>
         </div>
       </div>
