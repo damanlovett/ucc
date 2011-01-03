@@ -30,30 +30,25 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div class="yui-g"> <img src="../img/headerStudentExample.jpg" alt="header" width="720" height="164"> </div>
         <div id="secContent" class="yui-g">
           <h1>Unity Access </h1>
-          <p>These sites are restricted to NC State students and require unity login. If you experience trouble with one of these sites, please let us know -- 919.515.2396, <a href="mailto:career_center@ncsu.edu">career_center@ncsu.edu</a>.</p>
-          <p><strong>Choosing a major </strong></p>
-          <ul>
-            <li><a href="http://www.careerkey.org">Career Key</a> <br>
-              <strong>Choose:</strong> &quot;Take the Career Key Test with my User Code&quot;<br>
-              <strong>Code: </strong>WPACK </li>
-          <li><a href="https://access.bridges.com/portal/client/landingPage.do">Choices</a><br />
-              <strong>ID:</strong> 1212609<br />
-              <strong>Password:</strong> ncstate <br />
-              <strong>Password (ability profiler):</strong> begin </li>
-          </ul>
-        <p><strong>Getting Experience </strong></p>
-          <ul>
-            <li><a href="http://careerweb.unc.edu/cgi-bin/odbic.exe/eleads3/searchstu.htm?logschool=NCSU">eLeads</a></li>
-            <li><a href="http://v2.careersearch.net/client">Career Search</a><br />
-              <strong>New users:</strong> create an account (username &amp; password) <br />
-              <strong>Returning users:</strong> username, &amp; password <br />
-              <strong>NOTE: </strong>Client referral = wolfpack04 </li>
-          <li><a href="http://www.internships-usa.com/">Internships-USA</a><br>
-            <strong>Choose:</strong> &quot;The Internship Series On-line&quot;<br>
-            <strong>Username:</strong>  work<br>
-            <strong>Password: </strong>learn
-          </li>
-          </ul>
+          <p>These sites are restricted to NC State students and require unity login. <br>
+            Need help?  Contact the UCC at 
+          919.515.2396 or <a href="mailto:career_center@ncsu.edu">career_center@ncsu.edu</a>.</p>
+          <p><a href="http://www.careerkey.org">Career Key</a> <br>
+            Choose: &quot;Take the Career Key Test&quot; -- then -- &quot;Take the Career key Text with my User Code&quot;<br>
+          User Code: WPACK </p>
+          <p><a href="https://access.bridges.com/portal/client/landingPage.do">Choices</a><br />
+            ID: 1212609<br />
+            Password: ncstate <br />
+            Password (ability profiler): begin</p>
+<p><a href="http://careerweb.unc.edu/cgi-bin/odbic.exe/eleads3/searchstu.htm?logschool=NCSU">eLeads</a></p>
+          <p><a href="http://v2.careersearch.net/client">Career Search</a><br />
+            New users: create an account (username &amp; password) <br />
+            Returning users: username, &amp; password<br />
+            NOTE: Client referral = wolfpack04 </p>
+          <p><a href="http://www.internships-usa.com/">Internships-USA</a><br>
+            Choose: &quot;The Internship Series On-line&quot;<br>
+            Username:  work<br>
+          Password: learn          </p>
         </div>
       </div>
     </div>

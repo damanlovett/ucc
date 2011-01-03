@@ -40,19 +40,20 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-              <b>YouTube videos</b> <i>– on your own</i> <b><br>
+              <p><b>YouTube videos</b> <i>– on your own</i> <b><br>
               </b>View <a href="http://www.youtube.com/ncsucareer">brief videos</a> on a variety of topics related to the job search. These videos are created by the UCC staff. </p>
-            <p><b>General
-              Presentations </b><i>– by Career Ambassadors  <br>
+              </p>
+              <p><b>General
+              presentations </b><i>– by Career Ambassadors  <br>
               </i>Request a presentation for your group, led by student
               leaders.  These are ideal for residence halls, Greek
               life, or clubs where a mixture of majors will be in attendance.  Typical topics are UCC services, resumes,
               interviews, or ePACK.  Request a presentation from the <a
 href="/career/about/ambassadors.php">career
             ambassadors</a>. </p>
-          <p><b>Specific Presentations</b> <i>– by Career Counselors<br>
+          <p><b>Specific presentations</b> <i>– by Career Counselors<br>
             </i>Request a presentation for your professional society, honor society or class where specific information of interest to your major or college is desired. Contact your <a
-href="/career/about/staff.php">career counselor</a> to make a request  </p>
+href="/career/about/staff.php">career counselor</a> to make a request.  </p>
 </div>
       </div>
     </div>

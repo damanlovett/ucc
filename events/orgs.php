@@ -40,7 +40,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-<p>Honor societies, social or interest groups, and professional societies often sponsor career-related and professional development events.  A good number of these involve employers who participate in presentations, panel
+<p>Student organizations -- whether honor societies, social or interest groups, or professional societies -- often sponsor professional development or career-related events!  A good number of these involve alumni and employers who participate in presentations, panel
 discussions, projects, and networking events. </p>
 
 

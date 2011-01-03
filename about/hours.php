@@ -44,7 +44,6 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           <p><b>Hours</b><br>
             Monday-Friday, 8:00am-5:00pm<br>
-            <em>(NC State is closed 12/24/10 and will reopen 1/3/11.) </em><br>
           </p>
           <p><b>Appointments</b><br>
             An appointment is suggested for discussions about your major, resume, interviews, and internship/job

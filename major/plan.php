@@ -83,7 +83,7 @@
                       teamwork skills through activities and organizations.  </li>
                 <li>Create a <a href="../experience/resumes/index.php">resume
                   and cover letter</a> using the <a
-href="../pdfs/jobSearchGuide2010.pdf">online guide</a> [large pdf file-25 MB] and fine tune it
+href="http://www.ncsu.edu/career/pdfs/jobSearchGuide2010lowRes.pdf">online guide</a>  and fine tune it
                       with a career counselor. </li>
                 <li>Attend a <a href="../events/fairs.php">career fair</a> to learn about different career paths and make contact with
                       professionals. </li>

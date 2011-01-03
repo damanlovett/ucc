@@ -42,42 +42,41 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           <p><b>Refer
             students</b><br>
-            Thank you for referring students to the UCC! We serve students in all degree programs -- from freshman year through graduate school.         </p>
+            We serve students in all degree programs -- from freshman year through graduate school. <br>
+            Thank you for referring students to the UCC!        </p>
           <ul class="noBulletList">
-            <li> <strong>Appointments</strong>:  call 919.515.2396 to schedule an appointment with a career counselor<br> 
-              <strong>Walk-in
-              hours</strong>:  stop by 11am-2pm daily when school is in session for quick questions<br> 
-            <strong>Email</strong>:  send a <a
-href="mailto:career_center@ncsu.edu">general inquiry</a> or email a <a
-href="\about\staff.php">career counselor</a></li>
+            <li> Appointments:  call 919.515.2396 to schedule an appointment with a career counselor<br> 
+              Walk-ins:  stop by 11am-2pm for quick questions (daily, when school is in session)<br> 
+            Email: <a href="mailto:career_center@ncsu.edu">career_center@ncsu.edu</a>  </li>
           </ul>
           <hr />
           <p><b>Refer
             employers <br>
-          </b>Thank you for referring employers to the UCC!   We help employers develop a presence on campus and strategies to help them recruit successfully at NC State!</p>
+          </b>We help employers of all sizes to develop a recruiting strategy and presence on campus. <br>
+          Thank you for referring employers to the UCC!</p>
           <ul class="noBulletList">
-            <li> <strong>ePACK</strong>:  request access to ePACK, NC State's internship &amp; job system, <a href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a><br>
-            <strong>Consult
-              with professional staff</strong>:  call
+            <li> ePACK:  request access to ePACK, NC State's internship &amp; job system, <a href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a><br>
+            Consult
+              with professional staff:  call
               919.515.2396 or email <a
 href="mailto:bridget_yarborough@ncsu.edu">Bridget Yarborough</a></li>
           </ul>
           <hr />
           <p><b>Support our success<br>
-          </b>Looking for an
-              opportunity to support the UCC?  Your
+          </b>Your
               contributions of time, expertise, and funding are critical ingredients to our
-              success. 
-          </p>
+              success.<br>
+              Thank you for  supporting the UCC!
+                </p>
           <ul>
             <li>Conduct
                 practice interviews or resume critiques with students</li>
             <li> Advertise
-                in the <a href="../experience/ePACK/guide.php">Job &amp; Internship Guide</a>, a publication for student</li>
+                in the <a href="../experience/ePACK/guide.php">Job &amp; Internship Guide</a>, a publication for students</li>
             <li> Fund
                   a student intern or graduate student in the UCC&nbsp; </li>
             <li> Support
-                the <a href="/about/ambassadors.php">career ambassador</a> program</li>
+                the <a href="/career/about/ambassadors.php">career ambassador</a> program</li>
             <li> Contribute
                 or update technology</li>
             <li> Add
@@ -85,12 +84,10 @@ href="mailto:bridget_yarborough@ncsu.edu">Bridget Yarborough</a></li>
             <li> Sponsor
                 interview rooms</li>
             <li> Upgrade
-                  office space</li>
+              office space</li>
           </ul>
-          <hr />
-          <p><strong>Questions?</strong><br>
-            Contact Carol Schroeder, Director -- to discuss
-                possibilities&nbsp; <br>
+          <p>            Contact Carol Schroeder, Director -- to discuss
+            possibilities&nbsp; <br>
             <a href="mailto:carol_schroeder@ncsu.edu">carol_schroeder@ncsu.edu</a>,
               919.515.2396</p>
         </div>

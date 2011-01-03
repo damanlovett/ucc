@@ -38,14 +38,15 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-          <p>Looking for a program for your student group?<br>
-          Ideal for residence halls, Greek life, or clubs where a variety of majors are represented.<br>
-          <a
-href="../pdfs/ca-request.pdf">Request a program</a> from trained student leaders!          </p>
-          <hr />
+          <p>          Career ambassadors are eager to share their knowledge and expertise with other students! Come by the UCC to meet with an ambassador  (call ahead for hours) -- or  <a
+href="../pdfs/ca-request.pdf">request a program</a> for your student group!  </p>
+          <p>Ambassadors will work with you to deliver a presentation or facilitate a discussion on a career-related topic of interest to your group.  Venues such as residence halls, Greek life, clubs, or events where a variety of majors will be present are ideal!<br>
+            <br>
+          </p>
+<hr />
           <table width="447">
             <caption>
-            <div align="left"><strong>Career Ambassadors -- 2010-2011</strong> 
+            <div align="left"><strong>Spring 2011 Career Ambassadors</strong> 
               <br>
             </div>
             </caption>

@@ -47,17 +47,16 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         </div>
 
           <p>We're pleased to help you plan your trip!<br>
-            <a href="#directions">Directions</a> / <a href="#parking">Parking</a> / <a href="#accommodations">Accommodations</a> / <a href="#attractions">Attractions</a> / <a href="#weather">Weather</a><br>
-          </p>
+          <a href="#directions">Directions</a> / <a href="#parking">Parking</a> / <a href="#accommodations">Accommodations</a> / <a href="#attractions">Attractions</a> / <a href="#weather">Weather</a></p>
+          <hr />
 <p><b><a name="directions"></a>Directions</b><br>
-            NC State is located in the capital city of Raleigh, inside
-          the 440 beltline, west of downtown. [<a
-href="http://www.google.com/maps?f=d&amp;source=s_d&amp;saddr=&amp;daddr=3200+Thurman+Drive,+Raleigh,+NC,+27606&amp;geocode=FU4OIgIdw4NP-yk_JQ_alfWsiTF-XiJ4Vf0LCA&amp;hl=en&amp;mra=ls&amp;sll=35.786009,-78.674104&amp;sspn=0.004282,0.006899&amp;ie=UTF8&amp;z=16">google map</a>]</p>
+            NC State is located in the capital city of Raleigh, west of downtown, inside
+          the 440 beltline. [<a href="http://www.google.com/maps?f=d&source=s_d&saddr=&daddr=3200+Thurman+Drive">Google map</a>]</p>
 <ul>
   <li><i>From
     RDU airport</i><br>
     Rte. 40E to Wade Ave.&nbsp; Follow Wade Ave. into Raleigh and turn right on Dixie
-    Trail.&nbsp; At the end, turn left on Hillsborough St. and take first right  onto Dan Allen Dr.  If you have a
+    Trail.&nbsp; At the end, turn left on Hillsborough St. and  first right  onto Dan Allen Dr.  If you have a
     parking permit, turn right into Dan Allen Parking Deck just before the
     bridge.&nbsp; If you do not have a parking permit, continue to Pullen Hall, the
     first building on your left after the bridge.</li>
@@ -66,26 +65,26 @@ href="http://www.google.com/maps?f=d&amp;source=s_d&amp;saddr=&amp;daddr=3200+Th
 <p><b><a name="parking"></a>Parking</b><br>
             The <a href="http://www.ncsu.edu/facilities/buildings/danallendeck.html">Dan Allen Parking Deck</a> is most convenient to the UCC, a
             5 min. walk.  <br>
-            For parking in other areas
-            of main or centennial campus, visit <a
-href="http://www2.acs.ncsu.edu/trans/visitors/index.html">NC
-            State Transportation</a>.  </p>
-<p><i>Dan Allen Parking Deck</i></p>
+</p>
 <ul>
   <li>Pick up a permit at the UCC, 2100 Pullen Hall.   <u>Cost</u>:  $0. <br>
-    Permits are also available through the <a
-href="http://www2.acs.ncsu.edu/trans/maps/download/MCampus_Visitor_map.pdf">Visitor Information Booth</a> on Stinson Dr.  <u>Cost</u>:  $2.00.  </li>
+    [Permits are also available through the <a
+href="http://www2.acs.ncsu.edu/trans/maps/download/MCampus_Visitor_map.pdf">Visitor Information Booth</a> on Stinson Dr.  <u>Cost</u>:  $2.00.]  </li>
   <li>Without a permit, park in the pay lot section
     of the deck.  Credit card only is
     accepted:  American Express, Discover,
     Master Card, or Visa.  <u>Cost</u>:  $2.00 for the first hour, $1.00 for each
     additional, $6.00 daily maximum.  </li>
 </ul>
-          <hr />
+<p>For parking in other areas
+            of main or centennial campus, visit <a
+href="http://www2.acs.ncsu.edu/trans/visitors/index.html">NC
+          State Transportation</a>.  </p>
+<hr />
           <p>            <strong><a name="accommodations"></a>Accommodations</strong><br>
             <span class="hidePrint">The following hotels have been selected due to their convenient locations and AAA rating.
             <br>
-            Directions to the UCC are provided. </span></p>
+            Directions from each hotel to the UCC are provided. </span></p>
           <div id="accordion">
             <h3><a href="#">Holiday Inn Express &amp; Suites</a></h3>
             <div>

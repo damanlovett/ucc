@@ -47,7 +47,7 @@ href="http://www.ncsu.edu/tutorial_center/writespeak/Admissions.htm">NC State Tu
             <li> Have
                   your statement critiqued by faculty, <u><a
 href="http://www.ncsu.edu/tutorial_center/writespeak/locations.htm">Tutor</a></u> or <a
-href="http://www.ncsu.edu/career/quicklinks/staff.php">career counselor</a>. </li>
+href="../about/staff.php">career counselor</a>. </li>
           </ul>
           <hr size=2 width="100%" align=center>
           <p>There are two main approaches to organizing an
