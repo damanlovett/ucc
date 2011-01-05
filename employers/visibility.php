@@ -12,7 +12,7 @@
 <?php require_once('../includefiles/init.php'); ?>
 </head>
 
-do<body id="employers">
+<body id="employers">
 <!-- NCSTATE Bar -->
 <link rel="stylesheet" type="text/css" href="http://www.ncsu.edu/brand/utility-bar/iframe/css/utility_bar_iframe.css" media="screen" />
 <iframe name="ncsu_branding_bar" id="ncsu_branding_bar" frameborder="0" src="http://www.ncsu.edu/brand/utility-bar/iframe/index.php?color=red&amp;inurl=ncsu.edu/career&amp;center=yes" scrolling="no"> Your browser does not support inline frames or  
@@ -41,9 +41,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </div>
           </div>
 
-          <p>Increase your
-            visibility on campus by participating in a variety of recruiting activities.  Keep in mind that new students arrive every
-            year and have limited knowledge of the range of employers who hire them! </p>
+          <p>New students arrive on campus each year and have limited knowledge of the employers who hire them. This is an opportunity for you! We've identified several recruiting activities that will  increase your
+            visibility with students. </p>
           <ul>
             <li><b>Hire
                 students  <br>
@@ -56,7 +55,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                   ePACK<br>
               </b>Post internships and
                   entry-level jobs, search the database for potential candidates, arrange
-                  on-campus interviews, and schedule information sessions.  ePACK is the most visibily system at NC State! Login to <a href="epack.php">ePACK</a>.<br>
+                  on-campus interviews, and schedule information sessions.  ePACK is the most visible system at NC State! Login to <a href="epack.php">ePACK</a>.<br>
                   <br>
             </li>
             <li><b>Attend
@@ -76,11 +75,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           
             <li><b>Offer
               practice  interviews or resume critiques<br>
-              </b>Show students your commitment to helping them prepare. Come to campus for half or full day to conduct practice interviews or resume critiques. At the same time, meet students of potential interest! Contact Bridget Yarborough, Coordinator of Recruiting -- <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>.<br>
+              </b>Show students your commitment to helping them prepare. Come to campus to conduct practice interviews or resume critiques. At the same time, meet students of potential interest! Contact Bridget Yarborough, Coordinator of Recruiting -- <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>.<br>
               <br>
             </li>
             <li> <b>Advertise with campus media</b><br>
-              Get in front of students through a form of campus media.<br>
+              Get in front of students through NC State's campus media.<br>
               <a href="../experience/ePACK/guide.php">Job &amp; Internship Guide</a> -- UCC publication
               <br>
               <a

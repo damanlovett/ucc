@@ -45,15 +45,17 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             students make great hires!<br>
             There are several different ways to attract and develop
             Wolfpack talent in your organization.  </p>
-          <p><strong>Internships: </strong>summer or part-time career-related
-            experience.<b><br>
-            </b><strong>Externships:</strong> 1-2 day engineering job shadowing experience
-            during spring semester.<br>
-            <b>Co-op:</b>  1 year career-related experience alternating
-            semesters of work and school.<br>
-            <b>Entry-level jobs:</b>  full-time career-related positions within 1
-            year of graduation. </p>
-          <hr />
+          <ul>
+            <li><strong>Internships </strong>-- summer or part-time career-related
+            experience.</li>
+            <li><strong>Externships </strong> -- 1-2 day engineering job shadowing experience
+              during spring semester.</li>
+            <li><b>Co-op </b> -- 1 year career-related experience alternating
+              semesters of work and school.</li>
+            <li><b>Entry-level jobs</b> -- full-time career-related positions within 1
+              year of graduation. </li>
+          </ul>
+<hr />
           <p>Many employers consider the early identification programs
             (internships, externships, co-op) to be a key component of their campus
             recruiting success.  [ <a href="http://www.naceweb.org/Research.aspx?fid=64&menuID=120&ispub=False&nodetype=7&navurl=">more info</a> ] Whether you are a
