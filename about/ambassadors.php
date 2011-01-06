@@ -38,9 +38,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-          <p>          Career ambassadors are eager to share their knowledge and expertise with other students! Come by the UCC to meet with an ambassador  (call ahead for hours) -- or  <a
+           <p>          <img src="../img/imgAmbassadors_group.jpg" alt="Career Ambassadors" width="400" height="294" hspace="10" align="left"/>Career ambassadors are eager to share their knowledge and expertise with other students! Come by the UCC to meet with an ambassador  (call ahead for hours) -- or  <a
 href="../pdfs/ca-request.pdf">request a program</a> for your student group!  </p>
-          <p>Ambassadors will work with you to deliver a presentation or facilitate a discussion on a career-related topic of interest to your group.  Venues such as residence halls, Greek life, clubs, or events where a variety of majors will be present are ideal!<br>
+
+          <p>During the Fall 2010 semester, our Ambassadors presented to over 400 students at 14 different events, including career fairs, residence hall programs, sorority and fraternity chapter meetings, and other campus programs. Presentation topics included resume writing, career fair prep, interviewing skills, ePACK, and introductions to the UCC's services.<br><div class="ui-helper-clearfix"></div>
             <br>
           </p>
 <hr />
