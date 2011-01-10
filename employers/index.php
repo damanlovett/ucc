@@ -47,23 +47,25 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             Wolfpack talent in your organization.  </p>
           <ul>
             <li><strong>Internships </strong>-- summer or part-time career-related
-            experience.</li>
+            experience.*</li>
             <li><strong>Externships </strong> -- 1-2 day engineering job shadowing experience
-              during spring semester.</li>
+              during spring semester.*</li>
             <li><b>Co-op </b> -- 1 year career-related experience alternating
-              semesters of work and school.</li>
+              semesters of work and school.*</li>
             <li><b>Entry-level jobs</b> -- full-time career-related positions within 1
-              year of graduation. </li>
+              year of graduation.
+</li>
           </ul>
-<hr />
-          <p>Many employers consider the early identification programs
-            (internships, externships, co-op) to be a key component of their campus
-            recruiting success.  [ <a href="http://www.naceweb.org/Research.aspx?fid=64&menuID=120&ispub=False&nodetype=7&navurl=">more info</a> ] Whether you are a
-            large international organization or a small local entrepreneur – we look
-            forward to helping you recruit at NC State!</p>
-          <p>Get started with <a
-href="epack.php">ePACK</a> -- NC State's on-line recruiting system<br>
-          Questions --          Consult with Bridget Yarborough, Coordinator of Recruiting -- <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>          </p>
+          <p>We look
+          forward to helping you recruit at NC State!</p>
+          <ul>
+            <li><a href="epack.php">Get started with ePACK</a> -- NC State's on-line recruiting system</li>
+            <li>              Questions --          Consult with Bridget Yarborough, Coordinator of Recruiting -- <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>          </li>
+          </ul>
+          <hr />
+          <p>* Many employers consider the early identification programs
+              (internships, externships, co-op) to be key components of their campus
+          recruiting success. [ <a href="http://www.naceweb.org/Research.aspx?fid=64&menuID=120&ispub=False&nodetype=7&navurl=">more info</a> ] </p>
         </div>
       </div>
     </div>
