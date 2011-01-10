@@ -36,7 +36,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
     <a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a> @ NC State </p>
   <p><STRONG>Students<BR>
   </STRONG>All students in all majors are invited to   attend!<BR>
-  List of employers attending <a href="https://ncsu-csm.symplicity.com/events/students.php?mode=list&cf=COM_fall2010">fall 2010</a>, spring 2011<em> (coming soon!)</em><BR>
+  <a href="https://ncsu-csm.symplicity.com/events/students.php?mode=list&cf=COM_spring2011">List of employers attending</a><BR>
   <A href="../pdfs/fairprep-students.pdf">Tips for success at the fair</A></p>
   <p><STRONG>Employers</STRONG><BR>
     Register for the fair through <A href="http://www.ncsu.edu/epack/employer">ePACK</A>. <BR>
