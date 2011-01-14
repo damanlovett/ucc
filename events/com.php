@@ -30,7 +30,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
       <div class="yui-b">
         <div class="yui-g"><div id="fadeshow1"></div></div>
         <div id="secContent" class="yui-g">
-          <h1>Management Career Fair</h1>
+          <h1>POOLE COLLEGE OF Management Career Fair</h1>
   <p> Thursday, February 3, 2011<br /> 
     10:00am-4:00pm <br /> 
     <a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a> @ NC State </p>
@@ -40,7 +40,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
   <A href="../pdfs/fairprep-students.pdf">Tips for success at the fair</A></p>
   <p><STRONG>Employers</STRONG><BR>
     Register for the fair through <A href="http://www.ncsu.edu/epack/employer">ePACK</A>. <BR>
-    Learn more about the   programs and initiatives of the <A href="http://www.mgt.ncsu.edu/">College of   Management</A>. <BR>
+    Learn more about the   programs and initiatives of the <A href="http://www.mgt.ncsu.edu/">Poole College of   Management</A>. <BR>
     Questions? Contact Dr. Janet Rakes, <A href="mailto:janet_rakes@ncsu.edu">janet_rakes@ncsu.edu</A></p>
   <p>    <em> 
             </em>      </p> 

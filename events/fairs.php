@@ -92,7 +92,7 @@ href="../pdfs/fairprep-employers.pdf">employer
             </tr>
             <tr>
               <td valign=top><a
- href="com.php">Management Career Fair </a></td>
+ href="com.php">Poole College of Management Career Fair </a></td>
               <td valign=top>Oct. 15 </td>
               <td valign=top nowrap>10:00-4:00</td>
               <td valign=top><a href="mailto:janet_rakes@ncsu.edu">Janet Rakes </a><br>
@@ -161,7 +161,7 @@ href="../pdfs/fairprep-employers.pdf">employer
       <td valign="top"><p><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></p></td> 
     </tr>
     <tr class="altrows"> 
-      <td width="30%" valign="top"><p><a href="com.php">Management Career Fair</a></p></td> 
+      <td width="30%" valign="top"><p><a href="com.php">Poole College of Management Career Fair</a></p></td> 
       <td width="11%" valign="top">Feb. 3
         <br />      </td> 
       <td width="11%" valign="top" nowrap><p>10:00-4:00</p></td> 
