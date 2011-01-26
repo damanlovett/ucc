@@ -177,6 +177,15 @@ href="../pdfs/fairprep-employers.pdf">employer
         919.515.2396</td>
       <td valign="top"><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></td>
     </tr> 
+    <tr class="altrows">
+      <td valign="top">Teacher Network Fair</td>
+      <td valign="top">Mar. 8</td>
+      <td valign="top" nowrap>9:30-11:30</td>
+      <td valign="top"><a href="mailto:dr_ingram@ncsu.edu">D.R. Ingram</a><br>
+        919.515.2396</td>
+      <td valign="top"><a href="http://www.meredith.edu/">Meredith College</a><br>
+        Belk Dining Hall</td>
+    </tr>
     <tr class="altrows"> 
       <td valign="top"><p><span class="style9"><a href="http://www.peace.edu/content/page/id/821">Non-profit Career Fair</a></span></p></td> 
       <td valign="top">Mar. 25 </td> 

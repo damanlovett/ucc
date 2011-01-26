@@ -58,9 +58,9 @@ href="http://www.linkup.com" class="MsoNoSpacing">Linkup</a></li>
           <p class=MsoNoSpacing><b>Company rankings</b></p>
           <ul>
             <li><a
-href="http://money.cnn.com/magazines/fortune/rankings/" class="MsoNoSpacing">Fortune's 2010</a>:  most admired, fastest growing, most diverse</li>
+href="http://money.cnn.com/magazines/fortune/rankings/" class="MsoNoSpacing">Fortune's 2011</a>:  best companies to work for</li>
             <li><a
-href="http://www.collegegrad.com/topemployers/2010_interns.php" class="MsoNoSpacing">Collegegrad's 2010</a>:  top employers for interns, entry-level,
+href="http://www.collegegrad.com/topemployers/2010_interns.php" class="MsoNoSpacing">Collegegrad's 2011</a>:  top employers for interns, entry-level,
               masters </li>
           </ul>
           <p class=MsoNoSpacing><b>North Carolina leads</b></p>
@@ -196,7 +196,7 @@ href="http://www.unitedwaytriangle.org/ma/index.asp" class="MsoNoSpacing">Triang
         <?php require_once('../../includefiles/socialmedia.php');?>
       </div>
     </div>
-  </div>
+  1</div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
     <?php require_once('../../includefiles/footer.php');?>
