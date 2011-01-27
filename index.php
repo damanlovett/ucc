@@ -76,9 +76,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             
           </div>
           <div class="yui-u a2">
-            <h2>December grads -- <em>what's next?</em></h2>
-            <p>Let us know your plans!   Job? Grad school? Still deciding? The 5 min. survey is now open!<br>
-              [ <a href="http://www2.acs.ncsu.edu/UPA/survey/future_plans.htm">more info</a> ]</p>
+            <h2>Spring career fairs are here!<em></em></h2>
+            <p>View the list of career fairs open to all NC State students. Use our tips to help you prepare!<br>
+              [ <a href="events/fairs.php">more info</a> ]</p>
           </div>
         </div>
         
