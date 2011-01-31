@@ -57,11 +57,13 @@ href="/career/about/staff.php">career counselor</a>. Appointments are typically 
             11:00am-2:00pm daily. 
             Walk-ins are typically
             10-15 minutes in length with the career counselor on duty and are available during the semester when classes are
-          in session.</p>
+          in session.<strong><em><br>
+          <br>
+          NOTE: </em></strong>not available 2/4 and 2/5 due to activities following career events.</p>
           <p>Monday -- Sara Concini <br>
 Tuesday -- Leslie Rand-Pickett <br>
 Wednesday -- D.R. Ingram <br>
-Thursday -- Leslie Bowman <br>
+Thursday -- Leslie Bowman<br>
 Friday -- Beverly Marchi</p>
         </div>
       </div>
