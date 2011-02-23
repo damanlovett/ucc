@@ -10,6 +10,7 @@
 <script src="../jquery/js/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
 <link href="../jquery/css/ucc/jquery-ui-1.8.2.custom.css" rel="stylesheet" type="text/css">
 <?php require_once('../includefiles/init.php'); ?>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 <body id="ucc">
 
@@ -38,10 +39,25 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-           <p>          <img src="../img/imgAmbassadors_group.jpg" alt="Career Ambassadors" width="400" height="294" hspace="10" align="left"/>Career ambassadors are eager to share their knowledge and expertise with other students! Come by the UCC to meet with an ambassador  (call ahead for hours) -- or  <a
+           <p>          <img src="../img/imgAmbassadors_group.jpg" alt="Career Ambassadors" width="400" height="294" hspace="10" border="0" align="left" usemap="#Map"/>
+             <map name="Map">
+               <area shape="circle" coords="355,91,14" alt="Megan Collins">
+               <area shape="circle" coords="317,100,13" href="#" alt="Sophie Gustafson">
+               <area shape="circle" coords="286,88,13" href="#" alt="Meaghan Lynch">
+               <area shape="circle" coords="248,101,14" href="#" alt="Tuan Nguyen">
+               <area shape="circle" coords="217,78,13" href="#" alt="Rachel Mastro">
+               <area shape="circle" coords="155,80,13" href="#" alt="Travis Jones">
+               <area shape="circle" coords="185,111,14" href="#" alt="Nga Nguyen">
+               <area shape="circle" coords="111,95,14" href="#" alt="Rachel Stone">
+               <area shape="circle" coords="97,77,14" href="#" alt="Heath Witzen">
+             </map>
+             <img name="" src="" width="32" height="32" alt="Megan Collins">
+             <map name="Map">
+             </map>
+          Career ambassadors are eager to share their knowledge and expertise with other students! Come by the UCC to meet with an ambassador  (call ahead for hours) -- or  <a
 href="../pdfs/ca-request.pdf">request a program</a> for your student group!  </p>
 
-          <p>During the Fall 2010 semester, our Ambassadors presented to over 400 students at 14 different events, including career fairs, residence hall programs, sorority and fraternity chapter meetings, and other campus programs. Presentation topics included resume writing, career fair prep, interviewing skills, ePACK, and introductions to the UCC's services.<br><div class="ui-helper-clearfix"></div>
+    <p>During the Fall 2010 semester, our Ambassadors presented to over 400 students at 14 different events, including career fairs, residence hall programs, sorority and fraternity chapter meetings, and other campus programs. Presentation topics included resume writing, career fair prep, interviewing skills, ePACK, and introductions to the UCC's services.<br><div class="ui-helper-clearfix"></div>
             <br>
           </p>
 <hr />

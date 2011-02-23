@@ -26,6 +26,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
     <?php require_once('../../includefiles/topMenu.php');?>
   </div>
   <div id="bd" role="main">
+    <p>&nbsp;</p>
     <div id="yui-main">
       <div class="yui-b">
         <div class="yui-g"><div id="fadeshow1"></div></div>
@@ -42,10 +43,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </div>
           </div>
           <p class=MsoNoSpacing>Use sites suggested by
-            UCC staff to uncover potential employers and opportunities.  Research organizations and customize your job
-            search documents for each.  For some --
-            you will respond to a posted opportunity. For others  – you will state
-            your sincere interest in an opportunity.  Mix up your approach – email, call, send, or visit employers in person.       </p>
+            UCC staff to uncover potential employers and opportunities.  Research organizations and customize your resume and letter for each.  In some cases, 
+            you'll respond directly to a job posting. For others, you'll state your sincere interest in a possible opportunity. Mix up your approach – email, call, send, or visit employers in person.       </p>
           <p class=MsoNoSpacing><b>Posted jobs</b></p>
           <ul>
             <li><a
@@ -63,7 +62,7 @@ href="http://money.cnn.com/magazines/fortune/rankings/" class="MsoNoSpacing">For
 href="http://www.collegegrad.com/topemployers/2010_interns.php" class="MsoNoSpacing">Collegegrad's 2011</a>:  top employers for interns, entry-level,
               masters </li>
           </ul>
-          <p class=MsoNoSpacing><b>North Carolina leads</b></p>
+          <p><b>North Carolina leads</b></p>
           <ul>
             <li><a
 href="http://centennial.ncsu.edu/partners-directory.php" class="MsoNoSpacing">Centennial campus employers</a></li>
@@ -84,7 +83,7 @@ href="http://www.makingthedifference.org/index.shtml" class="MsoNoSpacing">Feder
               &amp; jobs</a></li>
             <li><a href="http://www.usa.gov/Agencies.shtml">Government agencies</a>: local, state, federal</li>
           </ul>
-          <p class=MsoNoSpacing><b>Entrepreneurial resources</b></p>
+          <p><b>Entrepreneurial resources</b></p>
           <ul>
             <li><a
 href="http://www.irs.gov/businesses/small/article/0,,id=99336,00.html" class="MsoNoSpacing">IRS: starting a business</a> </li>
@@ -107,6 +106,7 @@ href="http://www.internabroad.com" class="MsoNoSpacing">Go
               abroad</a></li>
             <li><a
 href="http://www.ncsu.edu/stud_orgs/iaeste/about_us.html" class="MsoNoSpacing">IAESTE</a></li>
+            <li><a href="http://www.interexchange.org/">InterExchange</a></li>
             <li><a
 href="http://www.rileyguide.com/internat.html#orgs" class="MsoNoSpacing">International agencies &amp; NGOs</a></li>
             <li><a
@@ -120,15 +120,11 @@ href="http://www7.acs.ncsu.edu/nse/" class="MsoNoSpacing">National
             <li><a
 href="http://www.ncsu.edu/studyabroad/" class="MsoNoSpacing">Study
             (or work) abroad</a></li>
-            <li><a
-href="http://www.workingabroad.org/" class="MsoNoSpacing">Working
-            abroad</a></li>
           </ul>
           <p><b>Relocation resources</b></p>
           <ul>
             <li><a
-href="http://www.kiplinger.com/money/bestcities/" class="MsoNoSpacing">Best cities to
-              live, work, &amp; play</a></li>
+href="http://www.kiplinger.com/guides/best-cities/" class="MsoNoSpacing">Best cities 2010</a></li>
             <li><a
 href="http://www.ncsu.edu/housing/conferences/intern.php" class="MsoNoSpacing">Summer intern housing @ NC State</a></li>
             <li><a href="http://www.sublet.com/">Find a sublet</a></li>
@@ -137,7 +133,16 @@ href="http://www.moving.com/" class="MsoNoSpacing">Moving.com</a></li>
             <li><a
 href="http://www.realtor.com/" class="MsoNoSpacing">Realtor.com</a></li>
           </ul>
-          <p class=MsoNoSpacing><b>Career-specific sites</b></p>
+          <p><strong>Students with disabilities leads</strong></p>
+          <ul>
+            <li><a href="http://www.abilityjobs.com/">Ability jobs</a></li>
+            <li><a href="http://www.disability.gov/">Disability.gov</a></li>
+          </ul>
+          <p><strong>Veterans leads</strong></p>
+          <ul>
+            <li><a href="http://www.fedshirevets.gov/">Federal jobs for veterans</a></li>
+          </ul>
+<p class=MsoNoSpacing><b>Career-specific sites</b></p>
           <ul>
             <li><a
 href="http://www.acec.org/index.cfm" class="MsoNoSpacing">ACEC</a>:  consulting engineering firms (directories,
@@ -196,7 +201,7 @@ href="http://www.unitedwaytriangle.org/ma/index.asp" class="MsoNoSpacing">Triang
         <?php require_once('../../includefiles/socialmedia.php');?>
       </div>
     </div>
-  1</div>
+  </div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
     <?php require_once('../../includefiles/footer.php');?>

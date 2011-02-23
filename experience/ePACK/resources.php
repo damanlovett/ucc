@@ -68,7 +68,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li><strong>Faculty &amp; staff</strong><strong>:  </strong>Meet with faculty to discuss   the job market, hiring trends, employers, and where previous graduates work.  Tap into their expertise.</li>
           </ul>
           <ul>
-            <li><strong>Company websites:</strong>  Apply for internships and jobs posted on  company websites.  Enhance your chances  by knowing <a href="http://www.jobweb.com/resumesample.aspx?id=868&terms=online+job+application">how  to apply on-line</a>. </li>
+            <li><strong>Company websites:</strong>  Apply for internships and jobs posted on  company websites.  Enhance your chances  by knowing <a href="http://www.jobweb.com/resumesample.aspx?id=868&terms=online+job+application">how  to apply on-line</a>. <br>
+            </li>
           </ul>
           <ul>
             <li><strong><a href="../jobsearch/sites.php">Select sites</a></strong>: Use sites selected by UCC staff to help you with your search.</li>

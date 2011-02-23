@@ -52,10 +52,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li> Ask employers about career options with a graduate degree.</li>
             <li>Talk with current graduate students on campus.  </li>
             <li>Consult
-                faculty: <a href="http://www.ncsu.edu/advising_central/advisers.html">academic advisor</a> / <a
-href="http://admissions.ncsu.edu/have-major/pre-professional.php">pre-professional advisor</a> / <a
+            current advisors: <a href="http://www.ncsu.edu/advising_central/advisers.html">academic advisor</a> / <a
+href="http://admissions.ncsu.edu/have-major/pre-professional.php">pre-professional advisor</a></li>
+            <li>Consult graduate program advisors: <a
 href="http://www.grad.ncsu.edu/Labels/dgplist.htm">graduate program
-            director</a>. </li>
+            director</a> / <a href="http://www.ncsu.edu/grad/about-grad/gradsec.php">graduate services coordinator</a></li>
             <li> Review <a href="info.php">career information</a> to determine if an advanced degree is required. </li>
             <li>Research
             programs: <a
@@ -85,9 +86,7 @@ href="statement.php">Personal statements</a></li>
       <?php require_once('../includefiles/epacklogin.php'); ?>
       <div id="navMedia" class="sMedia">
         <?php require_once('../includefiles/socialmedia.php');?>
-      </div>
-    </div>
-  </div>
+      </div></div></div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
     <?php require_once('../includefiles/footer.php');?>

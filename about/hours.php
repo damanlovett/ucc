@@ -46,20 +46,19 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             Monday-Friday, 8:00am-5:00pm<br>
           </p>
           <p><b>Appointments</b><br>
-            An appointment is suggested for discussions about your major, resume, interviews, and internship/job
+            We strongly suggest  that you make an appointment for discussions about your major, resume, interviews,  or job
             search strategies. 
-            Call 919.515.2396 to
-              make an appointment with your <a
-href="/career/about/staff.php">career counselor</a>. Appointments are typically 30 minutes in
-          length and available throughout the year.   </p>
+             Appointments are typically 30 minutes in
+          length. Call 919.515.2396 to
+          make an appointment with your <a
+href="/career/about/staff.php">career counselor</a>.  [Available throughout the year.]</p>
           <p><b>Walk-ins</b>  <br>
             For quick career-related questions, stop by during walk-in hours,
             11:00am-2:00pm daily. 
             Walk-ins are typically
-            10-15 minutes in length with the career counselor on duty and are available during the semester when classes are
-          in session.<strong><em><br>
-          <br>
-          NOTE: </em></strong>not available 2/4 and 2/5 due to activities following career events.</p>
+            10-15 minutes in length with the career counselor on duty. [Available during the  semester when classes are
+          in session.]<strong><em><br>
+          </em></strong></p>
           <p>Monday -- Sara Concini <br>
 Tuesday -- Leslie Rand-Pickett <br>
 Wednesday -- D.R. Ingram <br>
