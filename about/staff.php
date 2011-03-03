@@ -70,7 +70,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               <td width="50%" valign=top><h2>Design</h2>
                 <ul>
                   <li>Amanda Williams<strong><br>
-                  </strong><em>223 Brooks, 515-8325</em>&nbsp;<a href="mailto:amanda_williams@ncsu.edu" class="ss_sprite ss_email" title="amanda_williams@ncsu.edu"></a>
+                  </strong><em>223 Brooks, 919.515.8325 </em>&nbsp;<a href="mailto:amanda_williams@ncsu.edu" class="ss_sprite ss_email" title="amanda_williams@ncsu.edu"></a>
 <span class="trigger ss_sprite ss_user" title="Bio for Amanda Williams">&nbsp;</span>
                     <div class="bio toggle_container">
                       <p align="left"><strong>Amanda Williams, M.A.<br />
@@ -84,7 +84,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <h2>Education</h2>
                 <ul>
                   <li>D.R. Ingram   
-<a href="mailto:dr_ingram@ncsu.edu" class="ss_sprite ss_email" title="dr_ingram@ncsu.edu"></a>
+ <a href="mailto:dr_ingram@ncsu.edu" class="ss_sprite ss_email" title="dr_ingram@ncsu.edu"></a>
 <span class="trigger ss_sprite ss_user" title="Bio for D.R. Ingram">&nbsp;</span> 
                     
                       <div class="bio toggle_container"><p align="left"><strong>D.R. Ingram, M.S.<br />Assistant Director</strong><br>
@@ -103,8 +103,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <ul>
                   <li>Beverly Marchi<em><br>
                       [Majors:  Aerospace,
-Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatronics] 
-                  </em><a href="mailto:beverly_marchi@ncsu.edu" class="ss_sprite ss_email" title="beverly_marchi@ncsu.edu"></a>
+Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatronics]  
+                    </em><a href="mailto:beverly_marchi@ncsu.edu" class="ss_sprite ss_email" title="beverly_marchi@ncsu.edu"></a>
 <span class="trigger ss_sprite ss_user" title="Bio for Beverly Marchi">&nbsp;</span>                 
                   <div class="bio toggle_container"><p align="left"><strong>Beverly Marchi, M.A.<br />Assistant Director</strong><br>
             <a href="mailto:beverly_marchi@ncsu.edu">beverly_marchi@ncsu.edu</a><br>
@@ -191,12 +191,22 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
             Chester University of Pennsylvania. Sara is a National Certified Counselor and
             NC Licensed Professional Counselor. </p>
 </div></li>
-                  
                 </ul>
                 <h2>Management</h2>
                 <ul>
+                  <li>F. Brian Newton<br>
+                    <em>2151 Nelson, 919.513.7141</em><a href="mailto:brian_newton@ncsu.edu" class="ss_sprite ss_email" title="janet_rakes@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for F. Brian Newton">&nbsp;</span>
+                    <div class="bio toggle_container">
+                      <p align="left"><strong>F. Brian Newton, M.Ed.<br />
+                      Director of Career &amp; Internship Development</strong><br>
+                        <a href="mailto:brian_newton@ncsu.edu">brian_newton@ncsu.edu</a><br>
+                        Brian Newton serves students in the   College of Management. Previously he worked as the Associate Director of the   Career Center at East Carolina University, and the Director of Career Services   at Barton College in Wilson, NC.  Brian   earned a Bachelor of Arts degree in Journalism and a Master of Education degree   from the University of South Carolina.    </p>
+</div>
+                  </li>
+                  <li><strong><br>
+                  </strong></li>
                   <li>                    Dr. Janet Rakes<em><br>
-                    2150 Nelson, 515.5565</em><a href="mailto:janet_rakes@ncsu.edu" class="ss_sprite ss_email" title="janet_rakes@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Sara Concini ">&nbsp;</span>
+                    2150 Nelson, 515.5565 </em><a href="mailto:janet_rakes@ncsu.edu" class="ss_sprite ss_email" title="janet_rakes@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Sara Concini ">&nbsp;</span>
                     <div class="bio toggle_container">
                       <p align="left"><strong>Janet Rakes, Ph.D.<br />
                         Career Coach</strong><br>

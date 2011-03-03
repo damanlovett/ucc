@@ -57,7 +57,8 @@ href="/career/about/staff.php">career counselor</a>.  [Available throughout the 
             11:00am-2:00pm daily. 
             Walk-ins are typically
             10-15 minutes in length with the career counselor on duty. [Available during the  semester when classes are
-          in session.]<strong><em><br>
+          in session.] <strong><em><br>
+          Walk-ins are not available during spring break.<br>
           </em></strong></p>
           <p>Monday -- Sara Concini <br>
 Tuesday -- Leslie Rand-Pickett <br>
