@@ -67,6 +67,7 @@ href="http://chasslabs.chass.ncsu.edu/jobs">CHASS Computer Labs</a></li>
 href="http://www.ncsu.edu/co-op_ed/">Co-op</a>* </li>
               <li><a
 href="http://delta.ncsu.edu/about/employment">DELTA</a></li>
+              <li><a href="http://www.ncsu.edu/dso/general/employment_opportunities.html">Disability Services Office</a></li>
               <li><a href="http://www.engr.ncsu.edu/undergrad/tutor/">Engineering Tutorial Program</a></li>
               <li><u><a href="index.php">ePACK</a></u></li>
               <li><a
