@@ -33,7 +33,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <h1>POOLE COLLEGE OF Management Career Fair</h1>
   <p> Thursday, February 3, 2011<br /> 
     10:00am-4:00pm <br /> 
-    <a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a> @ NC State </p>
+    <a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a> @ NC State <br>
+  </p>
   <p><STRONG>Students<BR>
   </STRONG>All students in all majors are invited to   attend!<BR>
   <a href="https://ncsu-csm.symplicity.com/events/students.php?mode=list&cf=COM_spring2011">List of employers attending</a><BR>

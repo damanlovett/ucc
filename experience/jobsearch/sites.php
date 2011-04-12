@@ -43,8 +43,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </div>
           </div>
           <p class=MsoNoSpacing>Use sites suggested by
-            UCC staff to uncover potential employers and opportunities.  Research organizations and customize your resume and letter for each.  In some cases, 
-            you'll respond directly to a job posting. For others, you'll state your sincere interest in a possible opportunity. Mix up your approach – email, call, send, or visit employers in person.       </p>
+            UCC staff to uncover potential employers and opportunities.*  Research organizations and customize your resume and letter for each.  In some cases, 
+            you'll respond directly to a job posting. For others, you'll state your sincere interest in a possible opportunity in person, by email, US mail, or phone. Mix up your approach!       </p>
           <p class=MsoNoSpacing><b>Posted jobs</b></p>
           <ul>
             <li><a
@@ -189,6 +189,9 @@ href="http://www.thomasnet.com/index.html" class="MsoNoSpacing">ThomasNet</a>: �
             <li><a
 href="http://www.unitedwaytriangle.org/ma/index.asp" class="MsoNoSpacing">Triangle United Way</a>:  non-profit agencies</li>
           </ul>
+          <hr />
+          <p>* <a href="safety.php">Safety tips</a> to avoid fraudulent postings.</p>
+          <p>&nbsp;</p>
         </div>
       </div>
     </div>

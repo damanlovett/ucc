@@ -65,26 +65,27 @@ href="../pdfs/fairprep-employers.pdf">employer
               
         <div id="tabs">
           <ul>
-        	<li class="tabHeader"><a href="#tab-1">Fall 2010</a></li>
+        	<li class="tabHeader"><a href="#tab-1">Fall 2011</a></li>
         	<li class="tabHeader"><a href="#tab-2">Spring 2011</a></li>
         </ul>
         
 <div id="tab-1">
           <table class="basicTable100">
-            <caption>Fall 2010</caption>
+            <caption>
+            Fall 2011
+            </caption>
             <tr>
               <td width="30%" valign=top><a
  href="http://www.tx.ncsu.edu/student_services/career_services.html">Textiles Job Forum</a></td>
-              <td width="11%" valign=top><p>Sept. 9 </p></td>
+              <td width="11%" valign=top><p>Sept. 8</p></td>
               <td width="11%" valign=top nowrap><p>1:00-4:00</p></td>
               <td width="25%" valign=top><a href="mailto:kent_hester@ncsu.edu">Kent Hester</a><br>
 919.515.6530 </td>
               <td width="23%" valign=top>W. Duke Kimbrell Atrium</td>
             </tr>
             <tr>
-              <td valign=top><a href="http://students.engr.ncsu.edu/careerfair/">Engineering Career Fair </a><br>
-                <span class="style1"> ---- Pams majors included</span></td>
-              <td valign=top>Oct. 5 &amp; 6</td>
+              <td valign=top><a href="http://students.engr.ncsu.edu/careerfair/">Engineering Career Fair </a><br></td>
+              <td valign=top>Oct. 4 &amp; 5 </td>
               <td valign=top nowrap>9:30-4:00</td>
               <td valign=top><a href="mailto:engineeringcareerfair@ncsu.edu">Brian Koehler</a><br>
 919.515.3263</td>
@@ -93,7 +94,7 @@ href="../pdfs/fairprep-employers.pdf">employer
             <tr>
               <td valign=top><a
  href="com.php">Poole College of Management Career Fair </a></td>
-              <td valign=top>Oct. 15 </td>
+              <td valign=top>Oct. 17</td>
               <td valign=top nowrap>10:00-4:00</td>
               <td valign=top><a href="mailto:janet_rakes@ncsu.edu">Janet Rakes </a><br>
 919.515.5565</td>
@@ -102,7 +103,7 @@ href="../pdfs/fairprep-employers.pdf">employer
             <tr>
               <td valign=top><a
  href="http://harvest.cals.ncsu.edu/career/">CALS Career Expo</a></td>
-              <td valign=top>Oct. 28</td>
+              <td valign=top>Oct. 27</td>
               <td valign=top nowrap>9:30-3:30</td>
               <td valign=top><a href="mailto:marcy_bullock@ncsu.edu">Marcy Bullock </a><br>
 919.515.3249</td>
@@ -111,7 +112,7 @@ href="../pdfs/fairprep-employers.pdf">employer
             <tr>
               <td valign=top><a
  href="http://www.ncsu.edu/prelaw/law_fair_information.html">Law School Fair </a></td>
-              <td valign=top>Nov. 2</td>
+              <td valign=top>Nov. TBA</td>
               <td valign=top nowrap>12:30-3:30</td>
               <td valign=top><a href="mailto:mary_tetro@ncsu.edu">Mary Tetro</a><br>
     919.513.0912</td>
@@ -120,7 +121,7 @@ href="../pdfs/fairprep-employers.pdf">employer
             <tr>
               <td valign=top> Forestry and Environmental<br>
                 Resources Career Fair </td>
-              <td valign=top>Nov. 17</td>
+              <td valign=top>Nov. TBA</td>
               <td valign=top nowrap>11:00-2:00</td>
               <td valign=top> <a href="mailto:christi_standley@ncsu.edu">Christi Standley</a> <br>
     919.513.2582</td>
@@ -129,7 +130,7 @@ href="../pdfs/fairprep-employers.pdf">employer
             <tr>
               <td valign=top><a
  href="phdfair.php">Masters &amp; PhD Career Fair</a></td>
-              <td valign=top>Nov. 18 </td>
+              <td valign=top>Nov. TBA</td>
               <td valign=top nowrap>1:00-4:30</td>
               <td valign=top><a href="mailto:carol_schroeder@ncsu.edu">Carol Schroeder</a><br>
 919.515.2396</td>

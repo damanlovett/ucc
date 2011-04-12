@@ -76,9 +76,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             
           </div>
           <div class="yui-u a2">
-            <h2>Campus interviews in full swing!<em></em></h2>
-            <p>Employers schedule interviews through ePACK. Watch the system for upcoming deadlines to apply!<br>
-              [ <a href="experience/interviews/oncampus.php">more info</a> ]</p>
+            <h2>December grads &quot;future plans&quot;</h2>
+            <p>The results of our survey are in! <br>
+              See what plans December 2010 graduates have made!<br>
+              [ <a href="http://www2.acs.ncsu.edu/UPA/survey/reports/fpsindex.htm">more info</a> ]</p>
           </div>
         </div>
         

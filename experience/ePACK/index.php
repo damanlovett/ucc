@@ -44,7 +44,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 
          
           <p class=MsoNoSpacing>ePACK is your #1 source for finding
-          career-related internships &amp; entry-level jobs. Employers who recruit at NC State use  ePACK. All students in degree programs are invited to use this valuable resource.           </p>
+          career-related internships &amp; entry-level jobs. Employers who recruit at NC State use  ePACK.* All students in degree programs are invited to use this valuable resource.           </p>
           <p class=MsoNoSpacing><strong>Getting started</strong></p>
           <ul>
             <li> <a
@@ -55,7 +55,7 @@ href="http://www.ncsu.edu/epack">Login
               Quick start / job search agent / on-campus interviews</li>
           </ul>
           <p class=MsoNoSpacing><b>How employers use ePACK <br>
-          </b>Employers are invited to use any combination of the following services within ePACK. </p>
+          </b>Employers are invited to use these services within ePACK. </p>
           <ul>
             <li>Post internships and entry-level jobs</li>
             <li>Schedule on-campus interviews</li>
@@ -70,6 +70,8 @@ href="http://www.ncsu.edu/epack">Login
   one year -- use ePACK.   <br>
   After one year -- use 
   <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=307&expandNav=5">Alumni Career Services</a>. </p>
+          <hr />
+          <p>* All postings and employers are screened. Use our <a href="../jobsearch/safety.php">safety tips</a> when in doubt!</p>
 </div>
       </div>
     </div>

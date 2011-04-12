@@ -141,6 +141,7 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
                   
                 <li><strong><br>
                   </strong>Leslie Bowman<br>
+                  <em>Email for appointment</em>                  <br>
                   <em>[Major: Biomedical</em>]                      <a href="mailto:leslie_bowman@ncsu.edu" class="ss_sprite ss_email" title="leslie_bowman@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Leslie Bowman">&nbsp;</span>
                       <div class="bio toggle_container">
                           <p align="left"><strong>Leslie Bowman, M.A.<br />
@@ -176,23 +177,37 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
             Counselor.</p></div></li>
                   
                   <li><strong><br>
-                    </strong>Sara Concini<strong><br>
-                    </strong><em>[Majors:  last names: A-H</em>]
-                    <a href="mailto:sara_concini@ncsu.edu" class="ss_sprite ss_email" title="sara_concini@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Sara Concini ">&nbsp;</span>                 
-                  <div class="bio toggle_container"><p align="left"><strong>Sara Concini, M.S.<br />
-                  Career Counselor</strong><br>
-            <a href="mailto:sara_concini@ncsu.edu">sara_concini@ncsu.edu</a><br>
-            Sara Concini serves students in the College of Humanities and Social
-            Sciences.&nbsp;She brings to NC State&nbsp;work experience in a
-            corporate&nbsp;recruiting environment, through Pharmaceutical Product
-            Development, Inc (PPD),&nbsp;and also experience as the Coordinator of Student
-            Activities at Union College.&nbsp;She holds a Bachelor of Arts in Psychology
-            and a Master of Science in Counseling and Higher Education, both from West
-            Chester University of Pennsylvania. Sara is a National Certified Counselor and
-            NC Licensed Professional Counselor. </p>
-</div></li>
+                    </strong></li>
+                  <li>Leslie Bowman<em><br>
+                    Email for appointment</em><br>
+                    <em>[Majors:  last names: A-H</em>] <a href="mailto:leslie_bowman@ncsu.edu" class="ss_sprite ss_email" title="leslie_bowman@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Leslie Bowman">&nbsp;</span>
+                    <div class="bio toggle_container">
+                      <p align="left"><strong>Leslie Bowman, M.A.<br />
+                        Career Counselor </strong><br>
+                        <a href="mailto:leslie_bowman@ncsu.edu">leslie_bowman@ncsu.edu</a><br>
+                        Leslie Bowman serves students in the College of Engineering (Biomedical), students in the College of Humanities and Social Sciences <em>(spring 2011)</em> and coordinates the externship program. Prior to coming to NC State, she was a Human Resource Manager at a medical device company and worked as an Account Executive for a finance firm. Leslie earned a Bachelor of Arts in Psychology from NC State, a Masters of Arts&nbsp;in Healthcare Administration from UNC Chapel Hill and&nbsp;a Masters of Arts in Counseling from Seton Hall University. </p>
+                    </div>
+                  </li>
+                  <li> </li>
+                  <li></li>
+                  <li><br>
+                    Sara Concini<em> (on leave)</em><strong> </strong><a href="mailto:sara_concini@ncsu.edu" class="ss_sprite ss_email" title="sara_concini@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Sara Concini">&nbsp;</span>
+                    <div class="bio toggle_container">
+                      <p align="left"><strong>Sara Concini, M.S.<br />
+                        Career Counselor</strong><br>
+                        <a href="mailto:sara_concini@ncsu.edu">sara_concini@ncsu.edu</a><br>
+                        Sara Concini serves students in the College of Humanities and Social
+                        Sciences.&nbsp;She brings to NC State&nbsp;work experience in a
+                        corporate&nbsp;recruiting environment, through Pharmaceutical Product
+                        Development, Inc (PPD),&nbsp;and also experience as the Coordinator of Student
+                        Activities at Union College.&nbsp;She holds a Bachelor of Arts in Psychology
+                        and a Master of Science in Counseling and Higher Education, both from West
+                        Chester University of Pennsylvania. Sara is a National Certified Counselor and
+                        NC Licensed Professional Counselor. </p>
+                    </div>
+                  </li>
                 </ul>
-                <h2>Management</h2>
+<h2>Management</h2>
                 <ul>
                   <li>F. Brian Newton<br>
                     <em>2151 Nelson, 919.513.7141</em><a href="mailto:brian_newton@ncsu.edu" class="ss_sprite ss_email" title="janet_rakes@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for F. Brian Newton">&nbsp;</span>
