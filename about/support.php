@@ -36,38 +36,37 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <ul>
                 <li class="first"> <a href="/career/">Home</a> </li>
                 <li> <a href="/career/about/">About the Career Center</a> </li>
-                <li class="last"> Support the UCC </li>
+                <li class="last"> Your Support </li>
               </ul>
               </div>
           </div>
           <p><b>Refer
             students</b><br>
-            We serve students in all degree programs -- from freshman year through graduate school. <br>
-            Thank you for referring students to the UCC!        </p>
-          <ul class="noBulletList">
-            <li> Appointments:  call 919.515.2396 to schedule an appointment with a career counselor<br> 
-              Walk-ins:  stop by 11am-2pm for quick questions (daily, when school is in session)<br> 
-            Email: <a href="mailto:career_center@ncsu.edu">career_center@ncsu.edu</a>  </li>
+            We serve students in all degree programs -- from freshman year through graduate school.<br>
+            Thank you for referring students to the UCC!       </p>
+          <ul>
+            <li> Appointments:  call 919.515.2396 to schedule an appointment with a <a href="staff.php">career counselor</a></li>
+            <li>              Walk-ins:  stop by 11am-2pm for quick questions (daily, when school is in session)</li>
+            <li>              Email: <a href="mailto:career_center@ncsu.edu">career_center@ncsu.edu</a>  </li>
           </ul>
-          <hr />
+<hr />
           <p><b>Refer
             employers <br>
-          </b>We help employers of all sizes to develop a recruiting strategy and presence on campus. <br>
-          Thank you for referring employers to the UCC!</p>
-          <ul class="noBulletList">
-            <li> ePACK:  request access to ePACK, NC State's internship &amp; job system, <a href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a><br>
-            Consult
+          </b>We help employers (large and small ) develop a successful recruiting strategy at NC State.<br>
+          Thank you for referring employers to the UCC!       </p>
+          <ul>
+            <li> ePACK:  request access to NC State's web-based job posting system, <a href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a></li>
+            <li>              Consult
               with professional staff:  call
-              919.515.2396 or email <a
+            919.515.2396 or email <a
 href="mailto:bridget_yarborough@ncsu.edu">Bridget Yarborough</a></li>
           </ul>
-          <hr />
+<hr />
           <p><b>Support our success<br>
           </b>Your
               contributions of time, expertise, and funding are critical ingredients to our
               success.<br>
-              Thank you for  supporting the UCC!
-                </p>
+              Thank you for  supporting the UCC!              </p>
           <ul>
             <li>Conduct
                 practice interviews or resume critiques with students</li>
@@ -87,7 +86,7 @@ href="mailto:bridget_yarborough@ncsu.edu">Bridget Yarborough</a></li>
               office space</li>
           </ul>
           <p>            Contact Carol Schroeder, Director -- to discuss
-            possibilities&nbsp; <br>
+            possibilities.&nbsp; <br>
             <a href="mailto:carol_schroeder@ncsu.edu">carol_schroeder@ncsu.edu</a>,
               919.515.2396</p>
         </div>

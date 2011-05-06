@@ -43,29 +43,28 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 
           <p>As many employers have already discovered, NC State
             students make great hires!<br>
-            There are several different ways to attract and develop
-            Wolfpack talent in your organization.  </p>
+            There are several different ways to hire and develop
+            Wolfpack talent in your organization.</p>
           <ul>
             <li><strong>Internships </strong>-- summer or part-time career-related
-            experience.*</li>
-            <li><strong>Externships </strong> -- 1-2 day engineering job shadowing experience
-              during spring semester.*</li>
+            experience.</li>
             <li><b>Co-op </b> -- 1 year career-related experience alternating
-              semesters of work and school.*</li>
+            semesters of work and school.</li>
+            <li><strong>Externships </strong> -- 1-2 day engineering job shadowing experience
+            during spring semester.</li>
             <li><b>Entry-level jobs</b> -- full-time career-related positions within 1
               year of graduation.
 </li>
           </ul>
-          <p>We look
-          forward to helping you recruit at NC State!</p>
+          <hr />
           <ul>
             <li><a href="epack.php">Get started with ePACK</a> -- NC State's on-line recruiting system</li>
-            <li>              Questions --          Consult with Bridget Yarborough, Coordinator of Recruiting -- <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>          </li>
+            <li>Increase your  <a href="visibility.php">visibility on campus</a> with our suggestions</li>
           </ul>
-          <hr />
-          <p>* Many employers consider the early identification programs
-              (internships, externships, co-op) to be key components of their campus
-          recruiting success. [ <a href="http://www.naceweb.org/Research.aspx?fid=64&menuID=120&ispub=False&nodetype=7&navurl=">more info</a> ] </p>
+          <p>We look
+          forward to helping you recruit at NC State!<br>
+Bridget Yarborough, Coordinator of Recruiting -- <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>          </p>
+<p>&nbsp;</p>
         </div>
       </div>
     </div>

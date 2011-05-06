@@ -31,13 +31,12 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div id="secContent" class="yui-g">
           <h1>Masters & PhD Career Fair</h1>
             <p>This event is sponsored by a consortium of six outstanding North Carolina   graduate schools including NC State, Duke, UNC-Chapel Hill, UNC-Charlotte,   UNC-Greensboro, and Wake Forest. Participating employers can expect up to 350   masters, doctoral, and postdoctoral candidates in science, engineering,   humanities and social sciences to attend. </p>
-          <p>Thursday, November 18, 2010<BR>
+            <p><A href="http://csc.dept.uncg.edu/phdfair/PhDFair2010.pdf" target="_top">List   of employers who attended</A> <em>(November 2010)</em></p>
+            <p>November 2011 (TBA)<BR>
               1:00pm to 4:30pm<BR>
               Friday Center, UNC-Chapel   Hill<BR>
-              <A href="http://www.fridaycenter.unc.edu/directions/index.htm">http://www.fridaycenter.unc.edu/directions/index.htm </A></p>
-          <p><A href="http://csc.dept.uncg.edu/phdfair/PhDFair2010.pdf" target="_top">List   of employers attending</A><br>
-            <a href="http://cam06.auxserv.duke.edu/iebms/logon/log_p2_addedit.aspx?AppSessionID=ej2fcofg8fb9ffpfh8fdkejoei1&sessionid=ej0fcmfg8fb0ff7fhlfd0ejkejp&eventid=40837&mode=add">Employer registration</a> &amp; <A href="../pdfs/phd.pdf">details</A>           </p>
-          <p>There is no registration or fee required for students to attend this event.    Doctoral and masters' degree students from  institutions other than the   consortium universities may attend. </p>
+            <A href="http://www.fridaycenter.unc.edu/directions/index.htm">http://www.fridaycenter.unc.edu/directions/index.htm </A></p>
+<p>Doctoral and masters' degree students from  institutions other than the   consortium universities may attend. There is no registration or fee required for students to attend this event.    </p>
           <hr />
           <p><strong>Questions?</strong><br>    
     Contact Carol Schroeder, Director -- <a href="mailto:carol_schroeder@ncsu.edu">carol_schroeder@ncsu.edu</a> </p>

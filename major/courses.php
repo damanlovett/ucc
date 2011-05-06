@@ -40,7 +40,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
               </div>
           </div>
-<p>These career-related courses are open to all majors
+<p>Many students seek the structure of a course to help with career planning and decision-making. <br>
+  These career courses are open to all majors
             at NC State.</p>
           <p><b>USC 201 – Introduction to the World of Labor</b> – summer (3 credit hours)<br>
             Examines the modern workplace, as well as its evolution over the past century.  Students will study several issues relating to
@@ -51,7 +52,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           standing; course designed for students with minimal work experience. </p>
           <p><b>ECD 221 – Career Planning and Personal Development</b> -- fall &amp; spring (3 credit hours) <br>
 Knowledge, attitudes, self-understanding, and skills needed to enhance career
-            planning and foster personal development.  Study of self-understanding, self-talk, goal
+            planning and foster personal development. Study of self-understanding, self-talk, goal
             setting, the environment, and decision making as ways to adapt more effectively
           to the challenges of life.</p>
           <p><b>USC 401 – Transitions for the College Graduate</b> – fall &amp; spring (3 credit hours) <br>

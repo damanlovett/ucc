@@ -40,33 +40,31 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <div id="breadCrumb" class="breadCrumb module">
             <ul>
               <li class="first"><a href="/">Home</a></li>
-              <li> <a href="/about">About The Career Center</a> </li>
+              <li> <a href="/career/about/">About the Career Center</a> </li>
               <li class="last">Visiting</li>
             </ul>
           </div>
         </div>
 
           <p>We're pleased to help you plan your trip!<br>
-          <a href="#directions">Directions</a> / <a href="#parking">Parking</a> / <a href="#accommodations">Accommodations</a> / <a href="#attractions">Attractions</a> / <a href="#weather">Weather</a></p>
+          <a href="#directions">Directions</a> / <a href="#parking">Parking</a> / <a href="#attractions">Attractions</a> / <a href="#accommodations">Accommodations</a> / <a href="#weather">Weather</a></p>
           <hr />
-<p><b><a name="directions"></a>Directions</b><br>
-            NC State is located in the capital city of Raleigh, west of downtown, inside
-          the 440 beltline. [<a href="http://www.google.com/maps?f=d&source=s_d&saddr=&daddr=3200+Thurman+Drive">Google map</a>]</p>
+<p><b><a name="directions"></a>Directions</b></p>
 <ul>
-  <li><i>From
-    RDU airport</i><br>
-    Rte. 40E to Wade Ave.&nbsp; Follow Wade Ave. into Raleigh and turn right on Dixie
+  <li>Located on the west side of Raleigh, inside
+    the 440 beltline.    [<a href="http://www.google.com/maps?f=d&source=s_d&saddr=&daddr=3200+Thurman+Drive">Google map</a>]</li>
+  <li>15 min. drive from RDU Airport.    Take Rte. 40E to Wade Ave.&nbsp; Follow Wade Ave. into Raleigh and turn right on Dixie
     Trail.&nbsp; At the end, turn left on Hillsborough St. and  first right  onto Dan Allen Dr.  If you have a
     parking permit, turn right into Dan Allen Parking Deck just before the
-    bridge.&nbsp; If you do not have a parking permit, continue to Pullen Hall, the
+    bridge.&nbsp; If not,  continue to Pullen Hall, the
     first building on your left after the bridge.</li>
 </ul>
 <hr />
-<p><b><a name="parking"></a>Parking</b><br>
-            The <a href="http://www.ncsu.edu/facilities/buildings/danallendeck.html">Dan Allen Parking Deck</a> is most convenient to the UCC, a
-            5 min. walk.  <br>
-</p>
+<p><b><a name="parking"></a>Parking</b></p>
 <ul>
+  <li>The <a href="http://www.ncsu.edu/facilities/buildings/danallendeck.html">Dan Allen Parking Deck</a> is most convenient to the UCC, a
+    5 min. walk.  <br>
+  </li>
   <li>Pick up a permit at the UCC, 2100 Pullen Hall.   <u>Cost</u>:  $0. <br>
     [Permits are also available through the <a
 href="http://www2.acs.ncsu.edu/trans/maps/download/MCampus_Visitor_map.pdf">Visitor Information Booth</a> on Stinson Dr.  <u>Cost</u>:  $2.00.]  </li>
@@ -75,16 +73,25 @@ href="http://www2.acs.ncsu.edu/trans/maps/download/MCampus_Visitor_map.pdf">Visi
     accepted:  American Express, Discover,
     Master Card, or Visa.  <u>Cost</u>:  $2.00 for the first hour, $1.00 for each
     additional, $6.00 daily maximum.  </li>
-</ul>
-<p>For parking in other areas
-            of main or centennial campus, visit <a
+  <li>For parking in other areas
+    of main campus or centennial campus, visit <a
 href="http://www2.acs.ncsu.edu/trans/visitors/index.html">NC
-          State Transportation</a>.  </p>
+      State Transportation</a>.  </li>
+</ul>
 <hr />
+          <p><a name="attractions"></a><strong>Attractions</strong></p>
+          <ul>
+            <li><a href="http://www.ncsu.edu/arts/">NC State  Arts</a></li>
+            <li><a href="http://www.ncsu.edu/athletics/index.php">NC State Athletics</a></li>
+            <li><a href="http://historicalstate.lib.ncsu.edu/">Historical NC State</a> [<a href="http://www.lib.ncsu.edu/wolfwalk/">mobile app</a>]</li>
+            <li><a href="http://www.visitraleigh.com/">Visit Raleigh</a> -- [<a href="http://www.shopcameronvillage.com/">Cameron Village</a>, <a href="http://www.godowntownraleigh.com/">Downtown Raleigh</a>, <a href="http://www.northhillsraleigh.com/">North Hills</a>]</li>
+            <li><a href="http://www.visitnc.com/">Visit NC</a></li>
+          </ul>
+          <hr />
           <p>            <strong><a name="accommodations"></a>Accommodations</strong><br>
             <span class="hidePrint">The following hotels have been selected due to their convenient locations and AAA rating.
             <br>
-            Directions from each hotel to the UCC are provided. </span></p>
+            Directions from each hotel to the UCC is provided. </span></p>
           <div id="accordion">
             <h3><a href="#">Holiday Inn Express &amp; Suites</a></h3>
             <div>
@@ -1330,17 +1337,8 @@ class="odometer">12.9 mi</td>
     </table>
  
 </div>
-   <br />
-   <hr />  
-   <p><strong><a name="attactions"></a>Attractions</strong></p>
-   <ul>
-     <li><a href="http://www.visitraleigh.com/">Visit Raleigh</a></li>
-     <li><a href="http://gopack.com/">NC State athletics</a></li>
-     <li><a href="http://www.ncsu.edu/arts/">NC State  arts</a></li>
-     <li><a href="http://www.visitnc.com/">Visit NC</a></li>
-   </ul>
-   <hr />
-   <p><strong><a name="weather"></a>Weather</strong></p>
+          <hr />
+<p><strong><a name="weather"></a>Weather</strong></p>
                 <div id="weather">
           <script type="text/javascript" language="javascript1.2" src="http://weatherreports.com/jscript.html?width=234&height=60&theme=white_no_search_box&location=27695&units=f">
         </script>
@@ -1359,7 +1357,7 @@ class="odometer">12.9 mi</td>
         <?php require_once('../includefiles/socialmedia.php');?>
       </div>
     </div>
-    <br>
+     <br>
   </div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">

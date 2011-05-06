@@ -117,7 +117,7 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
 </div></li>
                   <li><strong><br>
                     </strong>D.R. Ingram<br>
-                    <em>[Majors: Chemical, Industrial]                    </em><em></em><a href="mailto:dr_ingram@ncsu.edu" class="ss_sprite ss_email" title="dr_ingram@ncsu.edu"></a> <span class="trigger ss_sprite ss_user" title="Bio for Tameka Allen">&nbsp;</span>                 
+                    <em>[Majors: Chemical, Industrial]                    </em><em></em><a href="mailto:dr_ingram@ncsu.edu" class="ss_sprite ss_email" title="dr_ingram@ncsu.edu"></a> <span class="trigger ss_sprite ss_user" title="Bio for D.R. Ingram">&nbsp;</span>                 
                   <div class="bio toggle_container"><p align="left"><strong>D.R. Ingram, M.S.<br />Assistant Director</strong><br>
             <a href="mailto:dr_ingram@ncsu.edu">dr_ingram@ncsu.edu</a><br>
             D.R. Ingram serves students in the College of Education, College of Engineering
@@ -221,7 +221,7 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
                   <li><strong><br>
                   </strong></li>
                   <li>                    Dr. Janet Rakes<em><br>
-                    2150 Nelson, 515.5565 </em><a href="mailto:janet_rakes@ncsu.edu" class="ss_sprite ss_email" title="janet_rakes@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Sara Concini ">&nbsp;</span>
+                    2150 Nelson, 515.5565 </em><a href="mailto:janet_rakes@ncsu.edu" class="ss_sprite ss_email" title="janet_rakes@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Dr. Janet Rakes">&nbsp;</span>
                     <div class="bio toggle_container">
                       <p align="left"><strong>Janet Rakes, Ph.D.<br />
                         Career Coach</strong><br>
@@ -312,7 +312,7 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
             </caption>
 <tr>
               <td width="149"><a href="http://www.ncsu.edu/advising_central/">Advising Central</a></td>
-              <td width="388">– help  choosing or changing your major or minor</td>
+              <td width="388">– help  choosing or changing your major </td>
             </tr>
             <tr>
               <td><a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=307&expandNav=5">Alumni Career Services</a></td>
@@ -320,12 +320,12 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
             </tr>
             <tr>
               <td><a href="http://www.ncsu.edu/co-op_ed/">Cooperative Education</a></td>
-              <td> –  help obtaining (year long) career-related experience
+              <td>–  help obtaining (year long) career-related experience
                 while in school</td>
             </tr>
             <tr>
-              <td><a href="http://www.jobweb.com/parents.aspx?id=680">Parent/Family Resources </a></td>
-              <td> – help for family at home </td>
+              <td><a href="../pdfs/parents_presentation.pdf">Parents</a></td>
+              <td> – help for parents and family who help guide from home</td>
             </tr>
           </table>
           </div>

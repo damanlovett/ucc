@@ -51,69 +51,65 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                <area shape="circle" coords="111,95,14" href="#" alt="Rachel Stone">
                <area shape="circle" coords="97,77,14" href="#" alt="Heath Witzen">
              </map>
-             <img name="" src="" width="32" height="32" alt="Megan Collins">
              <map name="Map">
              </map>
           Career ambassadors are eager to share their knowledge and expertise with other students! Come by the UCC to meet with an ambassador  (call ahead for hours) -- or  <a
-href="../pdfs/ca-request.pdf">request a program</a> for your student group!  </p>
+href="../pdfs/ca-request.pdf">request a program</a> for your student group!</p>
 
-    <p>During the Fall 2010 semester, our Ambassadors presented to over 400 students at 14 different events, including career fairs, residence hall programs, sorority and fraternity chapter meetings, and other campus programs. Presentation topics included resume writing, career fair prep, interviewing skills, ePACK, and introductions to the UCC's services.<br><div class="ui-helper-clearfix"></div>
+    <p>During the spring 2011 semester, our Ambassadors presented to over 850 students at 35 different events, including career fairs, residence hall programs, sorority and fraternity chapter meetings, and other campus programs. Presentation topics included resume writing, career fair prep, interviewing skills, ePACK, and introductions to the UCC's services.<br><div class="ui-helper-clearfix"></div>
             <br>
           </p>
 <hr />
-          <table width="447">
+<table width="447">
             <caption>
-            <div align="left"><strong>Spring 2011 Career Ambassadors</strong> 
+            <div align="left"><strong>Fall 2011 Career Ambassadors</strong> 
+              <br>
               <br>
             </div>
             </caption>
             <tr>
-              <td width="131">Travis Jones</td>
-              <td width="224">Senior, History </td>
+              <td width="131"><strong>Rhonda Andrews</strong></td>
+              <td width="224">Communication-Public Relations</td>
             </tr>
             <tr>
-              <td>Meaghan Lynch </td>
-              <td>Senior, Communication &amp; Psychology </td>
+              <td><strong>Nick Banks</strong></td>
+              <td>Mechanical Engineering</td>
             </tr>
             <tr>
-              <td>Rhonda Andrews</td>
-              <td>Junior, Communications-Public Relations</td>
+              <td><strong>Megan Collins </strong></td>
+              <td>Communication-Public Relations</td>
             </tr>
             <tr>
-              <td>Megan Collins </td>
-              <td>Junior, Communications-Public Relations</td>
+              <td><strong>Sophie Gustafson </strong></td>
+              <td>Psychology</td>
             </tr>
             <tr>
-              <td>Sophie Gustafson </td>
-              <td>Junior, Psychology</td>
+              <td><strong>Travis Jones</strong></td>
+              <td>History</td>
             </tr>
             <tr>
-              <td>Nga&nbsp;Nguyen </td>
-              <td>Junior, Chemical Engineering </td>
+              <td><strong>Rachel Mastro</strong></td>
+              <td>Psychology</td>
             </tr>
             <tr>
-              <td>Tuan Nguyen </td>
-              <td>Junior, Mechanical Engineering</td>
+              <td><strong>Nga Nguyen</strong></td>
+              <td>Chemical Engineering</td>
             </tr>
             <tr>
-              <td>Alexandria Robinson</td>
-              <td>Junior, Accounting</td>
+              <td><strong>Tuan Nguyen </strong></td>
+              <td>Mechanical Engineering</td>
             </tr>
             <tr>
-              <td>Rachel Stone </td>
-              <td>Junior, Management &amp; International Studies</td>
+              <td><strong>Alexandria Robinson</strong></td>
+              <td> Accounting</td>
             </tr>
             <tr>
-              <td>Nick Banks</td>
-              <td>Sophomore, Mechanical Engineering</td>
+              <td><strong>Rachel Stone </strong></td>
+              <td>Management &amp; International Studies</td>
             </tr>
             <tr>
-              <td>Rachel Mastro</td>
-              <td>Sophomore, Psychology</td>
-            </tr>
-            <tr>
-              <td>Heath Witzen</td>
-              <td>Sophomore, Economics</td>
+              <td><strong>Heath Witzen</strong></td>
+              <td>Economics</td>
             </tr>
           </table>
           <hr />

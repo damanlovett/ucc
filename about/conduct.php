@@ -33,7 +33,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         </div>
         <div id="secContent" class="yui-g">
           <h1>Professionalism</h1>
-          <p>We take   professionalism seriously. As you begin to interact with UCC staff as well as prospective employers, we want you to know what you can expect from us and what we expect from you.</p>
+          <p>We take   professionalism seriously. As you interact with UCC staff as well as prospective employers, here's what  you can expect from us and what we expect from you.</p>
               <p><strong>Staff responsibility</strong> </p>
               <ul>
                 <li>Provide the best available advice and assistance to you regarding career choice and job search assistance. </li>
@@ -46,10 +46,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 </p>
             <ul>
     <li>Prepare for your career by using campus and UCC resources for maximum opportunities.  </li>
-    <li>Provide accurate information to the UCC, employers, and graduate programs about your academic record, experiences, skills, and visa status.  Misrepresentations may be subject to Student Conduct proceedings.</li> 
-    <li>Conduct yourself professionally during all encounters with employers and graduate school representatives - written or email correspondence, phone contact, and personal interactions.</li> 
-    <li>Be prepared for every interview by researching employers and institutions in advance and preparing answers to interview questions. </li> 
-<li>Follow through on your commitment when you sign up for an interview through ePACK.  If you need to cancel your interview, let us know in advance when possible.</li>  
+    <li>Provide accurate information to the UCC, employers, and graduate programs about your academic record, experiences, skills and visa status.  Misrepresentations may be subject to Student Conduct proceedings.</li> 
+    <li>Conduct yourself professionally during all encounters with employers and graduate school representatives - written, email, phone and personal interactions.</li> 
+    <li>Be prepared for every interview by researching organizations  in advance and preparing answers to interview questions. </li> 
+<li>Follow through on your commitment when you sign up for an on-campus interview through ePACK.  If you need to cancel, let us know in advance when possible.</li>  
 <li>Accept a job offer in good faith.  Once you accept an offer, honor that commitment.  Withdraw from the recruiting process and notify other employers or institutions you are actively considering.  Do not continue to interview. </li>
 <li>Ask questions when you are unclear about a service or resource offered by the UCC.  We are here to help.</li>    </ul>
         </div>

@@ -42,48 +42,39 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
               </div>
           </div>
-            <p>Career assessments can help you explore your interests,
-                skills, values, and preferences as they relate to choosing a major or
-                career.   They can also help you narrow your
-                search or consider new options.  Be sure to make an
+            <p>Many students take assessments to  explore  career interests,
+                skills and preferences.   While no assessment can perfectly describe who you are or what your career is going to be, they can help you narrow your search and discover options you may not have considered.  Make an
                 appointment with your <a
-href="../about/staff.php">career counselor</a> to discuss the results.&nbsp;</p>
-            <p><b>NO CHARGE<br>
+href="../about/staff.php">career counselor</a> to discuss the results.</p>
+          <p><b>NO CHARGE<br>
               </b><a href="http://www.ncsu.edu/career/wrap/unity.php">Choices</a><br>
-                Learn more about your strengths and how they relate to careers.  Identify your interests, values, and
-                abilities and compare them to those recommended for a wide range of
-                careers.  [60-90 minutes] <br>
+              Learn more about your strengths and how they relate to careers. Compare your abilities to the recommended abilities for specific careers. [60-90 minutes] <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
                 <a href="http://www.humanmetrics.com/cgi-win/JTypes1.htm">Jung Typology Test</a><br>
-                Based on the Myers-Briggs Type Indicator (MBTI), this measures personality
-                preferences and provides the four-letter type in addition to introduction to career implication.  For a more in-depth evaluation of personality and
-                career connections, make an appointment with the Counseling Center (see below)
-                to take the MBTI.  [10-20 minutes]<br>
+                Take a mini-version of the  MBTI (Myers-Briggs Type Indicator). Identify  personality
+            preferences, receive your four-letter MBTI type as well as an introduction to  career implications.  [10-20 minutes]<br>
                 <br>
                 <a
 href="http://www.ncsu.edu/student_affairs/counseling_center/services/career/sigi_unity/">SIGI 3</a>&nbsp; <br>
-                Identify your career values, interests and preferences with this comprehensive
-                assessment.  Use this information to
-              explore careers and jobs in a particular major or to get clarity in each of the assessment categories.  Assessment categories can be taken separately.&nbsp; [test time varies]</p>
-            <hr />
+              Identify your values, interests and preferences and use this information to explore and compare careers that match.&nbsp; [test time varies]</p>
+<hr />
             <p> <b>SMALL CHARGE</b>&nbsp;&nbsp; <br>
-              <a href="http://www.ncsu.edu/career/wrap/unity.php">Career Key</a><br>
- A basic assessment of your skills, interests, and career values as these relate to your personality. It is a good place to start if you are exploring or need information on broad career interest areas. Cost is $9.95. [10-15 minutes]</p>
+              <a href="http://www.careerkey.org/">Career Key</a><br>
+ Assess  your skills, interests and career values as these relate to your personality. Ideal  place to start if you are exploring information on broad career interest areas.  [$9.95]</p>
             <p><a
 href="https://www.profiler.com/cgi-bin/ciss/moreform.pl?client=ncs&amp;page=intro&amp;referrer=assessmentssite">Campbell Interest &amp; Skill Survey</a><br>
-                Examine your career interests and skills and compare them to the results of
-                other people who are successfully employed in various career fields.  Receive a comprehensive report that includes strategies
-                for next steps.  [$18.00]  <br>
+                Examine your interests and skills and compare them to the results of
+                other people who are successfully employed in various careers.  Receive a comprehensive report that helps you interpret and plan for your career.  [$18.00]  <br>
                 <br>
                 <a href="http://www.advisorteam.com/temperament_sorter/register.asp?partid=1">Keirsey Temperament Sorter II</a><br>
-                Based on the Myers-Briggs Type Indicator. (MBTI), this provides a quick
-                overview of your personality style.  The
-                in-depth report includes an evaluation where you can begin to see connections
+                Based on the MBTI (Myers-Briggs Type Indicator), this provides a quick
+                overview of your personality style.  Receive an 
+                in-depth report  where you can begin to see connections
             between personality preferences and career interests.  [$19.95]</p>
             <p><a
 href="http://www.ncsu.edu/stud_affairs/counseling_center/services/career_counseling.html">NC State Counseling Center</a><br>
-              If you have tried other resources and feel you have continuing difficulties with major or career decisions, make an appointment by calling 919.515.2423. Following a consultation, some of the following assessments may be suggested.<br>
+              If you have tried other resources and continue to have difficulty choosing your major or career direction,  make an appointment by calling 919.515.2423. Following  a consultation, these assessments may be suggested.<br>
                 <br>
                 Myers Briggs Type Indicator [$15.00]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
                 Personality Research Form [$15.00]<br>
@@ -98,9 +89,7 @@ href="http://www.ncsu.edu/stud_affairs/counseling_center/services/career_counsel
       <?php require_once('../includefiles/epacklogin.php'); ?>
       <div id="navMedia" class="sMedia">
         <?php require_once('../includefiles/socialmedia.php');?>
-      </div>
-    </div>
-  </div>
+      </div></div></div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
     <?php require_once('../includefiles/footer.php');?>

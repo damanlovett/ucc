@@ -32,12 +32,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div class="yui-g"><div id="fadeshow1"></div></div>
         <div id="secContent" class="yui-g">
           <h1>Policy Disclaimer</h1>
-          <p>The UCC maintains this website as a service to NC State students and alumni for their career development and job/internship seeking efforts. The presence of job and internship announcements on this website does not indicate an endorsement or recommendation by NC State or the UCC. Students and alumni are responsible for all necessary precautions when interviewing for or accepting positions listed on this site, and users are responsible for checking the credentials and integrity of an organization.</p>
+          <p>The UCC maintains this website as a service to NC State students and alumni for their career development and job search efforts. The presence of internship and job  announcements on this website does not indicate an endorsement or recommendation by NC State or the UCC. Students and alumni are responsible for all necessary precautions when interviewing for or accepting positions listed on this site, and users are responsible for checking the credentials and integrity of an organization. Use our <a href="../experience/jobsearch/safety.php">safety tips</a> when in doubt!</p>
 
 <p>This website also contains links to other websites not under the control of NC State or the UCC and we are not responsible for the content of any linked site. The UCC provides these links only as a convenience to students and alumni. NC State and the UCC assume no liability for acts or omissions by third parties.</p>
 
-<p>To the extent of any conflict between the information on this site and the actual policy, regulation or rule, the actual policy, rule or regulation governs. Policies, regulations and rules can be found at the (PRR) website.
-</p>
+<p>To the extent of any conflict between the information on this site and the actual policy, regulation or rule, the actual policy, rule or regulation governs. Policies, regulations and rules can be found at the (<a href="http://www.ncsu.edu/policies/">PRR</a>) website. </p>
         </div>
       </div>
     </div>

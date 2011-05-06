@@ -36,9 +36,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <ul>
                 <li class="first"> <a href="/career/">Home</a> </li>
                 <li> <a href="../">Getting Experience</a> </li>
-                <li><a href="./"> Resumes &amp; Documents</a></li>
-                <li class="last">Sample Resumes</li>
-              </ul>
+                <li class="last">Resumes &amp; Documents</a></li></ul>
           </div>
           <p>When you're seeking an internship, co-op, or entry-level job -- your resume is often the first point of contact you'll have with an employer. Make that first impression a great one!</p>
           <p>Employers often review a resume in &lt;30 seconds.  You'll need to communicate your strengths and interests quickly and clearly!    Professional assistance from the UCC can

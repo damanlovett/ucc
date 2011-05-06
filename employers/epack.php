@@ -43,27 +43,28 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
 
           
-          <p>ePACK is your #1 source for recruiting  NC State students and new graduates for career-related internships and entry-level jobs. All of the services listed below are available at no charge.       </p>
+          <p>ePACK is your #1 source for recruiting  NC State students and new graduates (within one year of graduation). <br>
+          Within ePACK, you'll be able to do  the following (never a charge).       </p>
           <ul>
             <li> Post
-              internships and entry-level jobs </li>
+              career-related internships and entry-level jobs </li>
             <li> Search
                 for potential candidates </li>
             <li> Request
-              on-campus interviews </li>
+              dates to interview on-campus  </li>
             <li> Schedule
-              information sessions </li>
-            <li> Keep
-              your contact information up-to-date </li>
+              information sessions on campus</li>
+            <li> Ensure up-to-date contact information</li>
           </ul>
-          <p>            Request access to ePACK --  <a
+          <p><strong>Get started with ePACK</strong></p>
+          <p>Request access --  <a
 href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a><br>
             Receive
           a response within 24-48 hours<br>
-          Begin using ePACK immediately [<a href="../pdfs/epackvisual_employers.pdf">visual overview of ePACK</a>] [<a href="../pdfs/epack_postings.pdf">tips for posting</a>]<br>
-          Questions? Consult with Leslie Bowman, ePACK Specialist,  <a href="mailto:leslie_bowman@ncsu.edu">leslie_bowman@ncsu.edu</a></p>
+          Use our tips --  [<a href="../pdfs/epackvisual_employers.pdf">visual overview</a>] [<a href="../pdfs/epack_postings.pdf">tips for posting</a>]<br>
+          Questions --  Consult with Leslie Bowman, ePACK Specialist --   <a href="mailto:leslie_bowman@ncsu.edu">leslie_bowman@ncsu.edu</a></p>
           <hr />
-          <p><b>Other resources @ NC State</b>: </p>
+          <p><b>Additional resources</b></p>
 <ul>
             <li>Recruit <a href="http://www.mgt.ncsu.edu/mba/career-resources/">MBAs</a></li>
             <li>Recruit <a href="http://www.ncsu.edu/co-op_ed/employers/">Co-ops</a></li>
@@ -71,6 +72,7 @@ href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a><br>
             <li>Recruit as <a
 href="mailto:bridget_yarborough@ncsu.edu">3rd party recruiter</a> -- 
               [<a href="../pdfs/3rd-party.pdf">view our policies</a>]</li>
+            <li>Recruit for <a href="http://www7.acs.ncsu.edu/student_jobs/selectjobs.html">non-career related jobs</a></li>
           </ul>
         </div>
       </div>

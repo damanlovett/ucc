@@ -54,10 +54,10 @@ href="http://www.ncsu.edu/academics/degrees-programs/index.php">degree programs<
 href="http://www.ncsu.edu/research/index.php">research</a><br>
             Find links to degree programs, curriculum, faculty, and areas of research.            </li>
               <li><a
-href="http://www2.acs.ncsu.edu/upa/enrollmentdata/index.htm">Enrollment statistics by major</a><br>
+href="http://www2.acs.ncsu.edu/upa/enrollmentdata/index.htm">Enrollment data by major</a><br>
             Find the profiles of students enrolled in each major.            </li>
               <li><a
-href="http://www2.acs.ncsu.edu/upa/degrees/index.htm">Graduation statistics by major</a><br>
+href="http://www2.acs.ncsu.edu/upa/degrees/index.htm">NC State degrees conferred</a><br>
             Find the number and profile of students who graduate in each major.             </li>
               <li><a
 href="http://www.ncsu.edu/diversity/index.php">Diversity @ NC State</a><br>
@@ -76,7 +76,6 @@ href="http://www.ncsu.edu/diversity/index.php">Diversity @ NC State</a><br>
         <?php require_once('../includefiles/socialmedia.php');?>
       </div>
     </div>
-    <p>&nbsp;</p>
   </div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">

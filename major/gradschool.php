@@ -43,21 +43,21 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
 <p><b>Timing
             &amp; Options<br>
-            </b>While some go directly on to graduate school, others take time off to clarify their focus or achieve other goals.  The choice is yours. There are several options for graduate study --
+            </b>While some go directly on to graduate school, others take time off to clarify their focus or achieve other goals. There are several options for graduate study --
               full-time, part-time, and distance programs -- as well as options for support --  
-              fellowships, assistantships, and tuition reimbursement
-              programs through employers.  </p>
+              fellowships, assistantships and tuition reimbursement
+              programs offered by employers. </p>
 <p><b>Making the decision </b></p>
           <ul>
-            <li> Ask employers about career options with a graduate degree.</li>
-            <li>Talk with current graduate students on campus.  </li>
             <li>Consult
             current advisors: <a href="http://www.ncsu.edu/advising_central/advisers.html">academic advisor</a> / <a
-href="http://admissions.ncsu.edu/have-major/pre-professional.php">pre-professional advisor</a></li>
+href="http://admissions.ncsu.edu/have-major/pre-professional.php">pre-professional advisor</a>.</li>
+            <li> Ask employers about career options with a graduate degree.</li>
+            <li>Talk with current graduate students on campus.</li>
+            <li> Review <a href="info.php">career information</a> to determine if an advanced degree is required. </li>
             <li>Consult graduate program advisors: <a
 href="http://www.grad.ncsu.edu/Labels/dgplist.htm">graduate program
-            director</a> / <a href="http://www.ncsu.edu/grad/about-grad/gradsec.php">graduate services coordinator</a></li>
-            <li> Review <a href="info.php">career information</a> to determine if an advanced degree is required. </li>
+            director</a> / <a href="http://www.ncsu.edu/grad/about-grad/gradsec.php">graduate services coordinator</a>.</li>
             <li>Research
             programs: <a
 href="http://www.princetonreview.com/graduate-schools-programs.aspx?uidbadge=%07">Princeton Review</a> / <a
@@ -65,7 +65,7 @@ href="http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools">U
 href="http://www.ncsu.edu/grad/future-students/index.php">NC State Graduate School</a>.</li>
             <li>Meet
             with your <a
-href="../about/staff.php">career counselor</a>. </li>
+href="../about/staff.php">career counselor</a>.</li>
           </ul>
           <p><b>Beginning the application process </b></p>
           <ul>

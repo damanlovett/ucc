@@ -65,7 +65,7 @@ Identify on-line application sites for programs of interest.&nbsp; Research <a
             <tr>
               <td><p><b>December</b><br>
 Give your references forms to complete or the addresses to which they should
-                  send their letters of recommendation.&nbsp; Provide your references with
+                  send their <a href="../experience/resumes/recomendations.php"> recommendation letters</a>.&nbsp; Provide your references with
               copies of your resume and personal statement. </p></td>
             </tr>
             <tr>

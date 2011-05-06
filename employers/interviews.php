@@ -41,27 +41,25 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </div>
           </div>
 
-          <p>On-campus interviews can be a very efficient way to meet students who match your requirements, all in one central location. View a list of <a href="../pdfs/oncampus-list.pdf">employers who interviewed on campus</a>, 2009-2010.</p>
+          <p>We invite you to Interview students right here on campus! It can be convenient for your organization and certainly for students. We're in a central location and there's never a charge. These <a href="../pdfs/oncampus-list.pdf">employers  interviewed on campus</a> during the 2010-11 academic year.  We'll help you make your plans! </p>
           
 
 <ul>
-<li><strong>Request an interview date in ePACK</strong>. 
+  <li><strong>Request an interview date in ePACK</strong>. 
   <br>
-  Login to ePACK, <a href="https://ncsu-csm.symplicity.com/employers/index.php">www.ncsu.edu/epack/employer</a>. Under &quot;Shortcuts&quot; choose &quot;Request On-campus Interview Schedule.&quot; Receive a confirmation within 24-48 hours.  View the <a href="../pdfs/recruiting-calendar.pdf">recruiting calendar</a> as you plan your visit.
+  Login to ePACK, <a href="https://ncsu-csm.symplicity.com/employers/index.php">www.ncsu.edu/epack/employer</a>. Under &quot;Shortcuts&quot; choose &quot;Request On-campus Interview Schedule.&quot; View the <a href="../pdfs/recruiting-calendar.pdf">recruiting calendar</a> as you select your date.  Receive a response within 24-48 hours.  
 </li>
 </ul>
 <hr />
-<p>Once confirmed, you're ready to proceed.  Allow students to apply through ePACK -- or create your own interview schedule. In either case, we have interview rooms available for your use!</p>
+<p>Once your date is confirmed, you'll have the option to create your own interview schedule or allow students to apply directly through ePACK.</p>
 <ul>
-<li><strong>Students apply through ePACK</strong>. <br>
-  Post your opportunity and students who meet your requirements will apply through ePACK.  Choose "open" or "preselect" schedule – the latter allowing you to invite specific applicants to sign up for interviews.  </li>
-
-<li><strong>Create your own schedule</strong>.
-  <br>
-   Sign students up for interview slots -- while attending a career fair or other campus event -- or after screening applicants who have applied for your position. Set up your schedule and confirm with students directly.  
+<li><strong>Room reservation only</strong>. <br>
+Create your own interview schedule by selecting candidates  you meet at a career fair or from the pool of candidates who apply for a position. Confirm interviews with students directly. </li>
+<li><strong>Apply through ePACK</strong>. <br>
+  Let ePACK do the work. Once your position is posted, students  &quot;apply&quot; for interviews. You'll either allow all students who meet your requirements sign up, or you will preselect and invite selected students to sign up.</li>
 </ul>
 <hr />
-<p>Questions?<br>
+<p>We're here to help.<br>
   Consult with Bridget Yarborough,  Coordinator of Recruiting -- <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>
 </p>
         </div>

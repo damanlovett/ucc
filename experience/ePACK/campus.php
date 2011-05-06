@@ -45,14 +45,13 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <p class=MsoNoSpacing>Many offices at
             NC State employ students or help students find jobs.  This list will help you get started.<ins cite="mailto:Beverly%20Marchi" datetime="2010-06-09T12:51">  </ins>  For
             other offices not listed -- visit in person or their website to inquire about
-            potential opportunities. [<u><a
-href="../../pdfs/campusjobs.pdf">printable version</a></u> ] </p>
+            potential opportunities. [<u><a href="../../pdfs/campusjobs.pdf">printable version</a></u>] </p>
           <div class="2column">
             <ul>
               <li><a
 href="http://www.ncsu.edu/annualfund/call_jobs.html">Annual Fund </a></li>
               <li><a
-href="http://www.fis.ncsu.edu/ncsubookstores/storeinfo.html#employment">Bookstores</a></li>
+href="http://ncsu.collegestoreonline.com/ePOS/form=cat.html&cat=243&store=432#store_info=5">Bookstores</a></li>
               <li><a
 href="http://ncsu.edu/stud_affairs/campus_rec/employment/index.php"
 target="_top">Campus
@@ -60,15 +59,14 @@ target="_top">Campus
               <li><a
 href="http://centennial.ncsu.edu/partners-directory.php">Centennial Campus Employers</a>* </li>
               <li><a
-href="http://www.ncsu.edu/sparcs/centers/listofcis.html">Centers &amp; Institutes</a></li>
+href="http://www.ncsu.edu/sparcs/centers/listofcis.php">Centers &amp; Institutes</a></li>
               <li><a
-href="http://chasslabs.chass.ncsu.edu/jobs">CHASS Computer Labs</a></li>
+href="http://chasslabs.chass.ncsu.edu/jobs/">CHASS Computer Labs</a></li>
               <li><a
 href="http://www.ncsu.edu/co-op_ed/">Co-op</a>* </li>
               <li><a
-href="http://delta.ncsu.edu/about/employment">DELTA</a></li>
+href="http://delta.ncsu.edu/about/employment/">DELTA</a></li>
               <li><a href="http://www.ncsu.edu/dso/general/employment_opportunities.html">Disability Services Office</a></li>
-              <li><a href="http://www.engr.ncsu.edu/undergrad/tutor/">Engineering Tutorial Program</a></li>
               <li><u><a href="index.php">ePACK</a></u></li>
               <li><a
 href="http://www7.acs.ncsu.edu/student_jobs/selectjobs.html">Financial Aid</a>* </li>
@@ -81,11 +79,7 @@ href="http://www.ncsu.edu/orientation/recruitment/">New Student Orientation</a><
               <li><a
 href="http://oit.ncsu.edu/oitjobs">Office of Information Technology</a></li>
             <li><a
-href="http://www.ncsu.edu/resnet/jobs/">ResNet</a></li>
-            <li><a
 href="http://www.ncsu.edu/csleps/service/index.htm">Service Learning - CSLEPS</a></li>
-            <li><a
-href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=590">STAT</a></li>
             <li><a
 href="http://ncsu.edu/sma/join-us/">Student Media</a></li>
             <li><a

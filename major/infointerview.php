@@ -42,46 +42,46 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-<p>Interview a professional -- learn first hand about a career!</p>
+<p>Many students Interview a professional to learn first hand about a major or career!</p>
           <p><strong>STEP 1:&nbsp; <i>find a
-            professional</i></strong><br>
-Ask friends, family, and faculty –                                           "Can you suggest someone who works in
-            publishing?&quot;  Ask employers at
-            career fairs or use UCC databases such as <a
-href="../experience/ePACK/">ePACK</a>, <a
-href="../experience/jobsearch/eleads.php">eLeads</a>,
-            and <a
+          professional</i></strong></p>
+          <ul>
+            <li>              Ask friends, family or faculty –                                           "Can you suggest a professional I could interview in the graphic design field?&quot;  </li>
+            <li>Find a professional at a
+              <a href="../events/fairs.php">career fair</a> or through an   employer database: <a
+href="../experience/jobsearch/eleads.php">eLeads</a>, <a
+href="../experience/ePACK/">ePACK</a> and <a
 href="../experience/jobsearch/careersearch.php">Career
-          Search</a> to find a professional.</p>
+                Search</a>.</li>
+          </ul>
           <p><strong>STEP 2:&nbsp; <i>contact a professional</i></strong><br>
 Call or email your contact.             </p>
-          <p>&quot;Good morning, this is Meredith Jones.  I'm a sophomore in the English Department at
-            NC State.  I met you at a career fair in
-            February, where I learned about your arts publications.  I have become very interested in this field
-            and have a few questions.  Would you be
-            available to meet with me on a Thursday or Friday afternoon?  I would like to conduct an informational
-            interview so that I can learn more about this field.  I would be pleased to come to your
-            office."    </p>
+          <ul>
+            <li>&quot;This is Sophie Miller.  I'm a freshman at NC State and thinking about majoring in graphic design. My advisor suggested I interview a professional  in the field so I can learn more about this career. Would you be
+              available to meet on a Thursday or Friday afternoon for about 30 minutes?  I have a few questions I'd like to ask and I'm pleased to come to your
+              office."  </li>
+          </ul>
           <p><strong>STEP 3:&nbsp; <i>conduct an interview</i></strong><br>
-Be professional. Arrive 5-10 minutes early, dress in             <a
+Be professional! Arrive 5-10 minutes early, dress in             <a
 href="../experience/interviews/wear.php">business
-            casual</a>, bring a list of questions, take paper and pen for note taking,
-            and bring your enthusiasm!</p>
+            casual</a>, bring a list of questions, take paper and pen for note taking
+          and bring your enthusiasm!</p>
           <ul>
             <li> What
               do you do on a typical day? </li>
+            <li> What
+            are the rewards and challenges in your position? </li>
             <li> Can
               you tell me about one of your current projects? </li>
             <li> What
               are your typical hours or work schedule? </li>
             <li> What
-              are the rewards and challenges in this career? </li>
-            <li> What
-              training or education is required? </li>
+            training or education is required?</li>
             <li> Is
               a graduate degree recommended? </li>
+            <li>Where can you work with a degree in this field?</li>
             <li> What
-              is a typical salary for someone in this field? </li>
+              is a typical entry-level salary? </li>
             <li> What
               personal qualities are important for success in this field? </li>
             <li> What
@@ -95,7 +95,7 @@ href="../experience/interviews/wear.php">business
             <li> Does
               your company hire summer interns or co-ops? </li>
             <li> Is
-              there anyone else you think I should talk to about publishing careers? </li>
+              there anyone you'd recommend I speak with  about this field? </li>
           </ul>
           <p><strong>STEP 4:&nbsp; <i>show your appreciation</i></strong><br>
 Email a thank you note within 24 hours.  Report back to the professional on your

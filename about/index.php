@@ -43,7 +43,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           <p>Figuring out
             what to do after college can be intimidating, but planning early and getting
-            help can make all the difference.  UCC
+            help can make all the difference. UCC
             counselors use expertise drawn from working with professionals in your field,
             faculty, staff and students to give you the knowledge, insight and resources
             you need to get you moving and keep you going in the right direction.</p>

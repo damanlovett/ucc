@@ -45,9 +45,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             Students contribute their success to being prepared and using multiple job search strategies.</p>
           <ul class="noBulletList">
             <li><a
-href="http://www.naceweb.org/Research/Job_Outlook/2010/Job_Outlook_2010.aspx" class="MsoNoSpacing">Job outlook 2010</a> – 2 min. video <br>
-            <a
-href="http://www.naceweb.org/Publications/Spotlight_Online/2010/0331/Intern_Hiring_Up_3_Percent.aspx" class="MsoNoSpacing">Intern hiring up 3%</a> – brief article<br>
+href="http://www.naceweb.org/Press/Releases/Intern_Hiring_Up_7_Percent;_Salaries_Stable.aspx?referal=knowledgecenter&menuid=109" class="MsoNoSpacing">Intern hiring up 7%</a> – brief article<br>
             <a href="http://www.naceweb.org/Press/Releases/NACE_Index_Shows_Improvement_in_Job_Market_for_Class_of_2011.aspx">Outlook for the class of 2011</a> - brief article</li>
           </ul>
           <hr />

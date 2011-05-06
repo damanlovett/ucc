@@ -43,12 +43,11 @@
               </ul>
               </div>
               </div>
-              <p>Use
-            as a check list to make sure you are making progress toward an internship, entry-level
-            job, or grad school. </p>
+              <p>Figuring out what to do after college can be  intimidating, but planning   early and getting help can make all the difference.  Take a  look at   our 4 Year Career Plan. We'll get you moving and keep you going in the   right direction! <em><strong><br>
+              Your career starts now.</strong></em><strong></strong></p>
 
               <div id="tabs">
-        <ul>
+<ul>
                   <li class="tabHeader"><a href="#tabs-1">First Year</a></li>
                   <li class="tabHeader"><a href="#tabs-2">Sophomore Year</a></li>
                   <li class="tabHeader"><a href="#tabs-3">Junior Year</a></li>
@@ -57,157 +56,137 @@
             <div id="tabs-1">
                   <p><b>Prepare </b>
               <ul>
-                <li>Check out <a href="http://www.ncsu.edu/majors-careers/">What
-                  can I do with a major in?</a> for information on choosing or changing a major. </li>
+                <li>Use  <a href="http://www.ncsu.edu/majors-careers/">What
+                  can I do with a major in?</a></li>
                 <li>Talk with faculty, mentors, family and friends about majors and
                   occupations. </li>
-                <li>Talk with a career counselor about possible interest areas and career
-                  direction. </li>
+                <li>Consider <a href="assessments.php">career assessments</a> to understand how your skills, interests and values relate to careers.  </li>
+                <li>Talk with a <a href="../about/staff.php">career counselor</a> about possible interest areas. </li>
                 <li>Start to define a strategy for reaching career goals. </li>
-                <li>Take courses that will help you decide if your major is a good fit. </li>
-                <li>Conduct an <a href="infointerview.php">informational interview</a> with a
-                  professional. </li>
-                <li>Consider <a href="assessments.php">career assessments</a> to understand your values, beliefs and abilities when it comes to a
-                  career.  Have a career counselor assist
-                  you with interpreting the results. </li>
-                <li>Go to the UCC website to learn about career
-                  resources; follow the UCC via Facebook,
-                  Twitter, and other social media outlets. </li>
-                <li>Explore <a href="../experience/ePACK/index.php">ePACK</a>; watch the  quick start video. </li>
+                <li>Take courses you enjoy that will help you decide if your major is a good fit. </li>
+                <li>Conduct an <a href="infointerview.php">informational interview</a> with a professional to  learn about the realities of a career.</li>
+                <li>Explore <a href="../experience/ePACK/index.php">ePACK</a>, NC State's on-line job posting system.</li>
               </ul>
-                  <br>
+  <br>
                   </p>
                   <p> <b>Participate </b></p>
                   <ul>
-                <li>Take advantage of opportunities on and off-campus to gain leadership and
-                      teamwork skills through activities and organizations.  </li>
+                <li>Take advantage of opportunities  to develop skills (such as leadership) through activities on and off campus.  </li>
                 <li>Create a <a href="../experience/resumes/index.php">resume
-                  and cover letter</a> using the <a
-href="http://www.ncsu.edu/career/pdfs/jobSearchGuide2010lowRes.pdf">online guide</a>  and fine tune it
+                  and cover letter</a> and fine tune them
                       with a career counselor. </li>
-                <li>Attend a <a href="../events/fairs.php">career fair</a> to learn about different career paths and make contact with
-                      professionals. </li>
-                <li>View internship and job descriptions of interest posted for NC State
-                      students in ePACK. </li>
-                <li>Take advantage of an experiential learning opportunity such as
-                      internship, co-op, externship, research, or volunteer work relevant to your
-                      area of interest. </li>
+                <li>Evaluate strengths on your resume and areas to develop.</li>
+                <li>Attend <a href="../events/fairs.php">career fairs</a> to learn about career paths for different majors.</li>
+                <li>View  opportunities posted in <a href="../experience/ePACK/index.php">ePACK</a>; identify careers of potential interest.</li>
+                <li>Consider 
+                       <a href="../experience/internships/index.php">career-related experience</a> through an externship, internship, co-op, research or volunteer experience.</li>
                 <li>Document your experiences<i>, </i><a
-href="skills.php">skills</a>, and
+href="skills.php">skills</a> and
                       accomplishments. </li>
               </ul>
                   </p>
                 </div>
             <div id="tabs-2">
-                  <p><b>Prepare</b>
+              <p><b>Prepare</b>
               <ul>
-                <li>Update and fine tune your resume and cover letter. </li>
-                <li>Update your <a href="../experience/ePACK/index.php">ePACK</a><b> </b>account.<b>  </b></li>
-                <li>Conduct a practice interview with a friend, employer, or a career
-                  counselor. </li>
-                <li>Speak with faculty and advisors about career interests and plans. </li>
-                <li>Join a student organization that is related to your major or career of
+                <li>Update and fine tune your <a href="../experience/resumes/index.php">resume and cover letter</a>. </li>
+                <li>Create or update your <a href="../experience/ePACK/index.php">ePACK</a><b> </b>account.<b>  </b></li>
+                <li>Practice your <a href="../experience/interviews/index.php">interviewing</a> skills with a friend, employer or career
+                counselor. </li>
+                <li>Speak with an <a href="http://www.ncsu.edu/advising_central/advisers.html">academic advisor</a> about career interests and plans. </li>
+                <li>Join a <a href="http://ncsu.orgsync.com/">student organization</a> that is related to your major or career of
                   interest.  </li>
                 <li>Be open to leadership opportunities. </li>
-                <li>Reconnect with professionals you met at last year's career fairs or
-                  other career-related events. </li>
-                <li>Choose courses that will help you make your career decision. </li>
+                <li>Choose courses that help you make progress toward a degree of interest. </li>
               </ul>
                   </p>
-                  <p> <b>Participate</b>
+              <p> <b>Participate</b>
               <ul>
-                <li>Attend career fairs and events to learn about internships and
-                  co-ops.  </li>
-                <li>Make yourself more marketable by speaking with employers about future
-                  opportunities.  Collect business cards
-                  where possible. </li>
-                <li>Apply for internships posted in <a
-href="../experience/ePACK/index.php">ePACK</a>. </li>
-                <li>Take advantage of employer information sessions listed in ePACK to learn
-                  more about companies and to talk with representatives. </li>
-                <li>Gain career-related experience through an internship, co-op, externship,
-                  research, or volunteer opportunity. </li>
-                <li>Set up a job shadowing experience with a professional in a career of
-                  interest. </li>
+                <li>Gain <a href="../experience/internships/index.php">career-related experience</a> through an internship, co-op, 
+                  research or volunteer opportunity. </li>
+                <li>Speak with faculty about <a href="http://www.ncsu.edu/undergrad-research/">research</a> opportunities. </li>
+                <li>Apply for internships and on-campus interviews in <a
+href="../experience/ePACK/index.php">ePACK</a>.</li>
+                <li>Apply for co-op, start with an <a href="http://www.ncsu.edu/co-op_ed/considering/applying/schedule.php">orientation</a>. </li>
+                <li>Attend <a href="../events/fairs.php">career fairs</a> and events to learn about internships and co-ops.</li>
+                <li>Attend employer information sessions posted  in ePACK to learn
+                about opportunities. </li>
+                <li>Use <a href="../experience/jobsearch/index.php">strategies and resources</a> provided by the UCC. </li>
                 <li>Document your experiences<i>, </i><a
 href="skills.php">skills</a>, and
-                  accomplishments. </li>
+                accomplishments. </li>
               </ul>
                   </p>
                 </div>
             <div id="tabs-3">
                   <p><b>Prepare</b>
               <ul>
-                <li>Update and fine tune your resume and cover letter.  Have them ready to respond quickly to an
-                  opportunity. </li>
+                <li>Update and fine tune your <a href="../experience/resumes/index.php">resume and cover letter</a>.  </li>
                 <li>Update your <a href="../experience/ePACK/index.php">ePACK</a><b> </b>account.<b>  </b></li>
-                <li>Conduct a practice interview with a friend, employer, or a career
-                  counselor. </li>
-                <li>Research application deadlines and test information if you are thinking
+                <li>Practice your <a href="../experience/interviews/index.php">interviewing</a> skills with a friend, employer or career
+                counselor. </li>
+                <li>Research the <a href="timeline.php">application timeline</a> if you are thinking
                   about graduate school. </li>
-                <li>Set up an appointment with a career counselor to discuss career
-                  strategies including decisions about grad school. </li>
-                <li>Speak with faculty about career interests and plans. </li>
+                <li>Speak with faculty about career interests, graduate study and future plans. </li>
+                <li>Meet with a career counselor to discuss strategies including decisions about grad school.</li>
               </ul>
                   </p>
-                  <p> <b>Participate </b>
+              <p> <b>Participate </b>
               <ul>
-                <li>Attend career fairs and events to learn about internships and co-ops. </li>
-                <li>Apply for internships posted in <a
+                <li>Gain <a href="../experience/internships/index.php">career-related experience</a> through an internship, co-op, 
+                research or volunteer opportunity.</li>
+                <li>Speak with faculty about <a href="http://www.ncsu.edu/undergrad-research/">research</a> opportunities. </li>
+                <li>Apply for internships and on-campus interviews in  <a
 href="../experience/ePACK/index.php">ePACK</a>. </li>
-                <li>Set up job shadowing visits with professionals in career areas of
-                  interest. </li>
-                <li>Gain career-related experience through an internship, co-op, research,
-                  or volunteer opportunity. </li>
-                <li>Become active in a campus or community organization or activity to
-                  strengthen skills in leadership,  teamwork, and problem solving. </li>
+                <li>Apply for co-op, start with an <a href="http://www.ncsu.edu/co-op_ed/considering/applying/schedule.php">orientation</a>. </li>
+                <li>Attend <a href="../events/fairs.php">career fairs</a> and events to learn about internships and co-ops.</li>
+                <li>Attend employer information sessions posted  in ePACK to learn
+                about opportunities. </li>
+                <li>Use <a href="../experience/jobsearch/index.php">strategies and resources</a> provided by the UCC. </li>
+                <li>Meet with faculty or employers as you create a <a href="../experience/resumes/references.php">list of references</a><a href="http://www.ncsu.edu/career/experience/resumes/references.php"></a> or request  <a href="../experience/resumes/recomendations.php">recommendation letters</a>. </li>
+                <li>Become active in  <a href="http://ncsu.orgsync.com/">student organizations</a> to develop leadership and teamwork skills. </li>
                 <li>Document your experiences, <a
 href="skills.php">skills</a>, and
-                  accomplishments. </li>
-                <li>Develop relationships with faculty and employers to use as references. </li>
-                <li>Explore with faculty in your major the possibility of helping with
-                  research projects. </li>
-                <li>Develop networking skills attending career events and practicing with a
-                  career counselor. </li>
+                accomplishments. </li>
               </ul>
                   </p>
                 </div>
             <div id="tabs-4">
                   <p><b>Prepare </b>
               <ul>
-                <li>Update and fine tune your resume and cover letter. </li>
-                <li>Contact and create a list of three references. </li>
-                <li>Update your ePACK<b> </b>account
+                <li>Update and fine tune your <a href="../experience/resumes/index.php">resume and cover letter</a>. </li>
+                <li>Create a list of three <a href="../experience/resumes/references.php">references</a>. </li>
+                <li>Update your <a href="../experience/ePACK/index.php">ePACK</a> account
                   and maximize your use of the system.  <b>  </b></li>
                 <li>Discuss your job search strategies with your career counselor. </li>
-                <li>Speak with faculty about career interests and plans. </li>
-                <li>Applying to grad school? Follow
-                  individual program guidelines and deadlines.  </li>
+                <li>Applying to <a href="gradschool.php">grad school</a>? Follow
+                individual program guidelines and deadlines.  </li>
                 <li>Schedule GRE and other admissions exams. </li>
-                <li>Practice your interviewing skills with a career counselor. </li>
+                <li>Practice your <a href="../experience/interviews/index.php">interviewing</a> skills with a friend, employer or career
+                counselor. </li>
                 <li>Take advantage of student rates to join professional organizations. </li>
-                <li>Be sure all of your social networking sites are professional.  Employers may check.</li>
+                <li>Be sure your voice mail and  social networking sites are professional.</li>
               </ul>
                   </p>
                   <p><b>Participate </b>
               <ul>
                 <li>Begin your active job search at least one semester prior to
                   graduation.</li>
-                <li>Use holidays to talk with family, friends and significant contacts regarding your career plans. </li>
-                <li>Attend all campus career fairs and events to learn about
-                  entry-level jobs. </li>
+                <li>Get organized; create a spreadsheet or file to track your job search activity.</li>
+                <li>Speak with faculty about career interests and plans. </li>
+                <li>Secure your <a href="../experience/resumes/references.php">list of references</a> or  <a href="http://www.ncsu.edu/career/experience/resumes/recomendations.php">recommendation letters</a>.</li>
+                <li>Attend <a href="../events/fairs.php">career fairs</a> and events to learn about entry-level jobs.</li>
+                <li>Attend employer information sessions posted  in ePACK to learn
+                  about opportunities. </li>
                 <li>Apply for posted jobs and on-campus interviews in <a
 href="../experience/ePACK/index.php">ePACK</a>. </li>
-                <li>Take advantage of employer information sessions and other related
-                  events posted in ePACK. </li>
-                <li>Use all of the resources available through the UCC, as needed, for
-                  one year following graduation. </li>
-                <li>Fill out the new graduate survey to tell us about your future plans or to let us know
-                  that you are still seeking an opportunity. </li>
+                <li>Use <a href="../experience/jobsearch/index.php">strategies and resources</a> provided by the UCC; services continue for
+                one year after graduation. </li>
+                <li>Complete  the new graduate survey to report your future plans.</li>
               </ul>
                   </p>
                 </div>
-          </div>
+        </div>
               
               <!-- End of Content --> 
             </div>
@@ -222,6 +201,7 @@ href="../experience/ePACK/index.php">ePACK</a>. </li>
         <?php require_once('../includefiles/socialmedia.php');?>
       </div>
         </div>
+    <p>&nbsp;</p>
   </div>
       <!-- End of bd -->
       <div id="ft" role="contentinfo">

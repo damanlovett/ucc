@@ -42,25 +42,33 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </div>
           <p>With 12 colleges and more than 110 majors to choose from,
             there's bound to be a good match for you at NC State!  While some majors are required for entry into
-            specific careers, others offer broad preparation for a wide range of possibilities.  Check out the <a
+            specific careers, others offer broad preparation for a wide range of possibilities. Check out the <a
 href="../pdfs/majors.pdf" class="pdf">majors
-            of famous people</a>!</p>
-          <p>The UCC is here to help you with this decision.  As always, professionals are available to
-            meet with you to discuss your options and next steps.     </p>
+          of famous people</a>.  </p>
+          <p>We can help you choose a major.</p>
           <ul>
             <li><a
 href="../about/staff.php" class="MsoNoSpacing">Career
-              counselors</a>  </li>
+              counselors</a> <br>
+              Provide help exploring careers and choosing majors.</li>
             <li><a
-href="http://www.ncsu.edu/advising_central/advisers.html" class="MsoNoSpacing">Academic advisors</a>  </li>
+href="http://www.ncsu.edu/advising_central/virtual_adviser.html" class="MsoNoSpacing">Virtual advisors</a>  <br>
+              Provide help choosing or changing majors and selecting courses. 
+            </li>
+            <li><a
+href="http://www.ncsu.edu/advising_central/advisers.html" class="MsoNoSpacing">Academic advisors</a>  <br>
+              Provide help selecting courses to meet requirements of a major.  
+            </li>
             <li><a
 href="http://admissions.ncsu.edu/have-major/pre-professional.php" class="MsoNoSpacing">Pre-professional
-              advisors</a></li>
+              advisors</a><br>
+              Provide help selecting courses in pre-health, pre-law or pre-vet majors.  
+            </li>
             <li><a
-href="http://www.ncsu.edu/advising_central/virtual_adviser.html" class="MsoNoSpacing">Virtual advisors</a>  </li>
-            <li><a
-href="http://www.ncsu.edu/grad/about-grad/dgp.php" class="MsoNoSpacing">Graduate program directors</a></li>
+href="http://www.ncsu.edu/grad/about-grad/dgp.php" class="MsoNoSpacing">Graduate program directors</a><br>
+            Provide help exploring and preparing for graduate study.</li>
           </ul>
+          <p>&nbsp;</p>
         </div>
       </div>
     </div>
@@ -72,9 +80,7 @@ href="http://www.ncsu.edu/grad/about-grad/dgp.php" class="MsoNoSpacing">Graduate
       
       <div id="navMedia" class="sMedia">
         <?php require_once('../includefiles/socialmedia.php');?>
-      </div>
-    </div>
-  </div>
+      </div></div></div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
     <?php require_once('../includefiles/footer.php');?>

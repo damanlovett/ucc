@@ -66,7 +66,7 @@ href="../pdfs/fairprep-employers.pdf">employer
         <div id="tabs">
           <ul>
         	<li class="tabHeader"><a href="#tab-1">Fall 2011</a></li>
-        	<li class="tabHeader"><a href="#tab-2">Spring 2011</a></li>
+        	<li class="tabHeader"><a href="#tab-2">Spring 2012</a></li>
         </ul>
         
 <div id="tab-1">
@@ -93,7 +93,7 @@ href="../pdfs/fairprep-employers.pdf">employer
             </tr>
             <tr>
               <td valign=top><a
- href="com.php">Poole College of Management Career Fair </a></td>
+ href="com.php">Poole Management Career Fair </a></td>
               <td valign=top>Oct. 17</td>
               <td valign=top nowrap>10:00-4:00</td>
               <td valign=top><a href="mailto:janet_rakes@ncsu.edu">Janet Rakes </a><br>
@@ -112,20 +112,19 @@ href="../pdfs/fairprep-employers.pdf">employer
             <tr>
               <td valign=top><a
  href="http://www.ncsu.edu/prelaw/law_fair_information.html">Law School Fair </a></td>
-              <td valign=top>Nov. TBA</td>
+              <td valign=top>Nov. 1</td>
               <td valign=top nowrap>12:30-3:30</td>
               <td valign=top><a href="mailto:mary_tetro@ncsu.edu">Mary Tetro</a><br>
     919.513.0912</td>
               <td valign=top><a href="http://www.ncsu.edu/student_center">Talley Student Center </a></td>
             </tr>
             <tr>
-              <td valign=top> Forestry and Environmental<br>
-                Resources Career Fair </td>
-              <td valign=top>Nov. TBA</td>
-              <td valign=top nowrap>11:00-2:00</td>
+              <td valign=top> <a href="http://cnr.ncsu.edu/fer/jobs/overview.php">FER Networking &amp; Career Fair</a></td>
+              <td valign=top>Nov. 16</td>
+              <td valign=top nowrap>10:00-1:45</td>
               <td valign=top> <a href="mailto:christi_standley@ncsu.edu">Christi Standley</a> <br>
     919.513.2582</td>
-              <td valign=top>Jordan Hall Lobby</td>
+              <td valign=top>Jordan Hall Addition</td>
             </tr>
             <tr>
               <td valign=top><a
@@ -144,35 +143,36 @@ href="../pdfs/fairprep-employers.pdf">employer
 <div id="tab-2"> 
           <table class="basicTable100">
             <tr class="altrows">
-              <td valign="top"><p>Social Work Volunteer/Career Fair</p></td>
-              <td valign="top">Jan. 20</td>
-              <td valign="top" nowrap><p>2:00-4:00</p></td>
-              <td valign="top"><a href="mailto:tltaylo4@ncsu.edu">Tora Taylor-Glover<br>
+              <td width="30%" valign="top"><p>Social Work Volunteer Fair</p></td>
+              <td width="11%" valign="top">Jan. TBA</td>
+              <td width="11%" valign="top" nowrap><p>2:00-4:00</p></td>
+              <td width="25%" valign="top"><a href="mailto:tltaylo4@ncsu.edu">Tora Taylor-Glover<br>
                 </a>919.515.2492              </td>
-              <td valign="top"><p><a href="http://www.ncsu.edu/student_center">Talley Student Center</a></p></td>
+              <td width="23%" valign="top"><p><a href="http://www.ncsu.edu/student_center">Talley Student Center</a></p></td>
             </tr>
-    <caption>Spring 2011</caption>
-    <tr class="altrows"> 
-      <td valign="top"><p><a href="http://students.engr.ncsu.edu/careerfair/">Engineering Career Fair</a>          </p> 
-        </td> 
-      <td valign="top">Feb. 2 <br />      </td> 
-      <td valign="top" nowrap><p>9:30-4:00</p></td> 
-      <td valign="top"><a href="mailto:engineeringcareerfair@ncsu.edu">Brian Koehler</a> <br /> 
-919.515.3263</td> 
-      <td valign="top"><p><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></p></td> 
+    <caption>
+    Spring 2012
+    </caption>
+    <tr class="altrows">
+      <td valign="top"><a href="http://students.engr.ncsu.edu/careerfair/">Engineering Career Fair</a></td>
+      <td valign="top">Feb. 2 </td>
+      <td valign="top" nowrap>9:30-4:00</td>
+      <td valign="top"><a href="mailto:engineeringcareerfair@ncsu.edu">Brian Koehler</a> <br />
+919.515.3263</td>
+      <td valign="top"><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></td>
     </tr>
     <tr class="altrows"> 
-      <td width="30%" valign="top"><p><a href="com.php">Poole College of Management Career Fair</a></p></td> 
-      <td width="11%" valign="top">Feb. 3
-        <br />      </td> 
-      <td width="11%" valign="top" nowrap><p>10:00-4:00</p></td> 
-      <td width="25%" valign="top"><a href="mailto:janet_rakes@ncsu.edu">Janet Rakes </a><br /> 
-        919.515.5565</td> 
-      <td width="23%" valign="top"><p><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></p></td> 
+      <td valign="top"><p><a href="com.php">Poole Management  Career Fair</a><a href="http://students.engr.ncsu.edu/careerfair/"></a>          </p> 
+        </td> 
+      <td valign="top">Feb. TBA <br />      </td> 
+      <td valign="top" nowrap><p>10:00-4:00</p></td> 
+      <td valign="top"><a href="mailto:janet_rakes@ncsu.edu">Janet Rakes </a><br />
+919.515.5565</td> 
+      <td valign="top"><p><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></p></td> 
     </tr> 
     <tr class="altrows">
       <td valign="top"><a href="http://enccacareerfair.org">CHASS Career Fair</a></td>
-      <td valign="top">Feb. 16</td>
+      <td valign="top">Feb. 15</td>
       <td valign="top" nowrap>9:00-1:00</td>
       <td valign="top"><a href="mailto:sara_concini@ncsu.edu">Sara Concini </a><br />
         919.515.2396</td>
@@ -180,32 +180,29 @@ href="../pdfs/fairprep-employers.pdf">employer
     </tr> 
     <tr class="altrows">
       <td valign="top">Teacher Network Fair</td>
-      <td valign="top">Mar. 8</td>
+      <td valign="top">Mar. TBA</td>
       <td valign="top" nowrap>9:30-11:30</td>
       <td valign="top"><a href="mailto:dr_ingram@ncsu.edu">D.R. Ingram</a><br>
         919.515.2396</td>
       <td valign="top"><a href="http://www.meredith.edu/">Meredith College</a><br>
         Belk Dining Hall</td>
     </tr>
-    <tr class="altrows"> 
-      <td valign="top"><p><span class="style9"><a href="http://www.peace.edu/content/page/id/821">Non-profit Career Fair</a></span></p></td> 
-      <td valign="top">Mar. 25 </td> 
-      <td valign="top" nowrap>11:00-1:00</td> 
-      <td valign="top"><p><a href="mailto:befird@peace.edu">Barbara Efird</a> <br /> 
-        919.508.2006</p></td> 
-      <td valign="top"><p><a href="http://www.peace.edu/files/shared/pdfs/aboutPeace/campusmap.pdf">Peace College</a><br /> 
-        Student Center </p></td> 
-    </tr> 
-    <tr class="altrows"> 
-      <td valign="top"><p><a href="http://harvest.cals.ncsu.edu/health_pac/index.cfm?pageID=1740">Health Career Expo</a><br /> 
-              <br /> 
-      </p></td> 
-      <td valign="top">Mar. 28 </td> 
-      <td valign="top" nowrap><p>12:00-4:00</p></td> 
-      <td valign="top"><a href="mailto:anita_flick@ncsu.edu%20">Anita Flick, M.D. </a><br /> 
-      919.513.7312</td> 
-      <td valign="top"><p><a href="http://www.ncsu.edu/student_center">Talley Student Center</a><br /> 
-      </p></td> 
+    <tr class="altrows">
+      <td valign="top"><a href="http://harvest.cals.ncsu.edu/health_pac/index.cfm?pageID=1740">Health Career Expo</a></td>
+      <td valign="top">Mar. 26</td>
+      <td valign="top" nowrap>12:00-4:00</td>
+      <td valign="top"><a href="mailto:anita_flick@ncsu.edu">Anita Flick, M.D. </a><br />
+919.513.7312</td>
+      <td valign="top"><a href="http://www.ncsu.edu/student_center">Talley Student Center</a></td>
+    </tr>
+    <tr class="altrows">
+      <td valign="top"><a href="http://www.peace.edu/content/page/id/821">Non-profit Career Fair</a></td>
+      <td valign="top">Mar. 30</td>
+      <td valign="top" nowrap>11:00-1:00</td>
+      <td valign="top"><a href="mailto:befird@peace.edu">Barbara Efird</a> <br />
+919.508.2006</td>
+      <td valign="top"><a href="http://www.peace.edu/files/shared/pdfs/aboutPeace/campusmap.pdf">Peace College</a><br />
+Student Center</td>
     </tr> 
   </table> 
 </div>

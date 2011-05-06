@@ -44,14 +44,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           <p>The UCC is
             located in 2100 <a
-href="http://www.ncsu.edu/facilities/buildings/pullen.html">Pullen Hall</a>  at the corner of Dan Allen and Thurman Drive, next to Harris Hall.  Street address is 201 Dan Allen Drive.</p>
+href="http://www.ncsu.edu/facilities/buildings/pullen.html">Pullen Hall</a>  at the corner of Dan Allen and Thurman Drive, next to Harris Hall.  <br>
+            Street address is 201 Dan Allen Drive.</p>
           <p><strong>Find your way around</strong></p>
           <ul>
             <li><a href="http://www.google.com/maps?f=d&source=s_d&saddr=&daddr=3200+Thurman+Drive">            Google map
             </a></li>
-            <li><a href="http://www.engr.ncsu.edu/maps/">Searchable on-line map</a></li>
             <li><a href="http://www.ncsu.edu/campus_map/print-maps.htm">Printable map</a></li>
-            <li><a href="http://www.lib.ncsu.edu/m/wolfwalk/">Mobile  apps</a><br>
+            <li><a href="http://www.engr.ncsu.edu/maps/">Searchable on-line map</a><br>
             </li>
           </ul>
           <p><strong>Park<br>

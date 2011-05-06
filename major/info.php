@@ -32,26 +32,29 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div class="yui-g"> <div id="fadeshow1"></div> </div>
         <div id="secContent" class="yui-g">
           <h1>Career Information</h1>
-              <div class="breadCrumbHolder module">
+          <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
                 <ul>
                 <li class="first"> <a href="#">Home</a> </li>
                 <li><a href="./">Choosing A Major</a></li>
                 <li class="last">Career Information</li>
               </ul>
+            </div>
               </div>
-              </div>
-              <p><a href="http://www.cfnc.org/">College Foundation of NC</a> <br>
-                Find detailed information about careers, including a list of the fastest  growing careers in NC.</p>
+              <p>Many students create a &quot;short list&quot; of potential majors from the <a href="http://www.ncsu.edu/majors-careers/do_with_major_in/searchresults.php?type=all">list of all NC State majors</a>. <br>
+          Use the sites below to help narrow down your choice. </p>
               <p><a href="http://www.acinet.org/acinet/videos.asp?id=27,&nodeid=27">CareerOneStop</a><br>
-                Find short video clips of hundreds of careers.  Search videos by career clusters, your  skills/abilities, or industry. </p>
-              <p><a href="http://online.onetcenter.org/">O*Net</a> <br>
-                Find detailed information about careers by type – green economy sector, in  demand industries, job family, STEM careers, and more.   </p>
+          Watch one minute  video clips describing specific careers.</p>
+              <p><a href="http://www.cfnc.org/">CFNC</a> <br>
+Explore  details about various careers. <em>(requires login)</em></p>
               <p><a href="http://www.soicc.state.nc.us/soicc/info/briefs.htm">NC SOICC</a> <br>
-                View career briefs including job descriptions, education required, salary  averages, work environment, and employment projections for the future. </p>
+View &quot;career briefs&quot; and  videos of occupations in NC. </p>
               <p><a href="http://www.bls.gov/oco/">Occupational Outlook Handbook</a> <br>
-                Discover the nature of work, training required, job outlook for the future, and  salary averages for all careers.</p>
-        </div>
+                Find detailed information about all careers. </p>
+              <p><a href="http://online.onetcenter.org/">O*Net</a> <br>
+                Browse careers by  industry, tasks, salary, future outlook and more.</p>
+              <p>&nbsp;</p>
+</div>
       </div>
     </div>
     <div class="yui-b">
