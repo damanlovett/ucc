@@ -44,7 +44,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <p>Every resume will be unique.  Your goal is to create a  resume that highlights<em><strong> your</strong></em> individual strengths and interests. Sample resumes will  help you get started!</p>
 </div>
 <hr />
-<p><b>Internships &amp; co-ops</b></p>
+<p><b>Internship &amp; co-op sample resumes</b></p>
           <ul>
             <li><a href="../../pdfs/intern_haywood.pdf">Sharon Haywood </a></li>
             <li><a href="../../pdfs/intern_lawson.pdf">Eric Lawson</a><em> (view his resume as a <a href="../../pdfs/job_lawson.pdf">senior</a>!)</em></li>
@@ -52,7 +52,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 href="../../pdfs/intern_rivas.pdf">Marta
             Rivas</a></li>
           </ul>
-          <p><b>New graduates</b></p>
+          <p><b>New graduate sample resumes</b></p>
           <ul>
             <li><a href="../../pdfs/job_davidson.pdf">Karen Davidson</a></li>
             <li><a href="../../pdfs/job_davis.pdf">Jeffrey Davis</a> </li>
