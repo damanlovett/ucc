@@ -37,14 +37,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <ul>
                 <li class="first"> <a href="/">Home</a> </li>
                 <li> <a href="./">Access For Employers</a> </li>
-                <li class="last"> ePACK </li>
+                <li class="last">ePACK</li>
               </ul>
             </div>
           </div>
 
           
-          <p>ePACK is your #1 source for recruiting  NC State students and new graduates (within one year of graduation). <br>
-          Within ePACK, you'll be able to do  the following (never a charge).       </p>
+          <p>ePACK is your #1 source for recruiting  NC State students and new graduates. <br>
+          Within ePACK, you'll be able to do  the following -- and there's never a charge!      </p>
           <ul>
             <li> Post
               career-related internships and entry-level jobs </li>
@@ -58,13 +58,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </ul>
           <p><strong>Get started with ePACK</strong></p>
           <p>Request access --  <a
-href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a><br>
-            Receive
-          a response within 24-48 hours<br>
-          Use our tips --  [<a href="../pdfs/epackvisual_employers.pdf">visual overview</a>] [<a href="../pdfs/epack_postings.pdf">tips for posting</a>]<br>
+href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a> -- [receive a response within 24-48 hours]<br>
+          Use our help --  [<a href="../pdfs/epackvisual_employers.pdf">visual overview</a>] [<a href="../pdfs/epack_postings.pdf">tips for posting</a>]<br>
           Questions --  Consult with Leslie Bowman, ePACK Specialist --   <a href="mailto:leslie_bowman@ncsu.edu">leslie_bowman@ncsu.edu</a></p>
           <hr />
-          <p><b>Additional resources</b></p>
+          <p><b>Use additional resources</b></p>
 <ul>
             <li>Recruit <a href="http://www.mgt.ncsu.edu/mba/career-resources/">MBAs</a></li>
             <li>Recruit <a href="http://www.ncsu.edu/co-op_ed/employers/">Co-ops</a></li>

@@ -47,39 +47,38 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li><b>Hire
                 students  <br>
               </b>Create positive P.R. for
-                your organization by hiring students who will return to campus and share their experiences with others!  Hire interns and co-ops to identify
-                talent early and groom future leaders.<br>
+              your organization by hiring students who will return to campus and share their experience with others!  Hire students as <a href="experience.php">interns, externs and co-ops</a>. <br>
                 <br>
             </li>
             <li><b>Use
                   ePACK<br>
-              </b>Post internships and
+              </b>Gain access to <a href="epack.php">ePACK</a>, NC State's most visible system for all majors! Post internships and
                   entry-level jobs, search the database for potential candidates, arrange
-                  on-campus interviews, and schedule information sessions.  ePACK is the most visible system at NC State! Login to <a href="epack.php">ePACK</a>.<br>
-                  <br>
-            </li>
+            on-campus interviews and schedule information sessions.   </li>
+          </ul>
+          <ul>
             <li><b>Attend
-                  career fairs<br>
+              career fairs<br>
               </b>Be visible to a wide range of
-                  students in majors of interest.  View list of <a href="../events/fairs.php">career fairs</a>.<br>
-                  <br>
-            </li>
+            students in majors of interest -- by meeting them personally at career fairs!  View list of <a href="../events/fairs.php">career fairs</a> scheduled each semester.</li>
+          </ul>
+          <ul>
             <li><b>Target student organizations<br>
               </b>Identify
-              organizations of interest and inquire about ways to get involved. Suggest a presentation, support a project, or invite a group for a site
+              <a href="http://ncsu.orgsync.com/">student
+                organizations</a> of interest and ask about ways to get involved! Suggest a presentation, participate in an event, support a project, or invite a group for a site
               
-              visit.  Identify specific <a href="http://ncsu.orgsync.com/">student
-                organizations</a> to target. <br>
-                <br>
+              visit. {Refine your search by college:  <a href="http://harvest.cals.ncsu.edu/academic/index.cfm?pageID=395">Agriculture &amp; Life Sciences</a>, <a href="http://design.ncsu.edu/student-organizations">Design</a>, <a href="http://ced.ncsu.edu/student_services/student_orgs.php">Education</a>, <a href="http://students.engr.ncsu.edu/">Engineering</a>, <a href="http://www.chass.ncsu.edu/students/student_orgs.php">Humanities &amp; Social Sciences</a>, <a href="http://poole.ncsu.edu/undergraduate/students/student-organizations/">Management</a>, <a href="http://cnr.ncsu.edu/future/student_orgs.php">Natural Resources</a>, <a href="http://www.pams.ncsu.edu/students/studorgs.php">Physical &amp; Mathematical Sciences</a>, <a href="http://www.tx.ncsu.edu/community/student-life/student-organizations.cfm">Textiles</a>.]  <br>
+              <br>
             </li>
-          
+            
             <li><b>Offer
               practice  interviews or resume critiques<br>
-              </b>Show students your commitment to helping them prepare. Come to campus to conduct practice interviews or resume critiques. At the same time, meet students of potential interest! Contact Bridget Yarborough, Coordinator of Recruiting -- <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>.<br>
+              </b>Come to campus to meet students in majors of interest and offer professional assistance! Contact Bridget Yarborough, Coordinator of Recruiting -- <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>.<br>
               <br>
             </li>
             <li> <b>Advertise with campus media</b><br>
-              Get in front of students through NC State's campus media.<br>
+              Use the media to increase your visibility with NC State students!<br>
               <a href="../experience/ePACK/guide.php">Job &amp; Internship Guide</a> -- UCC publication
               <br>
               <a
@@ -94,8 +93,8 @@ href="http://www.ncsu.edu/agromeck/" class="MsoNoSpacing">Agromeck</a> -- studen
             </li>
             <li> <b>Support
               the college<br>
-              </b>Become visible at the college level by looking for ways to support  students and faculty in specific colleges or departments through
-              scholarships, gifts, and service.  Find a <a href="http://www.ncsu.edu/giving/foundations.php">college foundation</a>.<br>
+              </b>Become visible by looking for ways to support  students and faculty in specific colleges or departments through
+              scholarships, gifts, and service.  Find a <a href="http://www.ncsu.edu/giving/foundations.php">college foundation</a> to discuss options.<br>
               <br>
             </li>
             <li> <b>Ask
@@ -116,7 +115,7 @@ href="http://www.ncsu.edu/agromeck/" class="MsoNoSpacing">Agromeck</a> -- studen
         <?php require_once('../includefiles/socialmedia.php');?>
       </div>
     </div>
-  </div>
+  e</div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
     <?php require_once('../includefiles/footer.php');?>

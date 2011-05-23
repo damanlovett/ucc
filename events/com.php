@@ -31,7 +31,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div class="yui-g"><div id="fadeshow1"></div></div>
         <div id="secContent" class="yui-g">
           <h1>POOLE COLLEGE OF Management Career Fair</h1>
-  <p> Monday, October 17, 2011<br /> 
+  <p>Monday, October 17, 2011<br /> 
     10:00am-4:00pm <br /> 
     <a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a> @ NC State <br>
   </p>
@@ -42,7 +42,7 @@ List of employers attending --<em> available fall 2011</em><br>
   <p><STRONG>Employers</STRONG><BR>
     Register for the fair through <A href="http://www.ncsu.edu/epack/employer">ePACK</A>. <br>
 Learn more about the   programs and initiatives of the <A href="http://www.mgt.ncsu.edu/">Poole College of   Management</A><br>      
-Questions? Contact Dr. Janet Rakes, <A href="mailto:janet_rakes@ncsu.edu">janet_rakes@ncsu.edu</A></p>
+Questions? Contact Brian Newton, <A href="mailto:brian_newton@ncsu.edu">brian_newton@ncsu.edu</A></p>
 <p>    <em> 
             </em>      </p> 
             

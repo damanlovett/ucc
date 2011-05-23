@@ -46,11 +46,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
 
          
-          <p>The UCC provides salary averages and information for internships and entry-level jobs.  <br>
+          <p>The UCC provides salary averages for internships and entry-level jobs.  <br>
           Use these as a guide. Actual offers you receive will depend upon the following.   </p>
           <ul>
             <li><strong>Your profile</strong> – degree  level, major, GPA, experience, skills</li>
-            <li><strong>Employer's profile</strong> – industry,  size, location (<a href="http://swz.salary.com/costoflivingwizard/layoutscripts/coll_start.asp">cost of living</a>) &amp; <a href="http://www.jobweb.com/studentarticles.aspx?id=262">benefits</a></li>
+            <li><strong>Employer's profile</strong> – industry,  size, location (<a href="http://swz.salary.com/costoflivingwizard/layoutscripts/coll_start.asp">cost of living</a>) &amp; <a href="http://www.jobweb.com/studentarticles.aspx?id=262">benefits</a>.</li>
             <li><strong>Current job market </strong>– demand for your major, skills, or field</li>
           </ul>
           <p><strong>Questions?</strong><br>

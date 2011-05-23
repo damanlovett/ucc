@@ -46,8 +46,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           
 
-          <p>On-campus interviews are scheduled during the fall and spring semesters by employers who recruit students for internships and entry-level jobs.  All students in all majors who are in degree  programs are encouraged to participate.  </p>
-          <p>View the list of <a href="../../pdfs/oncampus-list.pdf">employers  who interviewed on campus</a> – 2009-10<br>
+          <p>Employers conduct on-campus interviews for internships and entry-level jobs during the fall and spring semesters.  All students who are in degree  programs are encouraged to participate!  </p>
+          <p>View the list of <a href="../../pdfs/oncampus-list.pdf">employers  who interviewed on campus</a> – during the 2010-11 academic year<br>
           2934 individual interviews<em> -- </em>2199 bachelors, 667 masters, 68 doctoral</p>
           <ul>
             <li>Find interview schedules (entered by employers) in  <a href="../ePACK/index.php">ePACK</a>.</li>

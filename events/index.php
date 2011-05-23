@@ -42,15 +42,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </div>
           </div>
 
-          <p>Each semester, a variety of events and career fairs are
+          <p>During the fall and spring semesters, a variety of events and career fairs are
             scheduled at NC State.  These provide
-            unique opportunities to learn about careers,  industries, employers, and graduate programs  associated with your major or area of interest.   </p>
-          <p>Research shows that students who participate in events and career fairs and have the opportunity to interact with employers
-            -- are more likely to develop increased confidence in themselves and clarity in
-            their career decisions.  </p>
-<p>With nothing to lose and everything to gain – open your
-            calendar now and add upcoming events and career fairs to your schedule!       </p>
-        </div>
+            outstanding opportunities to learn about employers, career paths, and specific opportunities associated with your major!</p>
+          <p>Students who participate in these events and take the opportunity to <strong>interact directly with employers</strong> -- are more likely to develop confidence in themselves as potential candidates and uncover outstanding opportunities for internships, co-op and entry-level positions!</p>
+<p><a href="http://www.youtube.com/ncsucareer#p/u/7/27YWF4CQ2FM"><img src="../img/youtube/eaton_careerfair.png" width="134" height="78"></a><br>
+            Isaac Owolabi (NC State '10) --  Leadership Development Program @ Eaton Corporation.<br>
+          Hear his experience with events and career fairs!</p>
+</div>
       </div>
     </div>
     <div class="yui-b">
@@ -60,8 +59,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
       <?php require_once('../includefiles/epacklogin.php'); ?>
       <div id="navMedia" class="sMedia">
         <?php require_once('../includefiles/socialmedia.php');?>
-      </div>
-    </div>
+      </div></div>
+    <p>&nbsp;</p>
   </div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">

@@ -76,10 +76,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             
           </div>
           <div class="yui-u a2">
-            <h2>December grads &quot;future plans&quot;</h2>
-            <p>The results of our survey are in! <br>
-              See what plans December 2010 graduates have made!<br>
-              [ <a href="http://www2.acs.ncsu.edu/UPA/survey/reports/fpsindex.htm">more info</a> ]</p>
+            <h2>Seniors: tell us your status!</h2>
+            <p>Take the survey to let us know your future plans. Undecided? We want to know that too! <br>
+              [ <a href="http://www2.acs.ncsu.edu/UPA/survey/future_plans.htm">more info</a> ]</p>
           </div>
         </div>
         

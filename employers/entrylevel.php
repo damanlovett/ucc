@@ -36,26 +36,26 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <div id="breadCrumb" class="breadCrumb module">
                 <ul>
                 <li class="first"> <a href="/career/">Home</a> </li>
-                <li> <a href="./">Access for Emplyer</a> </li>
+                <li> <a href="./">Access for Employers</a> </li>
                 <li class="last">Entry-level jobs</li>
               </ul>
             </div>
           </div>
 
-          <p>NC State students graduate in May, summer, and  December.  While many students continue  on to graduate or professional school, most will seek entry-level jobs.  Thank you for providing outstanding  opportunities for NC State graduates!</p>
+          <p>NC State students graduate in May, summer, and  December.  While many students continue  on to graduate or professional school, most seek entry-level jobs.  Thank you for providing outstanding  opportunities for NC State graduates!</p>
           <p><strong>Start with ePACK </strong></p>
           <ul>
-            <li><a href="epack.php">Post  entry-level jobs in ePACK</a> – interested students will apply</li>
-            <li>Expand  your pool of candidates by searching the database and inviting students to  apply</li>
-            <li>Select  students of interest and contact them directly</li>
-            <li>Set  up on-campus interviews – if convenient</li>
+            <li><a href="epack.php">Post  entry-level jobs in ePACK</a> – interested students will apply.</li>
+            <li>Expand  your pool of candidates by searching the database and inviting students to  apply.</li>
+            <li>Select  students of interest and contact them directly.</li>
+            <li>Set  up <a href="interviews.php">on-campus interviews</a> – if convenient.</li>
           </ul>
-          <p><strong>Tips for success</strong></p>
+          <p><strong>Tips for recruiting success</strong></p>
           <ul>
             <li>Attract students by providing details about  the organization and opportunity in your posting.  </li>
             <li>Consider a variety of majors and graduation  dates. </li>
             <li>Be flexible about GPA -- consider all  accomplishments. </li>
-            <li>Consider additional ways to increase your  visibility on campus.  </li>
+            <li>Consider additional ways to increase your  <a href="visibility.php">visibility on campus</a>.  </li>
           </ul>
           <p class=MsoNoSpacing>&nbsp;</p>
         </div>

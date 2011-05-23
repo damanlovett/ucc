@@ -43,27 +43,27 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           <p>Use action verbs to communicate your
             accomplishments in the experience section of your resume. <br>
-            Note the impact action verbs make in the job below.  <br>
-            [<a href="../../pdfs/verbs.pdf">List of action verbs</a>]
+            Note the impact action verbs make in the job below.            [<a href="../../pdfs/verbs.pdf">sample action verbs</a>]
             </p>
+          <hr />
           <p> <em><strong>With action verbs </strong></em><br>
             <strong>IBM</strong>,
-            RTP, NC<br>
-          Human Resources Intern, Summer 2010</p>
+            Research Triangle Park, NC<br>
+          Human Resources Intern, Summer 2011</p>
           <ul>
-            <li>Worked with a project team on the redesign of
+            <li>Worked with project team on the redesign of
               New Employee Orientation.</li>
             <li> Created a survey to use with current
               employees.&nbsp; Received an 80% response rate.</li>
-            <li> Interviewed 15 recent hires to gain insight into
+            <li> Interviewed 15 recent hires to gain insights into
               the needs of new employees.</li>
             <li> Wrote report and presented results to project
               team.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
           </ul>
           <p><em><strong>Without action verbs</strong></em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
             <strong>IBM</strong>,
-            RTP, NC<br>
-            Human Resources Intern, Summer 2010</p>
+            Research Triangle Park, NC<br>
+            Human Resources Intern, Summer 2011</p>
           <ul>
             <li> Duties included administrative tasks in an
               office setting.</li>

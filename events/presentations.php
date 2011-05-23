@@ -41,7 +41,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </div>
           </div>
               <p><b>YouTube videos</b> <i>– on your own</i> <b><br>
-              </b>View <a href="http://www.youtube.com/ncsucareer">brief videos</a> on a variety of topics related to the job search. These videos are created by the UCC staff. </p>
+              </b>View <a href="http://www.youtube.com/ncsucareer">brief videos</a> on a variety of topics related to the job search. These videos are created by the UCC staff and employers. </p>
               </p>
               <p><b>General
               presentations </b><i>– by Career Ambassadors  <br>

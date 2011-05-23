@@ -41,12 +41,12 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </div>
 <ul>
               <li><a
-href="http://www.ncsu.edu/about-nc-state/quick-view/index.php">NC State at-a-glance</a> <br>
+href="http://www.ncsu.edu/about-nc-state/quick-view/index.php">NC State at-a-glance</a> / <a href="../pdfs/ataglance.pdf">UCC at-a-glance</a><br>
             NC State is a recognized leader in science, technology, and engineering. </li>
               <li><a
 href="http://www.ncsu.edu/reg_records/calendars/index.html">Academic calendar</a> / <a href="../pdfs/recruiting-calendar.pdf">recruiting
                 calendar</a><br>
-                Know important dates before making plans.</li>
+                Know important dates before making recruiting plans.</li>
               <li><a
 href="http://www.ncsu.edu/colleges_schools.html">Colleges</a> / <a
 href="http://www.ncsu.edu/acad_depart.html">departments</a> / <a

@@ -41,13 +41,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <li class="last">Sample Resumes</li>
               </ul>
             </div>  
-            <p>Every resume will be unique.  Your goal is to create a  resume that highlights
-    your individual strengths, interests, and accomplishments. These sample resumes will  help you get started!</p>
+            <p>Every resume will be unique.  Your goal is to create a  resume that highlights<em><strong> your</strong></em> individual strengths and interests. Sample resumes will  help you get started!</p>
 </div>
-<p>How does a resume progress from freshman to senior? See Eric Lawson's progression below.<br>
-  Look for opportunities to develop your resume by gaining <a href="../internships/index.php">career-related experience</a>, while here at NC State.</p>
 <hr />
-<p><b>Sample internship &amp; co-op resumes</b></p>
+<p><b>Internships &amp; co-ops</b></p>
           <ul>
             <li><a href="../../pdfs/intern_haywood.pdf">Sharon Haywood </a></li>
             <li><a href="../../pdfs/intern_lawson.pdf">Eric Lawson</a><em> (view his resume as a <a href="../../pdfs/job_lawson.pdf">senior</a>!)</em></li>
@@ -55,7 +52,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 href="../../pdfs/intern_rivas.pdf">Marta
             Rivas</a></li>
           </ul>
-          <p><b>Sample new graduate resumes</b></p>
+          <p><b>New graduates</b></p>
           <ul>
             <li><a href="../../pdfs/job_davidson.pdf">Karen Davidson</a></li>
             <li><a href="../../pdfs/job_davis.pdf">Jeffrey Davis</a> </li>
@@ -70,6 +67,9 @@ href="../../pdfs/job_zellinger.pdf">Sarah
           <li> <a
 href="../../pdfs/job_jain.pdf">Niyati Jain</a> </li>
           </ul>
+          <hr />
+          <p><strong>Enhance your resume!</strong><br>
+            Take a look at Eric Lawson's progression above -- from freshman to senior. Seek opportunities to enhance your resume while here at NC State -- through  <a href="../internships/index.php">career-related experience</a>, <a href="../../major/skills.php">skills</a>, and <a href="http://ncsu.orgsync.com/">involvement</a>!</p>
         </div>
       </div>
     </div>

@@ -39,31 +39,32 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-<p>Looking for career-related experience while in school or
-            an entry-level job at graduation – can feel like a daunting task.  We're here to help make the steps more
-            manageable and increase your chances for success!  [<a href="http://www.naceweb.org/so09292010/career_services_value/">Value of using the UCC</a>.]   </p>
+<p>Looking for career-related experience  or
+            an entry-level job can feel like a <em><strong>daunting task!</strong></em><br>
+We're here to help make the steps more
+            manageable and increase your chance for success. </p>
           <p><b>Timing</b>   <br>
-            Get started early and set aside time each week for your search. (It's likely to take longer than 
-            expected.)  Not sure what you
+            Get started early and set aside time each week for your search. Count on it to take  longer than 
+            expected.  <br>
+            Not sure what you
             want to do?  Don't let that stop
-            you.  Your direction <em>will</em> clarify as you move along.  </p>
+            you -- your direction <em>will</em> clarify as you move along.  </p>
           <p><b>Strategies<br>
-          </b>Prepare and participate!<b>  </b>Know what you have to offer
-            and be ready to communicate your strengths to employers.  Use a variety of  <a href="ePACK/resources.php">resources</a> and <a href="jobsearch/index.php">strategies</a> suggested by the UCC. </p>
+          </b>Prepare and participate!<b>  </b>Develop yourself into a strong candidate. Know what you have to  offer
+            and be ready to communicate it to employers.  Use a variety of job search <a href="ePACK/resources.php">resources</a> and <a href="jobsearch/index.php">strategies</a> suggested by the UCC.</p>
           <p><b>Support</b>  <br>
-            Don't do it alone. Form a job search group (similiar to a study group) for motivation and support. Take advantage of the UCC  from your first year through graduation  to help keep you moving in the right direction. 
-            Just graduate?  Our services
-          continue for one year.</p>
+            Don't go it alone! Take advantage of the expertise and experience of others. Form a job search group (similiar to a study group) for motivation and support. Use the UCC to help keep you moving in the right direction. 
+            [<a href="http://www.naceweb.org/so09292010/career_services_value/">Value of using the UCC</a>.]</p>
           <ul>
-            <li><a href="/career/pdfs/search-checklist.pdf">Checklist</a> – quick overview of tasks for your search </li>
+            <li><a href="/career/pdfs/search-checklist.pdf">Checklist</a> – overview of tasks for your search</li>
             <li><a
 href="ePACK/guide.php">Job &amp; Internship
               Guide</a> – indispensible reference for your search</li>
             <li><a
 href="../about/staff.php">Career
-                    counselors</a> – professional guidance for all questions &amp; concerns</li>
+                    counselors</a> – professional guidance for all questions &amp; concerns        </li>
           </ul>
-</div>
+        </div>
       </div>
     </div>
     <div class="yui-b">

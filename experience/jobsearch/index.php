@@ -46,7 +46,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <ul class="noBulletList">
             <li><a
 href="http://www.naceweb.org/Press/Releases/Intern_Hiring_Up_7_Percent;_Salaries_Stable.aspx?referal=knowledgecenter&menuid=109" class="MsoNoSpacing">Intern hiring up 7%</a> – brief article<br>
-            <a href="http://www.naceweb.org/Press/Releases/NACE_Index_Shows_Improvement_in_Job_Market_for_Class_of_2011.aspx">Outlook for the class of 2011</a> - brief article</li>
+            <a href="http://www.naceweb.org/Press/Releases/NACE_Index_Shows_Improvement_in_Job_Market_for_Class_of_2011.aspx">Outlook for the class of 2011</a> - brief article<br>
+            <span class="MsoNoSpacing"><a href="http://www2.acs.ncsu.edu/UPA/survey/reports/fpsindex.htm">Graduating Seniors' Future Plans Survey</a> - December 2010 grads</span></li>
           </ul>
           <hr />
           <ul>
@@ -102,9 +103,7 @@ href="http://www.naceweb.org/Press/Releases/Intern_Hiring_Up_7_Percent;_Salaries
       <?php require_once('../../includefiles/epacklogin.php'); ?>
       <div id="navMedia" class="sMedia">
         <?php require_once('../../includefiles/socialmedia.php');?>
-      </div>
-    </div>
-  </div>
+      </div></div></div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
     <?php require_once('../../includefiles/footer.php');?>

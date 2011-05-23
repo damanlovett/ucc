@@ -43,13 +43,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-          <p>Before you use your resume, get a second opinion! Ask a friend, family member, or supervisor at work  to take a look.  What is their first impression?  Have a suggestion about format? Find a typo or grammatical error?  You'll be thankful for their observations!    </p>
-          <p> Wondering which words are most <strong>PROMINENT</strong> on your resume?<br>
-          Cut and paste your resume and run it through <a
-href="http://www.wordle.net/create">Wordle</a>!     </p>
+          <p>Before you use your resume, <em><strong>get a second opinion!</strong></em><br>
+          Ask a friend, family member, supervisor or faculty member to take a look. What's their first impression? Have  a suggestion about  format or content? Find a typo? You'll be thankful for their observations!   </p>
           <p><strong>We're here to help<br>
           </strong><a href="../../about/staff.php">Career counselors</a> are available to critique your resume! Call 919.515.2396 to schedule an appointment.
-          If you are unable to visit, email your resume to the career counselor who works with your major.     </p>
+          If you are unable to visit, email your resume to the career counselor who works with your major.          </p>
+          <p>Wondering which words are most <strong>PROMINENT</strong> on your resume?<br>
+            Cut and paste your resume and run it through <a
+href="http://www.wordle.net/create">Wordle</a>!     </p>
         </div>
       </div>
     </div>

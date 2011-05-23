@@ -55,7 +55,7 @@ href="http://www.ncsu.edu/facilities/buildings/pullen.html">Pullen Hall</a>  at 
             </li>
           </ul>
           <p><strong>Park<br>
-          </strong>Parking permits are required on campus 7am-5pm weekdays and available to employers.  Park temporarily at the meters in front of the UCC, pick up a permit and proceed to the <a
+          </strong>Parking permits are required on campus 7am-5pm weekdays and available to employers.  Park temporarily  in front of the UCC, pick up a permit and proceed to the <a
 href="http://www.ncsu.edu/facilities/buildings/danallendeck.html">Dan Allen
           Parking Deck</a>.   </p>
           <p><strong>Stay awhile<br>

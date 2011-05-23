@@ -30,31 +30,32 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div class="yui-g"><div id="fadeshow1"></div>          
 </div>
         <div id="secContent" class="yui-g">
-          <h1>INTERNSHIPS, EXTERNSHIPS, CO-OP </h1>
+          <h1>INTERNSHIPS, EXTERNSHIPS &amp; CO-OP </h1>
          
                    <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
                 <ul>
                 <li class="first"> <a href="/career/">Home</a> </li>
-                <li> <a href="./">Access for Emplyer</a> </li>
-                <li class="last">Internships, Externships, CO-OP</li>
+                <li> <a href="./">Access for Employers</a> </li>
+                <li class="last">Internships, Externships & Co-op</li>
               </ul>
               </div>
               </div>
+            <p>Interested in identifying                talent early?</p>
                <p>NC State students actively seek career-related experience
-            prior to graduation -- to learn about their profession, develop skills, increase
-            confidence, offer fresh ideas, and clarify career decisions.  Thank you for providing outstanding
-            experiences for NC State students!   Choose the options that work best for you.     </p>
+                 prior to graduation -- to learn about their profession, develop skills, increase
+                 confidence and clarify career decisions.  Thank you for providing outstanding
+                 experiences for NC State students!   Choose the option that work best for your organization.     </p>
           <ul>
             <li><b>Internships:</b>  The most flexible for you and the student, during
               the summer or semester (part-time or full-time).  Internships are usually paid, academic credit
-              options vary by department. <a href="http://www.ncsu.edu/epack/employer">Post internships in  ePACK</a>.  </li>
-            <li><b>Externships:</b>  Designed specifically to help first year
-              engineering students learn more about career options.  This is a 1-2 day job shadow experience
+              options are limited. <a href="epack.php">Post internships in  ePACK</a>.  </li>
+            <li><b>Externships:</b>  Designed to help first year
+              engineering students learn about careers.  This is a 1-2 day job shadow experience
               during spring break, unpaid. <a href="/career/employers/externships.php">Learn more about externships</a>.</li>
-            <li><b>Co-op:</b>  An option with a student commitment of three rotations of work
+            <li><b>Co-op:</b>  An option with student commitment of three rotations of work
               alternating with semesters of school beginning in the summer or semester.  Co-ops are always paid. <a
-href="http://www.ncsu.edu/co-op_ed/employers/">Post co-ops through the Co-op Office</a>.</li>
+href="http://www.ncsu.edu/co-op_ed/employers/">Post co-ops in Cooperative Education</a>.</li>
           </ul>
           <hr />
           <p><b>Tips for

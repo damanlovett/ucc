@@ -38,15 +38,16 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <li> <a href="../">Getting Experience</a> </li>
                 <li class="last">Resumes &amp; Documents</a></li></ul>
           </div>
-          <p>When you're seeking an internship, co-op, or entry-level job -- your resume is often the first point of contact you'll have with an employer. Make that first impression a great one!</p>
-          <p>Employers often review a resume in &lt;30 seconds.  You'll need to communicate your strengths and interests quickly and clearly!    Professional assistance from the UCC can
-              make a difference.</p>
+          <p>You'll need a resume when seeking an internship, co-op or entry-level job.  Your resume  is typically the first point of contact you'll have with an employer. <em><strong>Make that first impression a great one!</strong><strong></strong></em> </p>
+          <p>Since employers often review a resume in &lt;30 seconds, you'll  need to communicate your strengths and interests quickly and clearly.  Let us help you create a strong resume!  Professional assistance from the UCC can
+          make a difference.          </p>
           <ul>
-            <li>First resume? Start with the  <a href="../../pdfs/worksheet.pdf">resume worksheet</a></li>
-            <li>              Review the resume and letter section of the <a href="../ePACK/guide.php">Job &amp; Internship Guide</a></li>
-            <li>View links throughout this section to prepare outstanding job search documents!</li>
+            <li>View links throughout this section to prepare outstanding job search documents</li>
+            <li>First resume? Start  with the  <a href="../../pdfs/worksheet.pdf">resume worksheet</a></li>
+            <li>              Review the resume section of the <a href="../ePACK/guide.php">Job &amp; Internship Guide</a></li>
+            <li>Hear from UCC professionals: watch the quick start video </li>
           </ul>
-<p class="singleSpaced">&nbsp;</p>
+<p><a href="http://www.youtube.com/ncsucareer#p/u/5/T1WwkOVaUxU"><img src="../../img/youtube/resume_writing.png" width="134" height="78" alt="resumes"></a></p>
         </div>
       </div>
     </div>

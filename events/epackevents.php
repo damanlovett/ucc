@@ -41,7 +41,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-<p>While ePACK is your number one source for finding internships
+<p>While ePACK is your #1 source for finding internships
             &amp; entry-level jobs  – ePACK is also a place to find career-related events and activities.   Here's a sampling of what you'll find.      </p>
           <ul>
             <li>Career

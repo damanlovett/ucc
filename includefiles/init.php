@@ -76,7 +76,7 @@ var mygallery=new fadeSlideShow({
 		["/career/img/header2/studygrass.jpg", "", "", "Students can relax on campus and read the UCC Job Search Guide."],
 		["/career/img/header2/brickyard.jpg", "", "", "The brickyard is an exciting place to talk about your job search."],
 		["/career/img/header2/brickyard2.jpg", "", "", "Sharing your job search experience with a friend can be rewarding."],
-		["/career/img/header2/engineering.jpg", "", "", "The UCC & COE partners together to provide career events."],
+		["/career/img/header2/engineering.jpg", "", "", "The UCC & COE partner together to provide career events."],
 		["/career/img/header2/brickyard.jpg", "", "", "Sharing your job search experience with a friend can be rewarding."],
 		["/career/img/header2/ambassadors.jpg", "", "", "The UCC Career Ambassador program is a fun and rewarding experience."],
 		["/career/img/header2/interview.jpg", "", "", "The UCC provides on campus interviewing for employers hiring NC State students."],

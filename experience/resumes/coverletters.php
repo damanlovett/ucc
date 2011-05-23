@@ -56,18 +56,15 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-<p>A cover letter is your introduction and accompanies
-            a resume.  While a resume provides a quick overview of your accomplishments, the cover letter highlights only one or two skills or experiences that are related to the position for which you are applying. </p>
+<p>A cover letter is your introduction and often accompanies
+            a resume.  While a resume provides a quick overview of your accomplishments, the cover letter highlights  one or two skills or experiences that are related to the position for which you are applying. </p>
           <p><b>Sample
             cover letters</b></p>
           <ul>
             <li><a
-href="../../pdfs/letter-basic.pdf">Cover letter basics</a></li>
-            <li><a
-href="../../pdfs/letter-email.pdf">Email version</a> </li>
-            <li><a
-href="../../pdfs/letter-print.pdf">Print version</a></li>
-          <li><a href="http://www.jobweb.com/students.aspx?folderid=134">Additional samples</a></li>
+href="../../pdfs/letter-basic.pdf">The basics</a> / <a
+href="../../pdfs/letter-email.pdf">Email version</a> / <a
+href="../../pdfs/letter-print.pdf">Print version</a> / <a href="http://www.jobweb.com/students.aspx?folderid=134">Additional samples</a></li>
           </ul>
           <p><b>Using cover letters<br>
           </b>A cover letter is needed when you communicate with an employer at a distance and an introduction is necessary. When you meet  in person (at a career fair or interview), a cover letter is not needed since you will introduce yourself.          </p>

@@ -42,7 +42,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           <p>Information sessions are scheduled by employers during
             the fall and spring semesters – often in advance of  career fairs and
-            on-campus interviews.  Employers use this opportunity to increase
+            on-campus interviews.  Employers use these opportunities to increase
             the visibility of their organization  and interact personally with  students interested in internships and entry-level jobs.     </p>
           <p> Information sessions are networking opportunities!  Many representatives are NC State graduates. All
             students in all majors are invited to attend.  Details are

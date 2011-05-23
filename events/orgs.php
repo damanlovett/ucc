@@ -40,16 +40,16 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-<p>Student organizations -- whether honor societies, social or interest groups, or professional societies -- often sponsor professional development or career-related events!  A good number of these involve alumni and employers who participate in presentations, panel
+<p>Student organizations -- whether honor societies, social or interest groups, or professional societies -- often sponsor professional development or career-related events!  A good number of these involve employers (often NC State alumni) who participate in presentations, panel
 discussions, projects, and networking events. </p>
 
 
-<p>Not involved with a student organization?  Give it serious consideration! Visit their website and email
+<p>Not involved in a student organization?  Give it serious consideration! Visit their website and email
 a student leader to learn more.  Getting involved has the potential to create opportunities for you and your career, both now and in the future. It's also a great place to gain leadership experience!    </p>
 
 
 <p>View complete list of NC State <a
-href="http://ncsu.orgsync.com/">student organizations</a>.</p>
+href="http://ncsu.orgsync.com/">student organizations</a> or choose by college: <a href="http://harvest.cals.ncsu.edu/academic/index.cfm?pageID=395">Agriculture &amp; Life Sciences</a>, <a href="http://design.ncsu.edu/student-organizations">Design</a>, <a href="http://ced.ncsu.edu/student_services/student_orgs.php">Education</a>, <a href="http://students.engr.ncsu.edu/">Engineering</a>, <a href="http://www.chass.ncsu.edu/students/student_orgs.php">Humanities &amp; Social Sciences</a>, <a href="http://poole.ncsu.edu/undergraduate/students/student-organizations/">Management</a>, <a href="http://cnr.ncsu.edu/future/student_orgs.php">Natural Resources</a>, <a href="http://www.pams.ncsu.edu/students/studorgs.php">Physical &amp; Mathematical Sciences</a>, <a href="http://www.tx.ncsu.edu/community/student-life/student-organizations.cfm">Textiles</a>.</p>
 
 </div>
       </div>
@@ -61,9 +61,8 @@ href="http://ncsu.orgsync.com/">student organizations</a>.</p>
       <?php require_once('../includefiles/epacklogin.php'); ?>
       <div id="navMedia" class="sMedia">
         <?php require_once('../includefiles/socialmedia.php');?>
-      </div>
+      </div></div> 
     </div>
-  </div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
     <?php require_once('../includefiles/footer.php');?>

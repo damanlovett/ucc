@@ -43,14 +43,16 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
 
          
-          <p class=MsoNoSpacing>Within two semesters of graduation? Time to begin your search!  <br>
-            <a
-href="index.php">Start
-            with ePACK</a>.  </p>
-          <p class=MsoNoSpacing>Not sure what's out there?<br>
-            There are a variety of different points of entry for new graduates.<br>
+          <p class=MsoNoSpacing>Within two semesters of graduation? Time to begin your search!  <a
+href="index.php">            <br>
+            Start
+          with ePACK</a>.  </p>
+          <p class=MsoNoSpacing>Not sure what's out there? Learn what past grads are doing and what was most helpful to them in their search.  <br>
+            <a href="http://www2.acs.ncsu.edu/UPA/survey/reports/fpsindex.htm">Graduating Seniors' Future Plans Survey</a> - December 2010 grads
+            <br>
           </p>
-          <hr />
+<hr />
+          <p><span class="MsoNoSpacing"><strong>Options for new graduates</strong></span></p>
           <ul>
             <li><b class="MsoNoSpacing">Entry-level jobs:</b>  <br>
               Most common opportunity for new
@@ -81,6 +83,8 @@ href="index.php">Start
               non-traditional new graduates with prior work or military experience.  As a new graduate, you will
               also be considered for opportunities noted above.     </li>
           </ul>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
         </div>
       </div>
     </div>
@@ -91,9 +95,7 @@ href="index.php">Start
       <?php require_once('../../includefiles/epacklogin.php'); ?>
       <div id="navMedia" class="sMedia">
         <?php require_once('../../includefiles/socialmedia.php');?>
-      </div>
-    </div>
-  </div>
+      </div></div></div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">
     <?php require_once('../../includefiles/footer.php');?>

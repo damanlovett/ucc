@@ -95,9 +95,9 @@ href="../pdfs/fairprep-employers.pdf">employer
               <td valign=top><a
  href="com.php">Poole Management Career Fair </a></td>
               <td valign=top>Oct. 17</td>
-              <td valign=top nowrap>10:00-4:00</td>
-              <td valign=top><a href="mailto:janet_rakes@ncsu.edu">Janet Rakes </a><br>
-919.515.5565</td>
+              <td valign=top nowrap>10:00-3:00</td>
+              <td valign=top><a href="mailto:brian_newton@ncsu.edu">Brian Newton</a><br>
+919.513.7141</td>
               <td valign=top><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></td>
             </tr>
             <tr>
@@ -164,10 +164,10 @@ href="../pdfs/fairprep-employers.pdf">employer
     <tr class="altrows"> 
       <td valign="top"><p><a href="com.php">Poole Management  Career Fair</a><a href="http://students.engr.ncsu.edu/careerfair/"></a>          </p> 
         </td> 
-      <td valign="top">Feb. TBA <br />      </td> 
-      <td valign="top" nowrap><p>10:00-4:00</p></td> 
-      <td valign="top"><a href="mailto:janet_rakes@ncsu.edu">Janet Rakes </a><br />
-919.515.5565</td> 
+      <td valign="top">Feb. 3 <br />      </td> 
+      <td valign="top" nowrap><p>10:00-3:00</p></td> 
+      <td valign="top"><a href="mailto:brian_newton@ncsu.edu">Brian Newton</a><br>
+919.513.7141</td> 
       <td valign="top"><p><a href="http://www.mckimmon.ncsu.edu/">McKimmon Center</a></p></td> 
     </tr> 
     <tr class="altrows">

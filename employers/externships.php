@@ -36,13 +36,13 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <div id="breadCrumb" class="breadCrumb module">
                 <ul>
                 <li class="first"> <a href="/">Home</a> </li>
-                <li> <a href="./">Access for Emplyer</a> </li>
-                <li class="last">Externship</li>
+                <li> <a href="./">Access for Employers</a> </li>
+                <li class="last">Externships</li>
               </ul>
               </div>
               </div>
-               <p><strong>Basic  information</strong><u><br>
-               </u>The  University Career Center has developed the externship program to help students  build a successful future.  Externships  are designed to provide students with an inside view of professionals at work,  and learn how to apply their major to a career field through job-shadowing. </p>
+               <p><strong>Basic information</strong><u><br>
+               </u>The University Career Center has developed the externship program to help students  build a successful future.  Externships  are designed to provide students with an inside view of professionals at work,  and learn how to apply their major to a career field through job-shadowing.</p>
                <p>This  experience gives students the opportunity to connect with employers for  potential future internships and entry-time jobs.  Students interact with valuable contacts and  gain the experience of speaking about their background and career aspirations  with practicing professionals. </p>
                <p><strong>When do they occur </strong><br>
                  Externships occur each spring semester.  Exact  dates are determined during fall semester. Externships will be either a one or  two day experience, based on the preference of each employer.</p>

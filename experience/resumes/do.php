@@ -80,8 +80,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               capacity for teamwork, leadership potential, honesty and integrity </li>
             <li> Error
               free – read aloud to check for errors</li>
-            <li> What
-              about GPA?  (<a
+            <li> Address your GPA  (<a
 href="/career/pdfs/gpa.pdf">Low GPA</a> / <a
 href="/career/pdfs/gpa-no.pdf">no GPA</a>)</li>
             <li> Have your
