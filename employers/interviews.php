@@ -47,7 +47,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 <ul>
   <li><strong>Request an interview date in ePACK</strong>. 
   <br>
-  Login to ePACK, <a href="https://ncsu-csm.symplicity.com/employers/index.php">www.ncsu.edu/epack/employer</a>. Under <strong>Shortcuts</strong> choose &quot;Request On-campus Interview Schedule.&quot; View the <a href="../pdfs/recruiting-calendar.pdf">recruiting calendar</a> as you select your date.  [Receive a response within 24-48 hours.]  
+  Login to ePACK, <a href="https://ncsu-csm.symplicity.com/employers/index.php">www.ncsu.edu/epack/employer</a>. Under <strong>Shortcuts</strong> choose &quot;Request On-campus Interview Schedule.&quot; View the <a href="calendar.php">recruiting calendar</a> as you select your date.  [Receive a response within 24-48 hours.]  
 </li>
 </ul>
 <hr />

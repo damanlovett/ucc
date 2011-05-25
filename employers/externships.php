@@ -43,7 +43,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </div>
                <p><strong>Basic information</strong><u><br>
                </u>The University Career Center has developed the externship program to help students  build a successful future.  Externships  are designed to provide students with an inside view of professionals at work,  and learn how to apply their major to a career field through job-shadowing.</p>
-               <p>This  experience gives students the opportunity to connect with employers for  potential future internships and entry-time jobs.  Students interact with valuable contacts and  gain the experience of speaking about their background and career aspirations  with practicing professionals. </p>
+               <p>This  experience gives students the opportunity to connect with employers for  potential future internships and entry-time jobs.  Students interact with valuable contacts and  gain the experience of speaking about their background and career aspirations  with practicing professionals.</p>
                <p><strong>When do they occur </strong><br>
                  Externships occur each spring semester.  Exact  dates are determined during fall semester. Externships will be either a one or  two day experience, based on the preference of each employer.</p>
                <p><strong>Who can participate</strong><u><br>
@@ -54,7 +54,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                  <li>Help students learn how to apply  their&nbsp;major through discussions with professionals who may have a similar  background. </li>
                  <li>Students can assess a &quot;fit&quot; for a  particular position, company, or industry.  </li>
                  <li>Allow students to make career connections and  begin establishing networks for possible internships and future employment.</li>
-                 <li><a href="/career/pdfs/extern_quotes.pdf">View quotes of past externs</a>.  </li>
+                 <li><a href="/career/employers/quotes.php">View quotes of past externs</a>.  </li>
                </ul>
                <p><strong>Benefits to employers</strong></p>
                <ul>
@@ -66,11 +66,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                  <li>It  is easy, flexible and informal. </li>
                </ul>
                <p><strong>History</strong><u><br>
-               </u>Pilot program  occurred at the end of spring 2009 semester exams.  We had 9 student participants and 6 employers. Spring 2010 externship program occurred  during spring break week with 27 students and 19 employers. </p>
-               <p><strong>Questions</strong><br>
-                 <a href="/career/pdfs/extern_student.pdf">Student FAQs</a> <br>
-                 <a href="/career/pdfs/extern_employer.pdf">Employer FAQs</a> <br>
-                 Contact  Leslie Bowman, Externship Coordinator, <a href="mailto:leslie_bowman@ncsu.edu">leslie_bowman@ncsu.edu</a></p>
+               </u>Pilot program  occurred at the end of spring 2009 semester exams.  We had 9 student participants and 6 employers. Spring 2010 externship program occurred  during spring break week with 27 students and 19 employers.</p>
+               <hr />
+               <p><strong>Questions?</strong><br>
+                 <a href="/career/employers/students.php">Student FAQs</a> /                 <a href="/career/employers/employers.php">Employer FAQs</a> <br>
+                 Contact  Leslie Bowman, Career Counselor --  <a href="mailto:leslie_bowman@ncsu.edu">leslie_bowman@ncsu.edu</a></p>
         </div>
       </div>
     </div>

@@ -56,9 +56,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             to  learn about careers associated with
             your major as well as internships, co-ops, and entry-level jobs.  All students in all majors are invited!  <br>
             [&nbsp;<a
-href="../pdfs/fairprep-students.pdf">student
+href="students.php">student
             success</a>&nbsp;] [&nbsp;<a
-href="../pdfs/fairprep-employers.pdf">employer
+href="employers.php">employer
             success</a>&nbsp;]<br>
             <br>
           </p>      

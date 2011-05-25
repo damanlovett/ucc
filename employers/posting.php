@@ -40,8 +40,34 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <li class="last">Tips for Posting</li>
               </ul>
             </div>
-          <p> Insert text here</>
-</div>
+            <p>
+            <p><strong>Pending status</strong><br>
+            Once you post a position, it will go into &ldquo;pending status&rdquo; for review by our staff. This is usually done within 1-2  business days.  Thank you for your  patience!  Once your job is approved, you will receive an email confirmation and your position will be immediately available to students in ePACK. Jobs that will not be approved for ePACK include the following.</p>
+          <ul>
+            <li>Non-career related -- [post in <a href="http://www7.acs.ncsu.edu/student_jobs/jobsubmit.asp">Financial Aid  Office</a>]</li>
+            <li>Requiring 3+ years experience -- [post in <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=307&expandNav=5">Alumni Career Services</a>]</li>
+            <li>All opportunities where students are charged a fee</li>
+        </ul>
+<hr />
+<p><strong>Posting success</strong><br>
+            Your job posting is often the first impression a student has of your  organization.  Students appreciate a strong job  description that will help them gauge their match with your opportunity. This can have a very positive effect on the quality of your pool of candidates!  Here are our tips for a few of the fields.</p>
+<ul>
+  <li><strong>Job function</strong> <br>
+    Choose the type of work to maximize your hits  in student searches. You may    select multiple categories if appropriate, however choosing ALL  categories is NOT recommended.</li>
+  <li><strong>Majors</strong><br>
+    Choose liberally to include talent from several possible majors. Selecting ALL majors is NOT recommended. </li>
+  <li><strong>Restrict applications</strong><br>
+    We suggest you choose &ldquo;yes&rdquo; if you prefer students with specific  majors or degree levels to apply.</li>
+  <li><strong>Posting date/expiration date</strong><br>
+    Jobs are posted for a maximum of 60 days. You will receive an email  before the job expires, and may easily re‐post the position if you would like  additional candidates.</li>
+  <li><strong>Resume receipt</strong><br>
+    We recommend choosing &quot;email&quot; and &quot;accumulate online&quot;. This allows students the most convenient option of applying directly through ePACK. You'll receive an email with their resume when they do!</li>
+</ul>
+<hr />
+  <p><strong>Questions?  </strong><br>
+            Need help with your posting?   Consult with the <a href="../about/staff.php">UCC staff</a>.  <br>
+            We  are pleased to offer suggestions to increase student interest and your success!</p>
+          </div>
 </div>
       </div>
     </div>

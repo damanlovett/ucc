@@ -52,9 +52,50 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-          <p>Insert Text Here<br>
-            <br>
-          </p>
+          <p><strong>Before  the fair</strong></p>
+          <ul>
+            <li>View  the list of employers attending each fair. </li>
+            <li>Research  employers and create a short list of those you'd like to meet.</li>
+            <li>Prepare  your <a href="../experience/resumes/index.php">resume</a> and have it reviewed.  </li>
+            <li>Looking for an internship, co-op or entry-level job? <strong><em>Take action before the fair!</em></strong>
+  <ul>
+    <li><a href="../experience/ePACK/index.php">ePACK</a>. get into the system to be considered for postings and interviews.</li>
+    <li><a href="http://www.ncsu.edu/co-op_ed/considering/applying/schedule.php">Co-op orientation</a>: attend a session to begin the process.</li>
+    </ul>
+            </li>
+            <li>Reserve a minimum of 2 hours for the fair. Check with faculty before missing class.</li>
+            <li>Prepare  a 10 second introduction that includes your name, major, year, and career interest.
+
+    <p><br>
+      &ldquo;I&rsquo;m Alex  Williams, a senior in civil engineering.   I&rsquo;m graduating in December with a structures concentration.  I am interested in design positions in your  Greensboro office.&rdquo;    </p>
+            </li>
+          </ul>
+          <p><strong>Day of  the fair<u></u></strong></p>
+          <ul>
+            <li><a href="../experience/interviews/wear.php">Dress  professionally</a>: business casual (interns/co-ops), traditional interview (new grads).    </li>
+            <li>Print  25+ copies of your resume; store in a portfolio or folder.<strong></strong>  </li>
+            <li>Pack extra paper and pen for important note taking.</li>
+            <li>Pack your short list of employers. Be open to impromptu conversations. Keep in mind that employers are eager to meet students and many are NC State graduates!</li>
+            <li>Arrive  early in the day, if possible.</li>
+            <li>Check  in at the front desk, pick up a nametag and map of the fair.  </li>
+            <li>Observe seasoned students in action.</li>
+            <li>Practice. Begin with  an employer who is not on your short list.  </li>
+            <li>Smile,  initiate a handshake, introduce yourself and offer your resume.</li>
+            <li>Follow  the cues of each employer. </li>
+            <li>Help employers get to know you and what you have to offer (your strengths and interests). </li>
+            <li>Show  interest and enthusiasm - ask questions.  </li>
+            <li>Employers may take your resume or ask you to apply on-line.</li>
+            <li>Thank  them for their time, state your interest and ask about the next steps in the process.</li>
+            <li>Request  a business card.</li>
+            <li>Jot a few notes to remember details of important conversations.    </li>
+          </ul>
+          <p><strong>After  the fair</strong></p>
+          <ul>
+            <li>Check ePACK or Co-op for job postings or on-campus interviews associated with the fair.</li>
+            <li>Apply on-line if requested by employers.</li>
+            <li>Email a brief thank you note to employers of interest. Let them know what steps you've taken (applied on-line, requested an interview) and attach a copy of your resume.</li>
+            <li>Save  business cards for the future and follow up when appropriate.</li>
+          </ul>
         </div>
       </div>
     </div>

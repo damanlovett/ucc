@@ -40,7 +40,16 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <li class="last">3rd Party Policies</li>
               </ul>
             </div>
-          <p> Insert text here</>
+          <p>Third-party  recruiters are agencies, organizations, or individuals recruiting candidates  for temporary, part-time, or full-time employment opportunities other than for  their own needs. This includes entities that refer or recruit for profit or not  for profit, and it includes agencies that collect student information to be  disclosed to employers for purposes of recruitment and employment.  This definition includes, but is not limited  to:          
+          <ul>
+            <li><strong>Employment agencies</strong>—Organizations that list positions for a  number of client organizations and receive payment when a referred candidate is  hired. The fee for listing a position is paid either by the firm listing the  opening (fee paid) or by the candidate who is hired. </li>
+            <li><strong>Search firms</strong>—Organizations that contract with clients to  find and screen qualified persons to fill specific positions. The fees for this  service are paid by the clients. </li>
+            <li><strong>Contract recruiters</strong>—Organizations that contract with an employer  to act as the employer's agent in the recruiting and employment function. </li>
+            <li><strong>Online job posting or resume referral  services</strong>—For-profit or commercial  organizations that collect data on job seekers and display job opportunities to  which job seekers may apply. The data collected on job seekers are sent to  prospective employers. Fees for using the services may exist for the employer,  school, or job seeker. </li>
+          </ul>
+<p>Third-party recruiters are invited to post positions in ePACK and may contact candidates who apply directly. Third-party recruiters will not have access to the online resume books. Invitations to career fairs will be made by individual directors of each fair. </p>
+<p>It is  strongly encouraged that third-party  recruiters disclose to students the name of client(s) they represent and to whom the students' credentials will be disclosed.  In the event that the third-party recruiter  wishes to keep this information confidential, they will disclose contact information  for the organization, upon request to the UCC so that we can verify that you are recruiting for a bona fide job opportunity. The UCC will respect the confidentiality  of this information. </p>
+          <p>Third-party recruiters will not  disclose any student information to any employer without obtaining prior  written consent from the student. Under no circumstances can student  information be disclosed other than for the original recruiting purposes nor  can it be sold or provided to other entities. Online job postings must  prominently display their privacy policies or a link to the website where they  can be viewed, specifying who will have access to student information. </p>
 </div>
 </div>
       </div>

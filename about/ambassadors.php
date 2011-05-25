@@ -123,7 +123,7 @@ href="../pdfs/ca-request.pdf">request a program</a> for your student group!</p>
             <li> Provide outreach through technology-based methods</li>
             <li> Serve as an informal resource to the UCC and employers </li>
             <li> Apply this experience to your own career! [<a
-href="../pdfs/ca-alumni.pdf">meet our alumni</a>]</li>
+href="alumni.php">meet our alumni</a>]</li>
           </ul>
           <hr />
           <p><strong>Questions?<br>

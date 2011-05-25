@@ -52,7 +52,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             excitement and can help you get there successfully by making the steps more
             manageable.</p>
           <hr />
-          <a href="../pdfs/ataglance.pdf">UCC at a glance</a><br>
+          <a href="ataglance.php">UCC at a glance</a><br>
         <a href="conduct.php">Professionalism at the UCC</a> </div>
       </div>
     </div>

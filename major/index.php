@@ -43,7 +43,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <p>With 12 colleges and more than 110 majors to choose from,
             there's bound to be a good match for you at NC State!  While some majors are required for entry into
             specific careers, others offer broad preparation for a wide range of possibilities. Check out the <a
-href="../pdfs/majors.pdf" class="pdf">majors
+href="famous.php" class="pdf">majors
           of famous people</a>.  </p>
           <p>We can help you choose a major.</p>
           <ul>
@@ -52,7 +52,7 @@ href="../about/staff.php" class="MsoNoSpacing">Career
               counselors</a> <br>
               Provide help exploring careers and choosing majors.</li>
             <li><a
-href="http://www.ncsu.edu/advising_central/virtual_adviser.html" class="MsoNoSpacing">Virtual advisors</a>  <br>
+href="http://www.ncsu.edu/advising_central/virtual_adviser.html" class="MsoNoSpacing">Virtual advisors</a> <br>
               Provide help choosing or changing majors and selecting courses. 
             </li>
             <li><a

@@ -42,9 +42,36 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
               </div>
               </div>
-        <p> Insert text here </p>
-
-</div>
+        <p><strong>What is an externship?</strong><br>
+          An externship provides an opportunity for students to get an insider's view of a career field by 
+          shadowing employers in their workplaces for one to two days. Through shadowing employers, students          are exposed to normal workday activities including informational interviewing with engineering          professionals, a tour of the facility, and possible meetings with organizational leaders.</p>
+        <p>          Externships differ from internships in that they are short term, offer no pay or academic credit, and are          hosted by volunteers in various organizations to help students gain an exclusive view of a career field.</p>
+        <p>          <strong>When does the externship take place?</strong><br>
+          The Externship program takes place spring semester each academic year; exact dates to be determined during fall          semester. You can choose to have your Externs stay for one to two business days.</p>
+        <p>          <strong>What can I have students do during an Externship?</strong><br>
+          We ask that you decide what is appropriate for your work environment and provide the extern a realistic          look at what your career field entails. Some examples for externs include:</p>
+        <ul>
+          <li> Observing and asking questions</li>
+          <li> Attending meetings and other work functions</li>
+          <li> Touring the facilities</li>
+          <li> Conducting informational interviews<br>
+          </li>
+        </ul>
+        <p><strong>Are there costs to participate?</strong><br>
+          No. There are no costs to be an Externship host. Students are fully responsible for their expenses          including transportation, meals and lodging if necessary.</p>
+        <p>            <strong>How are students chosen to participate in the program?</strong><br>
+          Based on eligibility by classification, GPA and major, students complete an application and send in            resumes. Some students are nominated by professors and academic advisors. Career Counselors            carefully review resumes and applications which include statements of interests and career aspirations.            Chosen students pick their top 3 choices of employers and are matched according to major, interests          and career aspirations.</p>
+        <p>            <strong>Will students contact me directly?</strong><br>
+          After students have been assigned to you as an extern, he/she will be given your contact information.</p>
+        <p>            <strong>When and how do I participate as an externship host?</strong><br>
+            If you or your organization are interested and available to host an extern for one or two days during
+          spring semester (exact dates to be announced during fall semester), we will send you an application            upon receipt of your response.</p>
+        <p>            <strong>Is there an advantage of registering early to participate as an externship host?</strong><br>
+          Yes. Companies that have participated in the past will be listed in ePACK as &quot;potential employers&quot; for            future Externship programs to give students an idea of companies they can job shadow. If you register            early (between September‐December each academic year) your company will be added to the list. This            list is viewable by students before they begin to apply and register in early January.</p>
+        <hr />
+        <p><strong>Questions?<br>
+      </strong>Contact             Leslie Bowman, Career Counselor -- <a href="mailto:leslie_bowman@ncsu.edu">leslie_bowman@ncsu.edu</a></p>
+        </div>
       </div>
     </div>
     <div class="yui-b">

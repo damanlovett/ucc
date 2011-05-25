@@ -40,9 +40,90 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-<p> Insert text here</p>
 
-</div>
+<table class="basicTable100" width="647" border="1">
+  <tr>
+    <td width="148"><strong>Mike Boso</strong></td>
+    <td width="206">Systems Engineer</td>
+    <td width="271">3 Phoenix</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Elizabeth Castro</strong></td>
+    <td width="206">Workday Consultant</td>
+    <td width="271">Aggressor LLC</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Aurora Comanescu</strong></td>
+    <td width="206">IT Analyst</td>
+    <td width="271">Cisco Systems</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Tiffany Gladney</strong></td>
+    <td width="206">Communication Specialist</td>
+    <td width="271">Saint Augustine's College</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Ashley Hansen</strong></td>
+    <td width="206">Law Student</td>
+    <td width="271">Elon University</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Long Huynh</strong></td>
+    <td width="206">Graduate Student</td>
+    <td width="271">Georgetown University</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Sarah Johnston</strong></td>
+    <td width="206">HR Generalist</td>
+    <td width="271">Arysta Lifescience</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Anita Ledford</strong></td>
+    <td width="206">Graduate Student</td>
+    <td width="271">University of Utah</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Meaghan Lynch</strong></td>
+    <td width="206">Law Student</td>
+    <td width="271">Howard University</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Linh Nguyen</strong></td>
+    <td width="206">&nbsp;</td>
+    <td width="271">Bank of America</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Osas Ohouba</strong></td>
+    <td width="206">SPA Auditor</td>
+    <td width="271">PricewaterhouseCoopers</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Marta Schmid</strong></td>
+    <td width="206">&nbsp;</td>
+    <td width="271">Nordstroms</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Carmesha Scott</strong></td>
+    <td width="206">Disability Determination Specialist</td>
+    <td width="271">NC Department of Health &amp; Human Services</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Courtney Smith</strong></td>
+    <td width="206">Polo Golf Services</td>
+    <td width="271">Polo Ralph Lauren</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Jordan Wallace</strong></td>
+    <td width="206">Graduate Student</td>
+    <td width="271">NC State University</td>
+  </tr>
+  <tr>
+    <td width="148"><strong>Lauren Williams</strong></td>
+    <td width="206">Sr. Audit Associate</td>
+    <td width="271">Johnson Lambert</td>
+  </tr>
+</table>
+        </div>
       </div>
     </div>
  <div class="yui-b">

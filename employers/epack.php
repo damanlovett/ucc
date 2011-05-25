@@ -59,7 +59,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <p><strong>Get started with ePACK</strong></p>
           <p>Request access --  <a
 href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a> -- [receive a response within 24-48 hours]<br>
-          Use our help --  [<a href="../pdfs/epackvisual_employers.pdf">visual overview</a>] [<a href="../pdfs/epack_postings.pdf">tips for posting</a>]<br>
+          Use our help --  [<a href="../pdfs/epackvisual_employers.pdf">visual overview</a>] [<a href="posting.php">tips for posting</a>]<br>
           Questions --  Consult with Leslie Bowman, ePACK Specialist --   <a href="mailto:leslie_bowman@ncsu.edu">leslie_bowman@ncsu.edu</a></p>
           <hr />
           <p><b>Use additional resources</b></p>
@@ -69,7 +69,7 @@ href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a> -- [re
             <li>Recruit <a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=330">experienced alumni</a> -- [3+ yrs. experience]</li>
             <li>Recruit as <a
 href="mailto:bridget_yarborough@ncsu.edu">3rd party recruiter</a> -- 
-              [<a href="../pdfs/3rd-party.pdf">view our policies</a>]</li>
+              [<a href="policies.php">view our policies</a>]</li>
             <li>Recruit for <a href="http://www7.acs.ncsu.edu/student_jobs/selectjobs.html">non-career related jobs</a></li>
           </ul>
         </div>
