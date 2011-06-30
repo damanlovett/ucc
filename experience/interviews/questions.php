@@ -61,14 +61,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         </ul>
         
         <div id="tab-1">
-          <p>Questions are organized around your resume which is used as a guide to probe your preferences, decisions, and accomplishments.  <strong>How to prepare:</strong>  Know your resume and be ready to back-up statements you make with examples. </p>
+          <p>Questions are organized around your resume which is used as a guide to probe your preferences, decisions, and accomplishments.  <strong><em>How to prepare:</em></strong>  Know your resume and be ready to back-up statements you make with examples. </p>
           <ul>
-            <li><a href="../../pdfs/tellme.pdf">Tell me about yourself</a>. </li>
+            <li><a href="intro.php">Tell me about yourself</a>. </li>
             <li> Why did you choose to interview with our organization? </li>
             <li> What do you know about us?</li>
             <li> Why did you choose your major? NC State? </li>
             <li> Which classes did you enjoy most? Least? </li>
-            <li> How do you account for your GPA? </li>
+            <li> How do you account for your GPA? [Suggestions for<a href="../resumes/low-gpa.php"> low GPA</a>]</li>
             <li> If you were to start over, what would you change about your education? </li>
             <li>Describe your ideal job. </li>
             <li>What kind of manager brings out your best? </li>
@@ -80,11 +80,13 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li> Where do you want to be in five years? </li>
             <li> Do you plan to go to graduate school? </li>
             <li> Why should we hire you? </li>
-          </ul>
+            </ul>
+          <p>Need help with an interview question?<br>
+            Consult with your <a href="../../about/staff.php">career counselor</a>. </p>
         </div>
             
            <div id="tab-2"> 
-          <p>Questions follow the STAR technique and are based upon the notion that past performance is a good indicator of future performance.   <strong>How to prepare:</strong>  identify 2-3 challenging situations that you will draw from. These situations  can be from academics, work, or community experiences. </p>
+          <p>Questions follow the STAR technique and are based upon the notion that past performance is a good indicator of future performance.   <strong><em>How to prepare:</em></strong>  identify 2-3 challenging situations that you will draw from. These situations  can be from academics, work, or community experiences. </p>
            <p>
             <strong>S</strong> ------ situation (give an example of a situation) <br>
             <strong>T</strong> ------ task (describe the tasks involved) <br>
@@ -107,7 +109,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
              <li>Tell me about a time when you had to use your presentation skills to influence someone's opinion.&nbsp;</li>
              <li> Describe a time when you set your sights too high (or too low). </li>
              <li> Give me an example of the most creative project you have worked on. </li>
-           </ul>
+             </ul>
+           <p>Need help with an interview question?<br>
+Consult with your <a href="../../about/staff.php">career counselor</a>. </p>
            </div>
           </div>
             

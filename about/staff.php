@@ -178,7 +178,7 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
                   
                   <li><strong><br>
                     </strong></li>
-                  <li>Leslie Bowman<em><br>
+                  <li><a id="leslie"></a>Leslie Bowman<em><br>
                     Email for appointment</em><br>
                     <em>[Majors:  last names: A-H</em>] <a href="mailto:leslie_bowman@ncsu.edu" class="ss_sprite ss_email" title="leslie_bowman@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Leslie Bowman">&nbsp;</span>
                     <div class="bio toggle_container">
@@ -207,31 +207,7 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
                     </div>
                   </li>
                 </ul>
-<h2>Management</h2>
-                <ul>
-                  <li>F. Brian Newton<br>
-                    <em>2151 Nelson, 919.513.7141</em><a href="mailto:brian_newton@ncsu.edu" class="ss_sprite ss_email" title="janet_rakes@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for F. Brian Newton">&nbsp;</span>
-                    <div class="bio toggle_container">
-                      <p align="left"><strong>F. Brian Newton, M.Ed.<br />
-                      Director of Career &amp; Internship Development</strong><br>
-                        <a href="mailto:brian_newton@ncsu.edu">brian_newton@ncsu.edu</a><br>
-                        Brian Newton serves students in the   College of Management. Previously he worked as the Associate Director of the   Career Center at East Carolina University, and the Director of Career Services   at Barton College in Wilson, NC.  Brian   earned a Bachelor of Arts degree in Journalism and a Master of Education degree   from the University of South Carolina.    </p>
-</div>
-                  </li>
-                  <li><strong><br>
-                  </strong></li>
-                  <li>                    Dr. Janet Rakes<em><br>
-                    2150 Nelson, 515.5565 </em><a href="mailto:janet_rakes@ncsu.edu" class="ss_sprite ss_email" title="janet_rakes@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Dr. Janet Rakes">&nbsp;</span>
-                    <div class="bio toggle_container">
-                      <p align="left"><strong>Janet Rakes, Ph.D.<br />
-                        Career Coach</strong><br>
-                        <a href="mailto:janet_rakes@ncsu.edu">janet_rakes@ncsu.edu</a><br>
-                        Dr. Janet Rakes serves students in the College of Management. Previously she worked as a Middle Grades Academy Coordinator in the College of Education at NC State University, a Career Counselor in the Career Services Center at the University of North Carolina at Greensboro, and a Language Arts and Social Studies teacher in the Virginia and North Carolina Public School Systems. Janet earned her Bachelor of Arts degree in English and Psychology, her Master of Arts and Master of Science degrees in Education and Counseling, and her PhD in Curriculum and Teaching from the University of North Carolina at Greensboro. 
-                        <a href="mailto:janet_rakes@ncsu.edu" class="ss_sprite ss_email" title="janet_rakes@ncsu.edu"></a></p>
-                    </div>
-                  </li>
-                </ul>
-                <h2>Natural Resources</h2>
+<h2>Natural Resources</h2>
                 <ul>
                   <li>                    Carol Schroeder -- 
                     Director                    <a href="mailto:carol_schroeder@ncsu.edu" class="ss_sprite ss_email" title="carol_schroeder@ncsu.edu"></a><span class="trigger ss_sprite ss_user" title="Bio for Carol Schroeder">&nbsp;</span>                 
@@ -245,7 +221,7 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
             a Master of Education in Educational Administration at NC State.</p>
 </div></li>
                   
-                </ul>
+              </ul>
                 <h2>Physical &amp; Mathematical Sciences</h2>
                 <ul>
                   <li>                    D.R. Ingram
@@ -272,7 +248,7 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
             Administrative Staff 
             </caption>
             <tr>
-              <td width="54%" valign=top><h2>On-campus Recruiting</h2>
+              <td width="50%" valign=top><h2>On-campus Recruiting</h2>
                 <ul>
                   <li>Bridget Yarborough, <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>&nbsp;</li>
                 </ul>
@@ -280,7 +256,7 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
                 <ul>
                   <li>Eddie D. Lovett, II, <a href="mailto:eddie_lovett@ncsu.edu">eddie_lovett@ncsu.edu</a>&nbsp;</li>
                 </ul></td>
-              <td width="46%" valign=top><h2>Administrative Assistants</h2>
+              <td width="50%" valign=top><h2>Administrative Assistants</h2>
                 <ul>
                 <ul>
                   <li>Della Shepherd, <a href="mailto:della_shepherd@ncsu.edu">della_shepherd@ncsu.edu</a><br>
@@ -290,14 +266,18 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
           </table>
           </div>
           
-          <div id="tab-3"><table width="547" class="basicTable">
+          <div id="tab-3"><table width="656" class="basicTable">
             <caption>
             Satellite Career Centers
             </caption>
             <tr>
-              <td width="151"><a href="http://harvest.cals.ncsu.edu/career/">CALS Career Services</a></td>
-              <td width="363">– help for students in the College of Agriculture
+              <td><a href="http://harvest.cals.ncsu.edu/career/">CALS Career Services</a></td>
+              <td>– help for students in the College of Agriculture
                 &amp; Life Sciences </td>
+            </tr>
+            <tr>
+              <td width="186"><a href="http://poole.ncsu.edu/undergraduate/careers/">Management Career Services</a></td>
+              <td width="458">– help for students in the Poole College of Management</td>
             </tr>
             <tr>
               <td><a href="http://www.tx.ncsu.edu/student_services/career_services.html">Textiles Career Services</a></td>
@@ -311,8 +291,8 @@ Biological, Civil, Construction, Environmental, Materials, Mechanical, Mechatron
             Additional Career Resources
             </caption>
 <tr>
-              <td width="149"><a href="http://www.ncsu.edu/advising_central/">Advising Central</a></td>
-              <td width="388">– help  choosing or changing your major </td>
+              <td width="190"><a href="http://advising.ncsu.edu/">Academic Advising Services</a></td>
+              <td width="451">– help  choosing or changing your major </td>
             </tr>
             <tr>
               <td><a href="http://www.alumni.ncsu.edu/s/1209/index.aspx?sid=1209&gid=1&pgid=307&expandNav=5">Alumni Career Services</a></td>

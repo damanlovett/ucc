@@ -47,7 +47,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               Students report greater success with this strategy!          </p>
 
          <ul>
-            <li><a href="../../events/fairs.php"><strong>Career  fairs</strong></a>:  Attend career fairs @ NC State each semester!  Consider  career fairs at <a href="http://www.jobweb.org/article.aspx?id=648">other schools</a>; some are open to outside students.  </li>
+            <li><a href="../../events/fairs.php"><strong>Career  fairs</strong></a>:  Attend career fairs @ NC State each semester!  Consider  career fairs at <a href="http://www.jobweb.com/article.aspx?id=648&linkidentifier=id&itemid=648">other schools</a>; some are open to outside students.  </li>
           </ul>
           <ul>
             <li><a href="/experience/ePACK/index.php"><strong>ePACK</strong></a>:   Find job postings, on-campus interviews,  employer information sessions, and other career events. Update your ePACK account each semester and partcipate fully!  
@@ -59,7 +59,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li><strong><a href="../jobsearch/eleads.php">eLeads</a></strong>: Find potential employers and key  contacts in fields of particular interest to CHASS, Design, Management and Natural Resources majors.  Apply directly to contacts.   </li>
           </ul>
           <ul>
-            <li><strong>Social media</strong>:  Update  your <a href="http://www.facebook.com/">Facebook</a> status or <a href="http://twitter.com/">Twitter</a> timeline with information about your search.   New graduates may benefit from <a href="http://www.linkedin.com">LinkedIn</a>, a professional networking site.  Your contacts may be aware of  opportunities!  </li>
+            <li><strong>Social media</strong>:  Update  your <a href="http://www.facebook.com/">Facebook</a> status or <a href="http://twitter.com/">Twitter</a> timeline with information about your search.   New graduates may benefit from <a href="http://www.linkedin.com">LinkedIn</a>, a professional networking site. View results of NACE <a href="http://www.naceweb.org/s06082011/social_media_job_search/">student survey</a>.</li>
           </ul>
           <ul>
             <li><strong>Student organizations:</strong>  Connect with members of your professional, honors, community, or  social organizations. Seek their advice and suggestions! </li>

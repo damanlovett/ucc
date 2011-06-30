@@ -31,7 +31,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <div id="fadeshow1"></div>
         </div>
         <div id="secContent" class="yui-g">
-          <h1>UCC at a Glance</h1>
+          <h1>UCC at a Glance 2010-2011</h1>
             <div class="breadCrumbHolder module">
             <div id="breadCrumb" class="breadCrumb module">
                 <ul>
@@ -47,9 +47,8 @@ The mission of the University  Career Center (UCC) at NCState University is to p
           The UCC began  as the Career Planning &amp; Placement Center in 1965 as a result of the  Chancellor&rsquo;s request to School Deans to combine &ldquo;placement services&rdquo; into one  centralized office.  The name was changed  to the University Career Center in 1993 to better reflect the mission of  preparing students for the world of work.  Satellite offices have been established in  some colleges to provide specialized career services.  The UCC collaborates with these offices,  while serving all students in all majors.     </p>
         <p><strong>People</strong></p>
         <ul>
-          <li>11 professional and support staff –all counselors with  master&rsquo;s and/or doctoral-level preparation</li>
-          <li>One graduate assistant</li>
-          <li>Eight student ambassadors</li>
+          <li>11 professional and administrative staff – all counselors with  master&rsquo;s and/or doctoral-level preparation</li>
+          <li>11 student leaders, career ambassadors</li>
         </ul>
         <p><strong>Activities</strong></p>
         <ul>
@@ -60,15 +59,15 @@ The mission of the University  Career Center (UCC) at NCState University is to p
           <li><strong>Corporate on-campus interviewing</strong> coordination of details and management of interview facilities. </li>
           <li><strong>Collaboration</strong> with units across campus including  Academic Advisors, Alumni Association,  Athletics, Co-op, Delta, Foundations, FYC, Graduate School, Housing, UPA as well as directors of career fairs sponsored by colleges and consortiums. </li>
         </ul>
-        <p><strong>Impact </strong><strong>[academic year 2009-2010] </strong></p>
+        <p><strong>Impact </strong><strong>[academic year 2010-2011] </strong></p>
         <ul>
           <li>Ranked #19 by employer recruiters for career readiness of NC  State graduates.</li>
-          <li>4,300 students served through 90  group presentations.  </li>
-          <li>2,230 individual student  appointments with numerous email follow up.</li>
-          <li>4,000 reviews and approvals of incoming jobs/internships in  ePACK.</li>
-          <li>2,934 individual on-campus interviews conducted by 186  employers.</li>
-          <li>480 hours of  student interaction by student leaders, Career Ambassadors.</li>
-          <li>Personalized services for employers to incease recruiting success at NC State.</li>
+          <li>4711 students served through 177  group presentations.</li>
+          <li>1202 individual student  appointments, 658 walk-in visits, 1634 email/phone interactions.</li>
+          <li>1250 students served through 49 group presentations by career ambassadors.</li>
+          <li>6100 incoming jobs and internships reviewed and approved in  ePACK.</li>
+          <li>3623 individual on-campus interviews conducted by 203  employers.</li>
+          <li>Personalized services for numerous employers to incease recruiting success at NC State.</li>
         </ul>
         </div>
       </div>

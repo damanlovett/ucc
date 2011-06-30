@@ -50,13 +50,12 @@ href="famous.php" class="pdf">majors
             <li><a
 href="../about/staff.php" class="MsoNoSpacing">Career
               counselors</a> <br>
-              Provide help exploring careers and choosing majors.</li>
-            <li><a
-href="http://www.ncsu.edu/advising_central/virtual_adviser.html" class="MsoNoSpacing">Virtual advisors</a> <br>
-              Provide help choosing or changing majors and selecting courses. 
+              Provide help exploring careers and majors.</li>
+            <li><a href="http://advising.ncsu.edu">Academic advisors</a></li>
+            <li>              Provide help choosing or changing majors and selecting courses. 
             </li>
             <li><a
-href="http://www.ncsu.edu/advising_central/advisers.html" class="MsoNoSpacing">Academic advisors</a>  <br>
+href="http://www.ncsu.edu/registrar/registration/advisors.html" class="MsoNoSpacing">Coordinators of advising by major</a>  <br>
               Provide help selecting courses to meet requirements of a major.  
             </li>
             <li><a

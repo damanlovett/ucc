@@ -52,7 +52,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             purposes and not for admission to graduate or professional schools.</p>
           <p>Students, particularly at the graduate level, may
             choose to use <a href="http://www.interfolio.com/index.cfm">Interfolio</a>, a secure web-based tool that allows you to store,
-            manage and send electronic and print files.  Interfolio allows users to include content
+            manage and send electronic and print files.  Here you can include content
             beyond a resume, transcript and letters of recommendation (e.g. writing
             samples, dissertation summaries, student evaluations.) Interfolio may also be used for applications
             to graduate and professional schools. </p>
@@ -69,19 +69,19 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             
             
            <div id="tabs-1">
-             <p> A completed confidential credential file must include the following.*<br>
-[<a href="../../pdfs/ref_guidelines.pdf">printable guidelines</a>] </p>
+             <p> A completed confidential credential file must include the following.*</p>
              <ul>
-                <li> <strong>Authorization to release</strong> – Due to Family Educational Rights and Privacy Act
-                  of 1974 (FERPA), no file will be sent by the UCC without the signed <a href="../../pdfs/ref_release.pdf">authorization
+                <li> <strong>Authorization to release</strong> – Due to FERPA (Family Educational Rights and Privacy Act
+                  of 1974), no file will be sent by the UCC without a signed <a href="../../pdfs/ref_release.pdf">authorization
                 to release form</a>. </li>
-                <li> <strong>Resume</strong> – View <a href="sampleresumes.php">sample resumes</a>. </li>
-                <li> <strong>Recommendations</strong> – The UCC provides reference forms for your references to complete (see below) – or they may prefer to use their own letterhead.  Teacher candidates: most school systems require you to use their own forms.  If you use the UCC forms, complete the top section first.  Provide a stamped envelope addressed to the UCC for their convenience.  Instruct them to seal the recommendation in an envelope with their signature over the seal.  You are not permitted to view the contents of the letter. </li>
+                <li> <strong>Resume</strong> – View <a href="sampleresumes.php">sample resumes</a> to help you get started.</li>
+                <li> <strong>Recommendations</strong> – Teacher candidates: most school systems require you to use their own forms. For all others: the UCC provides forms for your references to complete or they may use their own letterhead. If you use the UCC forms, complete the top section only. Provide a stamped envelope addressed to the UCC for their convenience.  Instruct them to seal the recommendation in an envelope with their signature over the seal.  You are not permitted to view the contents of the letter. </li>
                 <li> <strong>Transcript (optional)</strong> - A transcript can be included, but is not required.  Request an official transcript
                   through <a href="http://www.ncsu.edu/registrar/faq/transcript.html">Registration &amp; Records</a> and have it sent to the UCC for
                 inclusion in your file.  </li>
-             </ul>
-           <hr />
+              </ul>
+             <p> [<a href="../../pdfs/ref_guidelines.pdf">printable guidelines</a>]</p>
+<hr />
              <p>* Incomplete files -- it is your responsibility to check periodically to see if your file is complete with release form, resume, recommendations, and transcripts (optional). No requests will be honored until your file is complete. If your file is not complete within 6 months of the initial opening date, the file may be purged. If the file is purged, you must begin the entire process again in order to re-open the file. </p>
              <p>&nbsp;</p>
            </div>
@@ -90,7 +90,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <div id="tabs-2">
               <p>Consider these options as you choose your best references.  Allow at least a couple of weeks for a
               reference to complete the form and return it to the UCC.  Once in a while they may need a gentle
-              reminder.  Ask them to save a hard or electronic
+              reminder.  Ask them to save a print or electronic
               copy; it is possible for a letter to get lost. </p>
             <p><strong>Bachelors Degree Candidates</strong><br>
               [<a href="../../pdfs/ref_undergrad.pdf">printable undergraduate reference form</a>] </p>
@@ -103,14 +103,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               [<a href="../../pdfs/ref_grad.pdf">printable graduate reference form</a>] </p>
               <ul><li> Thesis or dissertation advisor </li>
                 <li> Head of your department, if you are well known to that person </li>
-                <li> Professor who knows you well and is knowledgeable of your skills, ability and qualifications </li>
+                <li> Professor who knows you well and is knowledgeable of your skills, interests and qualifications </li>
                 <li> Professor in field other than major, with whom you have completed advanced coursework </li>
                 <li> Present or former employer </li>
               </ul>
             </div>
             
             <div id="tabs-3">
-              <p>There is a $10.00 fee to set up your confidential credential file. Your first 3 requests are free.  Each file sent
+              <p>There is a $10.00 fee to set up your credential file. Your first 3 requests are free.  Each file sent
               thereafter is $5.00.  An additional fee will be determined for requests sent outside the USA.  A complete copy of your file is reproduced and sent upon request of employers, graduating students, or alumni.  (A fee is not charged when the employer
               requests your file directly.) </p>
               

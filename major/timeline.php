@@ -41,7 +41,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               <td><p><b>Summer</b><br>
 Research potential programs.&nbsp; Discuss with faculty.  Ask for letters of recommendation. Write a
               draft <a
- href="statement.php">personal statement</a>.&nbsp; </p></td>
+ href="statement.php">personal statement</a>. </p></td>
             </tr>
             <tr>
               <td><p><b>September</b><br>

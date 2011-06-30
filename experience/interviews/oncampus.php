@@ -48,11 +48,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 
           <p>Employers conduct on-campus interviews for internships and entry-level jobs during the fall and spring semesters.  All students who are in degree  programs are encouraged to participate!  </p>
           <p>View the list of <a href="../../pdfs/oncampus-list.pdf">employers  who interviewed on campus</a> – during the 2010-11 academic year<br>
-          2934 individual interviews<em> -- </em>2199 bachelors, 667 masters, 68 doctoral</p>
+          3623 individual interviews<em> -- </em>2532 bachelors, 990 masters, 101 doctoral</p>
           <ul>
             <li>Find interview schedules (entered by employers) in  <a href="../ePACK/index.php">ePACK</a>.</li>
             <li>Review  position descriptions and requirements.</li>
-            <li>Watch  for application deadlines.  Be aware of <a href="../../pdfs/oncampus-details.pdf">types  of schedules &amp; timelines</a>.</li>
+            <li>Watch  for application deadlines. </li>
             <li>              Review the <a href="checklist.php">interview checklist</a> for success. </li>
             <li>Arrive  to the UCC (or alternate location if indicated) 10 min. early.</li>
             <li>Check  in at the front desk of 2100 Pullen Hall. </li>

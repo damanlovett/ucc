@@ -44,6 +44,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           <p><b>Hours</b><br>
             Monday-Friday, 8:00am-5:00pm<br>
+            Parking available in Dan Allen Deck -- meters in front of Pullen Hall have been removed.<br>
           </p>
           <p><b>Appointments</b><br>
             For conversations about choosing a major or conducting an effective job search (including writing a resume) -- call 919.515.2396 to make an appointment with your  <a

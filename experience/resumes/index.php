@@ -42,10 +42,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <p>Since employers often review a resume in &lt;30 seconds, you'll  need to communicate your strengths and interests quickly and clearly.  Let us help you create a strong resume!  Professional assistance from the UCC can
           make a difference.          </p>
           <ul>
-            <li>View links throughout this section to prepare outstanding job search documents</li>
-            <li>First resume? Start  with the  <a href="../../pdfs/worksheet.pdf">resume worksheet</a></li>
-            <li>              Review the resume section of the <a href="../ePACK/guide.php">Job &amp; Internship Guide</a></li>
-            <li>Hear from UCC professionals: watch the quick start video </li>
+            <li>First resume? Start  with the <a href="../../pdfs/worksheet.pdf">resume worksheet</a>.</li>
+            <li> Review the resume section of the <a href="../ePACK/guide.php">Job &amp; Internship Guide</a>.</li>
+            <li>Follow links (on left) to prepare outstanding job search documents.</li>
+            <li>Hear our tips: watch the <a href="http://www.youtube.com/ncsucareer#p/u/5/T1WwkOVaUxU">quick start video</a> on resumes.</li>
           </ul>
 <p><a href="http://www.youtube.com/ncsucareer#p/u/5/T1WwkOVaUxU"><img src="../../img/youtube/resume_writing.png" width="134" height="78" alt="resumes"></a></p>
         </div>

@@ -37,19 +37,29 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <ul>
                 <li class="first"> <a href="/">Home</a> </li>
                 <li> <a href="./">Access for Employers</a> </li>
-                <li> <a href="./">Externships</a> </li>
+                <li><a href="./externships.php">Externships</a> </li>
                 <li class="last">Quotes of Past Externs</li>
               </ul>
             </div>
               </div>
+        <p><strong>Spring 2011</strong></p>
+        <p><strong><em>Did the externship help you to get a better idea of your career path and goals?</em></strong><br>
+          &quot;Yes, I went into the externship unsure of my major (I was originally Biomedical but was thinking about changing to Chemical) and left knowing that Chemical was more suited for me. This externship confirmed my career choice.&quot;</p>
+        <p><em><strong>What activities (if any) were meaningful for you?</strong></em><br>
+          &quot;I would have to say all activities were meaningful to me.  We were learning throughout the day and it was great to have our personal meetings with employees who were excited to have us on site.  The tour was very interesting and I was lucky enough to sit in on an engineers' daily meeting to discuss the progress on the floor and what changes needed to be made.  I felt extremely welcome.&quot;</p>
+        <p><strong><em>What did you learn from your externship experience? </em></strong><br>
+          &quot;I learned that there is a variety of ways to apply your major even in one particular field. All the computer scientists there were either working on separate projects or separate parts of the same project, and some used different programming languages. It showed me how versatile my major can be, and how different people with different skills really work together in the workplace.&quot;</p>
+        <p><strong><em>Did the externship experience meet your expectations?</em></strong><br>
+          &quot;Yes, it definitely met my expectations and more.  It is a very valuable program, and every young engineering student should try to get in to the program.  There is nothing like real-world experience!&quot;</p>
+        <hr />
         <p><strong>Spring 2010</strong></p>
-<p>&quot;The Externship allowed me to learn that I have many more interests that I could pursue in the field of          Mechanical Engineering other than my original focus that relates to aeronautics.&quot;</p>
-        <p>&quot;My Externship experience allowed me the opportunity to see what possible jobs I had to look forward          to in the future. It was very good in helping me get an idea of what type of companies would interest          me most as well as which job positions I desire in the future. I also learned what companies are looking          for when they review resumes of future employees.&quot;</p>
+<p>&quot;The externship allowed me to learn that I have many more interests that I could pursue in the field of          Mechanical Engineering other than my original focus that relates to aeronautics.&quot;</p>
+        <p>&quot;My externship experience allowed me the opportunity to see what possible jobs I had to look forward          to in the future. It was very good in helping me get an idea of what type of companies would interest          me most as well as which job positions I desire in the future. I also learned what companies are looking          for when they review resumes of future employees.&quot;</p>
         <p>&quot;My day consisted of six 1‐hour time slots where I was allowed to learn about that particular engineer's          job. There were two design engineers (both had vastly different tasks), a systems engineer, hydraulics          engineer, and managing engineer. They all gave me a sample of what their job consists of and each of          them showed me projects there were currently working on. I was able to see how they started their          project, their thought process, and any modifications. I found this very meaningful because I saw how          each engineer used their education and how they integrated that existing knowledge into their current<br>
           project.&quot;</p>
         <hr />
         <p><strong>Spring 2009</strong></p>
-        <p>&quot;I went into the Externship undecided on what (Engineering) major I was going to pursue … it helped me          to have a better understanding of Civil Engineers and what the scope of their jobs entail. I was able to          actually get a feel for what my life would be like if I became a Civil Engineer, and I also found out the          many different types of jobs you could have if you were one.&quot;</p>
+        <p>&quot;I went into the externship undecided on what (engineering) major I was going to pursue … it helped me          to have a better understanding of Civil Engineers and what the scope of their jobs entail. I was able to          actually get a feel for what my life would be like if I became a Civil Engineer, and I also found out the          many different types of jobs you could have if you were one.&quot;</p>
         <p>&quot;I have found a specific career that I find very interesting. If I hadn't been given the opportunity to see          exactly what an engineer does on a day‐to‐day basis, I probably would have overlooked the company as          a whole when sorting through the vast array of chemical engineering jobs.&quot;</p>
         <p>&quot;I learned a great deal about what to expect from a job in Chemical Engineering. I saw both the          analytical and hands‐on side of working in the factory of a cosmetic company which I learned a great          deal from. I was able to see how the team works together to bring a product from raw material to          shipping boxes of product.&quot;</p>
 

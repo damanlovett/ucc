@@ -52,8 +52,12 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             excitement and can help you get there successfully by making the steps more
             manageable.</p>
           <hr />
-          <a href="ataglance.php">UCC at a glance</a><br>
-        <a href="conduct.php">Professionalism at the UCC</a> </div>
+          <ul>
+            <li><a href="ataglance.php">UCC at a glance</a></li>
+            <li><a href="http://www.naceweb.org/playing_fair/">Principles for professional practice </a></li>
+            <li><a href="disclaimer.php">Website policy disclaimer </a></li>
+          </ul>
+</div>
       </div>
     </div>
     <div class="yui-b">

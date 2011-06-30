@@ -57,7 +57,7 @@ href="http://www.ncsu.edu/facilities/buildings/pullen.html">Pullen Hall</a>  at 
           <p><strong>Park<br>
           </strong>Parking permits are required on campus 7am-5pm weekdays and available to employers.  Park temporarily  in front of the UCC, pick up a permit and proceed to the <a
 href="http://www.ncsu.edu/facilities/buildings/danallendeck.html">Dan Allen
-          Parking Deck</a>.   </p>
+          Parking Deck</a>.   <strong><em>NOTE:</em></strong> parking meters in front of Pullen Hall were removed May 2011!</p>
           <p><strong>Stay awhile<br>
           </strong>Let us help you plan the  details of your recruiting <a href="visiting.php">visit to NC State</a>.  </p>
 </div>

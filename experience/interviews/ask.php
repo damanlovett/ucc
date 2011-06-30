@@ -44,7 +44,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           
 <p>When an employer asks if you have questions, the
             answer is yes!  Prepare a few questions
-            in advance so you will be ready. Feel
+            in advance so you'll be ready. Feel
             free to write them down and refer to your list during the interview. </p>
           <ul>
             <li> Could

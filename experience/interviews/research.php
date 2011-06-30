@@ -46,6 +46,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 
           <p>Want to stand out? <br>
           Research the employer before an  interview!  </p>
+          <hr />
+          <p><b>With research</b> – <em>you are <strong>able</strong> to ask good questions</em><br>
+"I read about the acquisition by Grifols. &nbsp; How will this affect your Clayton site?<br>
+"Congratulations on being awarded the project at RDU!&quot; Will you be hiring summer interns?"&nbsp; </p>
+          <p><b>Without research </b>– <em>you are <strong>unable</strong> to show sincere interest</em><br>
+  "What do you do?"<br>
+  "Is Progress Energy an insurance company?"&nbsp;&nbsp;&nbsp; </p>
+          <hr />
           <p><b>Basic
             research</b> (1<sup>st</sup> interview) -- visit the website, know general
             products or services and locations.  <br>
@@ -61,18 +69,10 @@ href="https://www.lib.ncsu.edu/business/companies">Company
 href="http://rileyguide.com/research.html">Riley Guide</a><br>
               Find detailed information about employers and locations of interest. </li>
             <li><a
-href="http://www.wetfeet.com/Careers---Industries.aspx">Wetfeet</a><br>
+href="http://www.wetfeet.com/Employers.aspx">Wetfeet</a><br>
               Benefit from others' research.&nbsp; View insider tips about careers,
               industries and employers. </li>
           </ul>
-          <hr />
-          <p><b>With research</b> – <em>you are <strong>able</strong> to ask good questions</em><br>
-"I read about the merger.&nbsp; How will your product line be affected?"<br>
-"Congratulations on your new project at RDU Airport!&quot; Will you be hiring summer interns?"&nbsp; </p>
-          <p><b>Without research </b>– <em>you are <strong>unable</strong> to show sincere interest</em><br>
-"What do you do?"<br>
-"Is Progress Energy an insurance company?"&nbsp;&nbsp;&nbsp; </p>
-<p>&nbsp;</p>
         </div>
       </div>
     </div>

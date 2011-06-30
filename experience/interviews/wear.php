@@ -25,7 +25,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
   <div id="hd" role="navigation">
     <?php require_once('../../includefiles/topMenu.php');?>
   </div>
-  <div id="bd" role="main">
+  <div role="main">
     <div id="yui-main">
       <div class="yui-b">
         <div class="yui-g"><div id="fadeshow1"></div></div>
@@ -42,54 +42,55 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-          <p>Attire for interviews is professional and on the
+          <img src="../../img/InterviewAttire.png" hspace="15" vspace="15" align="left"><p>Attire for interviews is professional and on the
             conservative side.  <br>
             Since your appearance
-            is your first impression -- make it a great one!<br>
-          Avoid <a href="../../pdfs/wear-not.pdf">what not to wear</a>! </p>
+            is your first impression -- <em><strong>make it a great one!</strong></em> <br>
+            Use our suggestions for<a href="#traditional"> traditional interview attire</a> and <a href="#business">business casual</a>.<br>
+          </p>
           <hr />
-          <p><a name=traditional></a><b>Traditional<br>
-        </b>Suggestions below are for the most conservative settings and will be a safe choice. If your employer is less formal, bring it down a notch, but always err on the side of being overdressed vs. underdressed. </p>
+          <p><a name=traditional></a><b>Traditional interview attire<br>
+    </b>These suggestions are for the most conservative settings and will be a safe choice for students seeking entry-level jobs.  If the employer (or your field) is less formal, bring it down a notch, but always err on the side of being overdressed vs. underdressed. </p>
           <ul>
-            <li> <strong>Men: </strong>Dark conservative suit with white (or light
-                color) long sleeved shirt and tie.  Dark
-                socks to match slacks, dark shoes. A less conservative choice would be navy blazer with khakis, shirt and tie.  &nbsp;&nbsp; </li>
+            <li><strong>Men: </strong>Dark conservative suit with white (or light
+              color) long sleeved shirt and tie.  Example: charcoal grey suit, white shirt, dark red tie with subtle design. Dark
+              socks to match slacks, dark shoes. A less conservative choice would be navy blazer with khakis, white shirt and tie.  &nbsp;&nbsp; </li>
             <li><strong>Women:</strong> Dark conservative suit (slacks or skirt) with
               tailored top or a classic style dress.  Dark
-              shoes, natural color stockings (with dress or skirt) or dark socks to match
-              slacks.&nbsp; Low to medium heel  shoes. Conservative accessories. A less conservative choice would be dark slacks or skirt with tailored shirt or sweater.</li>
+              shoes, dark socks to match slacks or natural color stockings with dress or skirt.&nbsp; Low to medium heel  shoes. A less conservative choice would be dark slacks or skirt with tailored shirt or sweater.</li>
           </ul>
           <hr />
-          <p><a name=business></a><b>Business casual<br>
+          <b><a name="business"></a>Business casual<br>
           </b>One notch down from traditional attire is appropriate
-            for students seeking internships/co-ops or for all students attending social
-            events or receptions sponsored by employers.   </p>
+            for students seeking internships or co-ops and for all students attending social
+            events or receptions sponsored by employers.   
           <ul>
             <li><strong>Men:</strong>  Slacks with or without jacket, long sleeved
               shirt, with or without tie. </li>
             <li><strong>Women:</strong> Dark slacks with tailored shirt or
-                sweater.&nbsp;</li>
+              sweater.&nbsp;</li>
           </ul>
           <hr />
-<p><b>Where to shop</b><br>
-          We've provided some local options to help you assemble your interview attire!<br>
-      </p>
-<p><strong>$$$</strong><i> <br>
-  </i><a
-href="http://www.josbank.com/menswear/shop/suits%20">Jos. Banks</a> – Cameron Village<br>
-  <a
-href="http://www.anntaylor.com">Ann Taylor</a> – Cameron Village
-</p>
-<p><strong>$$</strong><i> <br>
-  </i><a
-href="http://www.belk.com">Belk</a>  –
-  Crabtree Valley Mall </p>
-<p><strong>$</strong><i> <br>
-  </i><a
-href="http://www.jlraleigh.org/bargainbox.shtml">Bargain Box</a>&nbsp;–
-  Cameron Village<br> 
-  <a
-href="http://maps.google.com/maps?li=d&amp;hl=en&amp;f=d&amp;iwstate1=dir:to&amp;daddr=4801+Grove+Barton+Rd,+Raleigh,+NC+27613+(Goodwill+Industries)&amp;geocode=CZ8-gPKe8kt3FXtXIwIdK-ZO-w&amp;iwloc=1&amp;dq=goodwill,&amp;ei=obgeSpLHL4G2M6j73MEG">Goodwill</a> – North Raleigh </p>
+          <p><b>Where to shop</b><br>
+          Here are some local options to help you assemble your interview attire. <br>
+          Purchase the best quality within your budget.    </p>
+          <ul>
+            <li><strong>$$$: </strong><i>  </i><a
+href="http://www.josbank.com/menswear/shop/suits%20">Jos. Banks</a>, Cameron Village / 
+              <a
+href="http://www.anntaylor.com">Ann Taylor</a> or <a href="http://www.talbots.com">Talbots</a>, Cameron Village
+            </li>
+            <li><strong>$$: </strong><i>  </i><a
+href="http://www.belk.com">Belk</a>, Crabtree Valley Mall </li>
+            <li><strong>$: </strong><i>  </i><a
+href="http://www.jlraleigh.org/bargainbox.shtml">Bargain Box</a>, Cameron Village /  
+              <a
+href="http://maps.google.com/maps?li=d&amp;hl=en&amp;f=d&amp;iwstate1=dir:to&amp;daddr=4801+Grove+Barton+Rd,+Raleigh,+NC+27613+(Goodwill+Industries)&amp;geocode=CZ8-gPKe8kt3FXtXIwIdK-ZO-w&amp;iwloc=1&amp;dq=goodwill,&amp;ei=obgeSpLHL4G2M6j73MEG">Goodwill</a>, North Raleigh </li>
+          </ul>
+          <hr />
+          <p><strong>Grooming &amp; accessories</strong><br>
+            Details count. Fresh haircut if it's been awhile, shower, shave, brush teeth, trim nails, no fragrance, conservative accessories and carefully chosen attire.  Review our suggestions of <a href="../../pdfs/wear-not.pdf">what not to wear</a>.</p>
+<p>&nbsp;</p>
         </div>
       </div>
     </div>

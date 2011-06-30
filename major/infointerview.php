@@ -42,9 +42,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
           </div>
-<p>Many students Interview a professional to learn first hand about a major or career!</p>
-          <p><strong>STEP 1:&nbsp; <i>find a
-          professional</i></strong></p>
+<p>Many students interview a professional to learn first hand about a major or career!</p>
+<hr />
+<p><strong>STEP 1:&nbsp; Find a professional</strong></p>
           <ul>
             <li>              Ask friends, family or faculty –                                           "Can you suggest a professional I could interview in the graphic design field?&quot;  </li>
             <li>Find a professional at a
@@ -54,14 +54,14 @@ href="../experience/ePACK/">ePACK</a> and <a
 href="../experience/jobsearch/careersearch.php">Career
                 Search</a>.</li>
           </ul>
-          <p><strong>STEP 2:&nbsp; <i>contact a professional</i></strong><br>
+          <p><strong>STEP 2:&nbsp; Contact a professional</strong><br>
 Call or email your contact.             </p>
           <ul>
             <li>&quot;This is Sophie Miller.  I'm a freshman at NC State and thinking about majoring in graphic design. My advisor suggested I interview a professional  in the field so I can learn more about this career. Would you be
               available to meet on a Thursday or Friday afternoon for about 30 minutes?  I have a few questions I'd like to ask and I'm pleased to come to your
               office."  </li>
           </ul>
-          <p><strong>STEP 3:&nbsp; <i>conduct an interview</i></strong><br>
+          <p><strong>STEP 3:&nbsp; Conduct an interview</strong><br>
 Be professional! Arrive 5-10 minutes early, dress in             <a
 href="../experience/interviews/wear.php">business
             casual</a>, bring a list of questions, take paper and pen for note taking
@@ -97,7 +97,7 @@ href="../experience/interviews/wear.php">business
             <li> Is
               there anyone you'd recommend I speak with  about this field? </li>
           </ul>
-          <p><strong>STEP 4:&nbsp; <i>show your appreciation</i></strong><br>
+          <p><strong>STEP 4:&nbsp; Show your appreciation</strong><br>
 Email a thank you note within 24 hours.  Report back to the professional on your
 success as a result of your meeting.  They
 will appreciate knowing the impact they've made!              </p>

@@ -55,23 +55,23 @@ but&nbsp;also the standards of the UCC, your academic department, and NC State.
 
 <ul>
   <li><a
-href="../../about/conduct.php">Principles of professional conduct</a><br>
-    Here's what we expect from you and what you can expect from the UCC.
+href="http://www.naceweb.org/playing_fair/">Principles of professional conduct</a><br>
+    Learn what we expect from you and what you can expect from the UCC.</li>
+  <li><a href="interactions.php">Interactions &amp; Introductions</a><br>
+      Increase your confidence during interactions with employers.   </li>
+  <li><a href="dining.php">Dining etiquette</a><br>
+    Know how to handle the nuances of dining with employers.
   </li>
-  <li><a
-href="../../pdfs/etiquette-business.pdf">Business etiquette</a> &amp; <a
-href="../../pdfs/etiquette-dining.pdf">dining etiquette</a><br>
-      You'll be more comfortable when you know what to expect and how to respond. </li>
   <li><a
 href="cancel.php">Cancelling
     an on-campus interview</a><br>
-    If you are unable to make a scheduled interview, notify the UCC immediately. </li>
+    Follow our policies and keep the UCC informed.</li>
   <li><a
 href="rejection.php">Handling rejection </a><br>
-      Rejection is part of the process; prepare for it and maintain confidence.</li>
+      Expect it, prepare for it, and maintain confidence.</li>
   <li><a
 href="accepting.php">Accepting a job offer</a><br>
-      Accepting a job is a commitment; all interviewing comes to an end. </li>
+      Follow our suggestions while making your decision.</li>
 </ul>
 <p>Questions about a specific situation or experience?
   <br>

@@ -49,12 +49,13 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             Don't leave them guessing!  <span class="singleSpaced">Professional assistance from the UCC can
               make a difference</span>.</p>
           <ul>
-            <li>            Stay on track with the <a href="checklist.php">interview checklist</a></li>
-            <li>View an <a href="http://www.youtube.com/ncsucareer">interview video</a></li>
-            <li>              Review the interview section of the <a href="../ePACK/guide.php">Job &amp; Internship Guide</a></li>
-            <li>View links throughout this section to prepare for important conversations with employers<br>
-            </li>
+            <li>            Stay on track with the <a href="checklist.php">interview checklist</a>.</li>
+            <li>              Review the interview section of the <a href="../ePACK/guide.php">Job &amp; Internship Guide</a>.</li>
+            <li>Follow links (on left) to prepare for important conversations with employers.</li>
+            <li>Hear our tips: watch the <a href="http://www.youtube.com/ncsucareer#p/u/1/Gjv0fOuzTMQ">quick start video</a> on interviews.</li>
           </ul>
+          <p><a href="http://www.youtube.com/ncsucareer#p/u/1/Gjv0fOuzTMQ"><img src="../../img/youtube/interview_prep.png" width="135" height="78"></a><br>
+          </p>
 <p>&nbsp;</p>
           <p>&nbsp;                      </p>
         </div>

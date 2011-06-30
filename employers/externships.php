@@ -66,7 +66,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                  <li>It  is easy, flexible and informal. </li>
                </ul>
                <p><strong>History</strong><u><br>
-               </u>Pilot program  occurred at the end of spring 2009 semester exams.  We had 9 student participants and 6 employers. Spring 2010 externship program occurred  during spring break week with 27 students and 19 employers.</p>
+               </u>Spring 2009 (pilot program):  9 students, 6 employers. <br>
+               Spring 2010: 27 students, 19 employers.<br>
+               Spring 2011:  58 students, 17 employers.
+               </p>
                <hr />
                <p><strong>Questions?</strong><br>
                  <a href="/career/employers/students.php">Student FAQs</a> /                 <a href="/career/employers/employers.php">Employer FAQs</a> <br>

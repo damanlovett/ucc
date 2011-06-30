@@ -46,16 +46,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             appreciation.  It is sent within 24 hours
             of a formal interview or important interaction with an employer. </p>
           <p>The most effective thank you  conveys sincere appreciation for their time, restates your interest in the
-              position, and emphasizes your key strengths.  If you have interviewed with several individuals -- send one letter to your
-              initial contact, thanking the entire group.</p>
+              position, and emphasizes your key strengths.  If you interviewed with several people during a site visit, for example -- we advise you to  send one letter to your
+              initial contact, thanking the entire group. No need to send a thank you note to everyone (unless it was a very small group).</p>
           <p><b>Sample
             thank you letters</b></p>
           <ul>
             <li> <a
-href="../../pdfs/ty-email.pdf">Email version</a> </li>
-            <li> <a
-href="../../pdfs/ty-print.pdf">Print version </a></li>
-            <li> <a
+href="../../pdfs/ty-email.pdf">Email version</a> /  <a
+href="../../pdfs/ty-print.pdf">Print version </a>/ <a
 href="../../pdfs/ty-handwritten.pdf">Handwritten version</a></li>
           </ul>
         </div>

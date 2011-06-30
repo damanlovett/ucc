@@ -33,6 +33,27 @@ $(document).ready(function(){
 		
 		$("body LINK[href='http://www.ncsu.edu/brand/utility-bar/iframe/css/utility_bar_iframe.css']").remove();
 
+	// Date Picker
+	
+		$( "#datepicker" ).datepicker({
+			showOn: "button",
+			buttonImage: "/career/img/calendar.gif",
+			buttonImageOnly: true
+		});
+		
+	// Date/Time Picker
+		
+		$('#withAltTime-dateplustimepicker').dateplustimepicker({
+        altTimeField: '#withAltTime-dateplustimepicker-alt',
+        dateFormat: 'D, dd M yy',
+        timeFormat: 'hh:mmTT'
+      });
+
+		$('#withAltTime-dateplustimepicker2').dateplustimepicker({
+        altTimeField: '#withAltTime-dateplustimepicker-alt2',
+        dateFormat: 'D, dd M yy',
+        timeFormat: 'hh:mmTT'
+      });
 
 		
 	// Accordion

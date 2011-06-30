@@ -43,8 +43,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 
           <p>As many employers have already discovered, NC State
             students make great hires!<br>
-            There are several different ways to hire and develop
-            Wolfpack talent in your organization.</p>
+          According to the Wall Street Journal survey, <a href="http://online.wsj.com/article/SB10001424052748704554104575435563989873060.html">NC State is ranked #19</a> for top recruits!</p>
+          <p>            We look
+            forward to helping you recruit at NC State!</p>
           <ul>
             <li><strong>Internships </strong>-- summer or part-time career-related
             experience.</li>
@@ -61,8 +62,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             <li><a href="epack.php">Get started with ePACK</a> -- NC State's on-line recruiting system</li>
             <li>Increase your  <a href="visibility.php">visibility on campus</a> with our suggestions</li>
           </ul>
-          <p>We look
-          forward to helping you recruit at NC State!<br>
+          <p>Let us know how we can help.<br>
 Bridget Yarborough, Coordinator of Recruiting -- <a href="mailto:bridget_yarborough@ncsu.edu">bridget_yarborough@ncsu.edu</a>          </p>
 <p>&nbsp;</p>
         </div>

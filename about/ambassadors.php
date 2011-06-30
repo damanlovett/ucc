@@ -60,7 +60,7 @@ href="../pdfs/ca-request.pdf">request a program</a> for your student group!</p>
             <br>
           </p>
 <hr />
-<table width="447">
+<table width="447" class="basicTable100">
             <caption>
             <div align="left"><strong>Fall 2011 Career Ambassadors</strong> 
               <br>

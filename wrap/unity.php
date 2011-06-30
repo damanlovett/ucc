@@ -33,6 +33,9 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <p>These sites are restricted to NC State students and require unity login. <br>
             Need help?  Contact the UCC at 
           919.515.2396 or <a href="mailto:career_center@ncsu.edu">career_center@ncsu.edu</a>.</p>
+          <p><a href="http://www.careerkey.org/">Career Key</a><br>
+          Take the Career Key test using &quot;my user code&quot;<br>
+          User code: NCSU</p>
           <p><a href="https://access.bridges.com/portal/client/landingPage.do">Choices</a><br />
           Login using &quot;site ID&quot; tab<br>
             ID: 1212609<br />

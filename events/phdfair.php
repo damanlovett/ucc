@@ -31,15 +31,13 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div id="secContent" class="yui-g">
           <h1>Masters & PhD Career Fair</h1>
             <p>This event is sponsored by a consortium of six outstanding North Carolina   graduate schools including NC State, Duke, UNC-Chapel Hill, UNC-Charlotte,   UNC-Greensboro, and Wake Forest. Participating employers can expect up to 350   masters, doctoral, and postdoctoral candidates in science, engineering,   humanities and social sciences to attend. </p>
-            <p><A href="http://csc.dept.uncg.edu/phdfair/PhDFair2010.pdf" target="_top">List   of employers who attended</A> <em>(November 2010)</em></p>
-            <p>November 2011 (TBA)<BR>
-              1:00pm to 4:30pm<BR>
-              Friday Center, UNC-Chapel   Hill<BR>
-            <A href="http://www.fridaycenter.unc.edu/directions/index.htm">http://www.fridaycenter.unc.edu/directions/index.htm </A></p>
-<p>Doctoral and masters' degree students from  institutions other than the   consortium universities may attend. There is no registration or fee required for students to attend this event.    </p>
-          <hr />
+            <p>Thursday, November 17, 2011<BR>
+              1:00pm to 4:00pm<BR>
+            <a href="http://www.fridaycenter.unc.edu/directions/index.htm">Friday Center</a>, UNC-Chapel Hill </p>
+<p>Doctoral and masters' degree students from  institutions other than the   consortium universities may attend. There is no registration or fee required for students to attend this event.           <A href="http://csc.dept.uncg.edu/phdfair/PhDFair2010.pdf" target="_top">List   of employers</A> who attended <em>(November 2010)</em></p>
+<hr />
           <p><strong>Questions?</strong><br>    
-    Contact Carol Schroeder, Director -- <a href="mailto:carol_schroeder@ncsu.edu">carol_schroeder@ncsu.edu</a> </p>
+    Contact D.R. Ingram, Assistant Director -- <a href="mailto:dr_ingram@ncsu.edu">dr_ingram@ncsu.edu</a> </p>
   </div>
       </div>
     </div>

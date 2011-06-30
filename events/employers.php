@@ -71,7 +71,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           Let students know about your visit by sending announcements to academic  departments, student organizations and media.    </p>
           <ul type="square">
             <li><a href="http://www.ncsu.edu/academics/departments-a-z/index.php">Academic       departments</a></li>
-            <li><a href="http://ncsu.orgsync.com/">Student       organizations</a> -- [Refine your search by college:  <a href="http://harvest.cals.ncsu.edu/academic/index.cfm?pageID=395">Agriculture &amp; Life Sciences</a>, <a href="http://design.ncsu.edu/student-organizations">Design</a>, <a href="http://ced.ncsu.edu/student_services/student_orgs.php">Education</a>, <a href="http://students.engr.ncsu.edu/">Engineering</a>, <a href="http://www.chass.ncsu.edu/students/student_orgs.php">Humanities &amp; Social Sciences</a>, <a href="http://poole.ncsu.edu/undergraduate/students/student-organizations/">Management</a>, <a href="http://cnr.ncsu.edu/future/student_orgs.php">Natural Resources</a>, <a href="http://www.pams.ncsu.edu/students/studorgs.php">Physical &amp; Mathematical Sciences</a>, <a href="http://www.tx.ncsu.edu/community/student-life/student-organizations.cfm">Textiles</a>.]  </li>
+            <li><a href="http://ncsu.orgsync.com/">Student       organizations</a></li>
             <li><a href="http://ncsu.edu/sma/">Student media</a></li>
           </ul>
           <p><strong>Bring  an NC State intern or graduate </strong><br>

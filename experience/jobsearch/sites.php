@@ -88,7 +88,7 @@ href="http://www.makingthedifference.org/index.shtml" class="MsoNoSpacing">Feder
             <li><a
 href="http://www.irs.gov/businesses/small/article/0,,id=99336,00.html" class="MsoNoSpacing">IRS: starting a business</a> </li>
             <li><a
-href="http://www.nccommerce.com/servicenter/" class="MsoNoSpacing">NC dept. of commerce</a></li>
+href="http://thrivenc.com/smallbusiness/overview" class="MsoNoSpacing">NC dept. of commerce</a></li>
             <li><a
 href="http://www.engr.ncsu.edu/eep/" class="MsoNoSpacing">NC State engineering entrepreneurs program</a> </li>
             <li><a
@@ -109,8 +109,6 @@ href="http://www.ncsu.edu/stud_orgs/iaeste/about_us.html" class="MsoNoSpacing">I
             <li><a href="http://www.interexchange.org/">InterExchange</a></li>
             <li><a
 href="http://www.rileyguide.com/internat.html#orgs" class="MsoNoSpacing">International agencies &amp; NGOs</a></li>
-            <li><a
-href="http://www.nccommerce.com/en/BusinessServices/LocateYourBusiness/WhyNC/InternationalPresence/InternationalFirmsDirectory.htm" class="MsoNoSpacing">International firms in NC</a> </li>
             <li><a
 href="http://www.rileyguide.com/internat.html" class="MsoNoSpacing">International job opportunities</a></li>
             

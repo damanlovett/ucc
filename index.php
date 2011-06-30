@@ -76,10 +76,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             
           </div>
           <div class="yui-u a2">
-            <h2>Seniors: tell us your status!</h2>
-            <p>Take the survey to let us know your future plans. Undecided? We want to know that too! <br>
-              [ <a href="http://www2.acs.ncsu.edu/UPA/survey/future_plans.htm">more info</a> ]</p>
-          </div>
+            <h2>Parking meters removed!</h2>
+            <p>Parking available in Dan Allen Deck. Let us know how this will impact your visit to the UCC!<br>
+            [ <a href="mailto:career_center@ncsu.edu">send feedback</a> ]</p>
+</div>
         </div>
         
         

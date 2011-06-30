@@ -50,7 +50,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             be extended (2-6 pages) and the categories of information may differ.&nbsp; Its
             format will vary from discipline to discipline and will contain more detail
             than a resume.&nbsp; Consult with faculty in your academic department as you
-            prepare a CV for your field. </p>
+            prepare a CV for your field.
             <ul>
               <li><a href="http://owl.english.purdue.edu/owl/resource/641/1/">Writing the CV</a> [Purdue OWL] </li>
               <li><a
@@ -60,8 +60,8 @@ href="../../pdfs/cv-resume.pdf">Sample CV adapted for industry</a></u></li>
             </ul>
             <hr />
           <p>To get started, select and
-          prioritize categories of information that best present your credentials. </p>
-            <table width="84%" border=0 cellpadding=0 cellspacing=0 class="basicTable100">
+          prioritize categories of information that best present your credentials.</p>
+          <table width="84%" border=0 cellpadding=0 cellspacing=0 class="basicTable100">
             <tr>
               <td width="40%" valign=top>Education<br>
                   Scholarships / Fellowships<br>

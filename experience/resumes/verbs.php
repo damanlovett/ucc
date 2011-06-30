@@ -43,7 +43,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </div>
           <p>Use action verbs to communicate your
             accomplishments in the experience section of your resume. <br>
-            Note the impact action verbs make in the job below.            [<a href="../../pdfs/verbs.pdf">sample action verbs</a>]
+            Note the impact action verbs make in the job below.            [<a href="sampleverbs.php">sample action verbs</a>]
             </p>
           <hr />
           <p> <em><strong>With action verbs </strong></em><br>

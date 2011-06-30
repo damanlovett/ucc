@@ -48,10 +48,11 @@ discussions, projects, and networking events. </p>
 a student leader to learn more.  Getting involved has the potential to create opportunities for you and your career, both now and in the future. It's also a great place to gain leadership experience!    </p>
 
 
-<p>View complete list of NC State <a
-href="http://ncsu.orgsync.com/">student organizations</a> or choose by college: <a href="http://harvest.cals.ncsu.edu/academic/index.cfm?pageID=395">Agriculture &amp; Life Sciences</a>, <a href="http://design.ncsu.edu/student-organizations">Design</a>, <a href="http://ced.ncsu.edu/student_services/student_orgs.php">Education</a>, <a href="http://students.engr.ncsu.edu/">Engineering</a>, <a href="http://www.chass.ncsu.edu/students/student_orgs.php">Humanities &amp; Social Sciences</a>, <a href="http://poole.ncsu.edu/undergraduate/students/student-organizations/">Management</a>, <a href="http://cnr.ncsu.edu/future/student_orgs.php">Natural Resources</a>, <a href="http://www.pams.ncsu.edu/students/studorgs.php">Physical &amp; Mathematical Sciences</a>, <a href="http://www.tx.ncsu.edu/community/student-life/student-organizations.cfm">Textiles</a>.</p>
-
-</div>
+<ul>
+  <li><strong>View complete list:</strong> <a href="http://ncsu.orgsync.com/">NC State student organizations</a> </li>
+  <li><strong>Search  by college:</strong> <a href="http://harvest.cals.ncsu.edu/academic/index.cfm?pageID=395">Agriculture &amp; Life Sciences</a>, <a href="http://design.ncsu.edu/student-organizations">Design</a>, <a href="http://ced.ncsu.edu/student_services/student_orgs.php">Education</a>, <a href="http://students.engr.ncsu.edu/">Engineering</a>, <a href="http://www.chass.ncsu.edu/students/student_orgs.php">Humanities &amp; Social Sciences</a>, <a href="http://poole.ncsu.edu/undergraduate/students/student-organizations/">Management</a>, <a href="http://cnr.ncsu.edu/future/student_orgs.php">Natural Resources</a>, <a href="http://www.pams.ncsu.edu/students/studorgs.php">Physical &amp; Mathematical Sciences</a>, <a href="http://www.tx.ncsu.edu/community/student-life/student-organizations.cfm">Textiles</a>.</li>
+</ul>
+        </div>
       </div>
     </div>
     <div class="yui-b">

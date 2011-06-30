@@ -54,13 +54,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <li>Know your strengths.</li>
                 <li>Research the organization and location.</li>
                 <li>Review the position description, if available.</li>
-                <li>See yourself in the position.</li>
+                <li>See yourself in the position; want the job (even if you are not sure yet).</li>
                 <li>Review sample interview questions and prepare answers.</li>
                 <li>Get comfortable talking about yourself.  These are facts you can back up.</li>
                 <li>Prepare a few questions to ask employers.</li>
                 <li>Clarify the details of the interview – date, location, schedule, attire.</li>
                 <li>Assemble your attire; conservative is always safe.</li>
                 <li>Choose a portfolio, folder or notebook to carry.  Pack your resume, unofficial transcript, sample of your work (if appropriate for your field), and list of 3 references (graduating students only).</li>
+                <li>Get in the zone. See yourself in the job, want the job (you can decide later if it's a good match).</li>
                 <li>Arrive 10 minutes early.</li>
               </ul>
             </div>
@@ -74,7 +75,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <li>Ask for clarification or restatement of questions at any time.</li>
                 <li>Frame your answers to highlight strengths and interests that match the opportunity.</li>
                 <li>Be positive about yourself and your experiences.</li>
-                <li>Be honest if you are unable to answer a question.  Instead, offer a thoughtful way you would find the answer. </li>
+                <li>Be honest if you are unable to answer a question. Offer a thoughtful way you would find the answer. </li>
                 <li>Display enthusiasm for the opportunity. </li>
                 <li>Be prepared to give specific examples to back up statements you make about yourself.  Draw from academic, professional, and personal experiences.</li>
                 <li>Show you embrace the organization's culture.</li>

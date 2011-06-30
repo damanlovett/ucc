@@ -5,7 +5,7 @@
 <title>University Career Center</title>
 <link rel="stylesheet" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" type="text/css">
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.0r4/build/base/base-min.css">
-<link rel="stylesheet" href="../css/uccdefaultNAV.css" type="text/css">
+<link rel="stylesheet" href="/career/css/uccdefaultNAV.css" type="text/css">
 <script src="../jquery/js/jquery-1.4.2.min.js" type="text/javascript"></script>
 <script src="../jquery/js/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
 <link href="../jquery/css/ucc/jquery-ui-1.8.2.custom.css" rel="stylesheet" type="text/css">

@@ -37,12 +37,12 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                 <ul>
                 <li class="first"> <a href="/">Home</a> </li>
                 <li> <a href="./">Access for Employers</a> </li>
-                <li> <a href="./">Externships</a> </li>
+                <li><a href="./externships.php">Externships</a> </li>
                 <li class="last">Student FAQS</li>
               </ul>
               </div>
               </div>
-        <p>Gain insight through an inside view of professionals at work, and learn how to apply your major to a          career field by job‐shadowing in a company for one day or two days. <em><strong>Review all FAQs to determine your interest! </strong></em><strong></strong></p>
+        <p>Gain insight through an inside view of professionals at work, and learn how to apply your major to a          career field by job‐shadowing in a company for one day or two days. <em><strong>Review all FAQs to determine your interest!</strong></em></p>
         <p>          <strong>Why do an externship?</strong></p>
         <ul>
           <li> Learn more about the day‐to‐day work life of professionals in a career field of your interest.</li>
@@ -60,36 +60,37 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <li> Attend meetings and other work functions.</li>
           <li> Develop contacts who may help you find internships and jobs.</li>
         </ul>
-        <p> <em>Students at the junior and/or senior level may also be able to:</em></p>
-        <ul>
-          <li> Assist with research projects such as preparing reports and spreadsheets.</li>
-          <li> Gain hands-on experience by working with clients or customers or following crew members in the
-            field.</li>
-          <li> Under direct supervision of staff, you may be allowed to co‐facilitate a group meeting, observe            program activities and complete a special project related to your major.        </li>
-        </ul>
-        <p>            <strong>Who can participate and when does the externship occur?</strong><br>
-            The Externship program is currently offered to NC State College of Engineering freshmen; sophomores 
-            may request to be included. The Externship will take place during spring semester; dates will be            determined and announced during fall semester.</p>
+        <p><strong>Who can participate and when does the externship occur?</strong><br>
+          The externship program is currently offered to NC State College of Engineering freshmen and sophomores. The externship will take place during spring semester; dates will be            determined and announced during fall semester.</p>
         <p>          <strong>How long do externships last?</strong><br>
-          The Externship will be between 1‐2 business days depending on your employer's preference.</p>
+          The externship will be between 1‐2 business days depending on your employer's preference.</p>
         <p>          <strong>Can I earn academic credit for the externship?</strong><br>
           No. Externships are not eligible for academic credit.</p>
         <p>          <strong>What is the difference between an externship and an internship?</strong><br>
-          Externships are short term (between 1‐2 business days), and offer no pay or academic credit.          Internships are longer term and can take place  year round and are paid in most fields. Externships are excellent opportunities for students to be considered for future Internships.</p>
+          Externships are short term (between 1‐2 business days), and offer no pay or academic credit.          Internships are longer term and can take place  year round and are paid in most fields. Externships are excellent opportunities for students to be considered for future internships -- several past externs have been offered internships the following summer!</p>
+        <p><strong>Qualifications</strong></p>
+        <ul>
+          <li>Outstanding academic record (3.0+ GPA), resume and statement explaining your interest in the program. </li>
+          <li>High level of professional character and enthusiastic about engineering.</li>
+          <li>Refundable payment of $100. to the UCC. Will be refunded after completion of the program.</li>
+          <li>Freshman and sophomore College of Engineering student. <br>
+          </li>
+        </ul>
         <p>          <strong>What are the travel arrangements and costs for externships?</strong><br>
-          Externships are either within 3 hours driving distance from NC State or may be available in locations          near your permanent address. You are responsible for your own travel arrangements and costs to travel to your          Externship location. This includes transportation, meals and lodging. Externship host(s) may          treat you to lunch or assist you with other traveling expenses, but do not expect this.</p>
+          Externships are either within 3 hours driving distance from NC State or may be available in locations          near your permanent address. <strong><em>You are responsible for your own travel arrangements and costs to travel to your          externship location</em>.</strong> This includes transportation, meals and lodging. Externship host(s) may          treat you to lunch or assist you with other traveling expenses, but do not expect this.</p>
         <p>          <strong>How do I apply for externships?</strong></p>
         <ul>
-          <li>            If you are eligible to participate, information with specific dates and instructions will be emailed to you          in early January. </li>
+          <li>            If you are eligible to participate, information with specific dates and instructions will be emailed to you          from Leslie Bowman, <a href="mailto:leslie_bowman@ncsu.edu">leslie_bowman@ncsu.edu</a>. </li>
           <li>Student registration and the list of participating employers will be posted in           ePACK. </li>
-          <li>If you have questions or would like to know if you are eligible to participate, please email Leslie            Bowman at <a href="mailto:leslie_bowman@ncsu.edu">leslie_bowman@ncsu.edu</a>.</li>
+          <li>After completing your application, you will be interviewed and notified if you have been selected to participate in the program. </li>
+          <li>Selected students will attend one of the mandatory orientation sessions.</li>
         </ul>
         <p>          <strong>What happens after I am selected?</strong><br>
-          After completing the application and receiving notification of your Externship assignment, you will need          to attend one of the mandatory orientation sessions.</p>
+          After completing the application and receiving notification of your externship assignment, you will need          to attend one of the mandatory orientation sessions.</p>
         <p>          <strong>What will be discussed at the externship orientation session?</strong><br>
-          You will be prepared for the Externship experience including understanding what is expected of you and          what you can expect to gain from the experience. We will provide tips on informational interviewing,          professionalism and how to write a formal thank‐you letter at the end of your          experience.</p>
+          You will be prepared for the externship experience including understanding what is expected of you and          what you can expect to gain from the experience. We will provide tips on informational interviewing,          professionalism and how to write a formal thank‐you letter at the end of your          experience.</p>
         <p>          <strong>Is the externship orientation session mandatory?</strong><br>
-          Yes. You must attend the session in order to participate in the Externship.</p>
+          Yes. You must attend the session in order to participate in the externship.</p>
         <hr />
         <p><strong>Questions?<br>
           </strong>Contact 

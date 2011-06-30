@@ -43,7 +43,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </div>
           </div>
           <p>If you are asked
-            for a copy of your transcript, 9 times out of 10 -- the unofficial copy meets their needs.  Employers will let you know when the official copy is required. </p>
+            for a copy of your transcript, 9 times out of 10 -- the unofficial copy meets their needs.  Employers will let you know if an official copy is required. </p>
           <p><strong>Unofficial transcript</strong><br>
             Download
           a copy at no charge through <a href="http://mypack.ncsu.edu/">My Pack Portal</a>.&nbsp; Save a copy in Word and feel free to improve its appearance. Upload a copy into ePACK and bring a copy to interviews (you'll be ready when asked!)   </p>
@@ -52,7 +52,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             occasionally required by employers. Request
             a copy through <a href="http://www.ncsu.edu/registrar/faq/transcript.html">Registration and
             Records</a>.  Order only when needed;
-            there is a $10. charge. </p>
+            there is a $10. charge!</p>
         </div>
       </div>
     </div>

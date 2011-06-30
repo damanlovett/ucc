@@ -92,7 +92,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </tr>
             <tr>
               <td valign="top">Masters &amp; PhD Career Fair </td>
-              <td valign="top">November TBA</td>
+              <td valign="top">November 17</td>
             </tr>
             <tr>
               <td valign="top">Holiday (Thanksgiving) </td>

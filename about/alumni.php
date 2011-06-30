@@ -30,18 +30,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
         <div class="yui-g"><div id="fadeshow1"></div> </div>
         <div id="secContent" class="yui-g">
           <h1>Meet Our Alumni</h1>
-          <div class="breadCrumbHolder module">
-            <div id="breadCrumb" class="breadCrumb module">
-              <ul>
-                <li class="first"><a href="/career/">Home</a></li>
-                <li> <a href="/career/about">About The Career Center</a> </li>
-                <li> <a href="/career/about/ambassadors.php">Career Ambassadors</a> </li>
-                <li class="last">Meet Our Alumni</li>
-              </ul>
-            </div>
-          </div>
-
-<table class="basicTable100" width="647" border="1">
+          <div class="breadCrumbHolder module"></div>
+          <table class="basicTable100" width="647" border="1">
   <tr>
     <td width="148"><strong>Mike Boso</strong></td>
     <td width="206">Systems Engineer</td>
@@ -69,7 +59,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
   </tr>
   <tr>
     <td width="148"><strong>Long Huynh</strong></td>
-    <td width="206">Graduate Student</td>
+    <td width="206">Medical Student</td>
     <td width="271">Georgetown University</td>
   </tr>
   <tr>
@@ -89,7 +79,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
   </tr>
   <tr>
     <td width="148"><strong>Linh Nguyen</strong></td>
-    <td width="206">&nbsp;</td>
+    <td width="206">Global Risk Management Analyst</td>
     <td width="271">Bank of America</td>
   </tr>
   <tr>
@@ -99,8 +89,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
   </tr>
   <tr>
     <td width="148"><strong>Marta Schmid</strong></td>
-    <td width="206">&nbsp;</td>
-    <td width="271">Nordstroms</td>
+    <td width="206">Product Development Manager</td>
+    <td width="271">Gate 1 Travel</td>
   </tr>
   <tr>
     <td width="148"><strong>Carmesha Scott</strong></td>

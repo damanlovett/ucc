@@ -43,11 +43,10 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </div>
           <p>Choosing a major is the starting point -- not always the final destination. <br>
           <strong><em>Look at the surprises below!</em></strong></p>
-<br>
-          <table width="308" border="1">
+          <table width="82%" border="1" class="basicTable100">
             <tr>
-              <td width="106">Garth Brooks</td>
-              <td width="186">Journalism/Advertising</td>
+              <td width="270">Garth Brooks</td>
+              <td width="389">Journalism/Advertising</td>
             </tr>
             <tr>
               <td>Kenny Chesney</td>

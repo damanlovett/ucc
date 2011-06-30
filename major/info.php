@@ -49,11 +49,15 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 Explore  details about various careers. <em>(requires login)</em></p>
               <p><a href="http://www.soicc.state.nc.us/soicc/info/briefs.htm">NC SOICC</a> <br>
 View &quot;career briefs&quot; and  videos of occupations in NC. </p>
+              <p><a href="http://www2.lib.ncsu.edu/catalog/search?Nty=1&sort=1&Ntk=Keyword&Ns=PubDateSort|1&N=0&view=full&Ntt=vocational+guidance">NCSU Libraries</a><br>
+                Peruse an assortment of career-related books selected by  librarians.                <br>
+              </p>
               <p><a href="http://www.bls.gov/oco/">Occupational Outlook Handbook</a> <br>
                 Find detailed information about all careers. </p>
               <p><a href="http://online.onetcenter.org/">O*Net</a> <br>
                 Browse careers by  industry, tasks, salary, future outlook and more.</p>
-              <p>&nbsp;</p>
+              <p><a href="http://www.careercornerstone.org/profiles.htm">Sloan Career Cornerstone Center</a><br>
+                View career profiles of professionals in science, technology, engineering, math and healthcare fields.              </p>
 </div>
       </div>
     </div>

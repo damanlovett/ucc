@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Untitled Document</title>
-<meta http-equiv="Refresh" content="0;URL=http://careerweb.unc.edu/cgi-bin/odbic.exe/eleads3/searchstu.htm?logschool=NCSU" />
+<meta http-equiv="Refresh" content="0;URL=https://eleads.unc.edu/index.php?school_id=NCSU" />
 </head>
 
 <body>

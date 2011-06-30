@@ -25,7 +25,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
   <div id="hd" role="navigation">
     <?php require_once('../../includefiles/topMenu.php');?>
   </div>
-  <div id="bd" role="main">
+  <div class="basicTable100" id="bd" role="main">
     <div id="yui-main">
       <div class="yui-b">
         <div class="yui-g"><div id="fadeshow1"></div></div>
@@ -44,18 +44,13 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 
          
           <p class=MsoNoSpacing>ePACK is your #1 source for finding
-          career-related internships &amp; entry-level jobs. Employers who recruit at NC State use  ePACK.* All students in degree programs are invited to use this valuable resource.           </p>
-          <p class=MsoNoSpacing><strong>Getting started</strong></p>
-          <ul>
-            <li> <a
-href="http://www.ncsu.edu/epack">Login
-              to ePACK</a></li>
-            <li><a href="../../pdfs/epackvisual_students.pdf">See a visual overview of ePACK</a></li>
-            <li><a href="http://www.youtube.com/ncsucareer">View ePACK videos</a><br>
-              Quick start / job search agent / on-campus interviews</li>
-          </ul>
-          <p class=MsoNoSpacing><b>How employers use ePACK <br>
-          </b>Employers are invited to use these services within ePACK. </p>
+          career-related internships &amp; entry-level jobs. Employers who recruit at NC State use  ePACK.* All students in degree programs are invited to use this valuable resource.          </p>
+          <p class=MsoNoSpacing><strong>Getting started</strong><br>
+            Login -- <a href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack</a><br>
+Use our help --  [<a href="../../pdfs/epackvisual-students.pdf">visual overview</a>] [<a href="../../img/youtube/epack_student_tutorial.jpg">quick start video</a>] </p>
+<p class=MsoNoSpacing><a href="http://www.youtube.com/ncsucareer#p/u/3/7nZ8594ynjI"><img src="../../img/youtube/epack_student_tutorial.jpg" alt="" width="134" height="78"></a></p>
+<p class=MsoNoSpacing><b>How employers use ePACK <br>
+    </b>Employers are invited to use these services within ePACK. </p>
           <ul>
             <li>Post internships and entry-level jobs</li>
             <li>Schedule on-campus interviews</li>
@@ -87,6 +82,8 @@ href="http://www.ncsu.edu/epack">Login
     <ul>
       <li></li>
     </ul>
+    <p>&nbsp;</p>
+    <br>
   </div>
   <!-- End of bd -->
   <div id="ft" role="contentinfo">

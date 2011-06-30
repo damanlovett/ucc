@@ -50,7 +50,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             letters, and interview questions.   </p>
 <ul class="noBulletList">
             <li><b class="MsoNoSpacing">Print
-              version</b> -- pick up a copy in 2100 Pullen Hall<br>
+              version</b> -- out of stock <em>(stop by 2100 Pullen Hall early fall semester)</em><br>
               <b class="MsoNoSpacing">Electronic
             version</b> -- [<a
 href="../../pdfs/jobSearchGuide2010lowRes.pdf">printable version</a>]</li>

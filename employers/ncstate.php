@@ -40,9 +40,14 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
               </ul>
             </div>
 <ul>
+              <li></li>
+              <li><br>
+              </li>
               <li><a
 href="http://www.ncsu.edu/about-nc-state/quick-view/index.php">NC State at-a-glance</a> / <a href="../about/ataglance.php">UCC at-a-glance</a><br>
-            NC State is a recognized leader in science, technology, and engineering. </li>
+NC State is a recognized leader in science, technology, and engineering.</li>
+              <li><a href="http://www.naceweb.org/playing_fair/">Principles of professional conduct</a><br>
+Learn what's expected from us, you and students</li>
               <li><a
 href="http://www.ncsu.edu/reg_records/calendars/index.html">Academic calendar</a> / <a href="calendar.php">recruiting
                 calendar</a><br>
@@ -59,9 +64,8 @@ href="http://www2.acs.ncsu.edu/upa/enrollmentdata/index.htm">Enrollment data by 
               <li><a
 href="http://www2.acs.ncsu.edu/upa/degrees/index.htm">NC State degrees conferred</a><br>
             Find the number and profile of students who graduate in each major.             </li>
-              <li><a
-href="http://www.ncsu.edu/diversity/index.php">Diversity @ NC State</a><br>
-          Connect with diverse student organizations and programs.</li>
+              <li><a href="http://www.ncsu.edu/diversity/">Diversity @ NC State</a><br>
+                Learn about our appreciation of and commitment to diversity.</li>
 </ul>
           </div>
 </div>

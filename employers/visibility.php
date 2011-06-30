@@ -54,7 +54,11 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
                   ePACK<br>
               </b>Gain access to <a href="epack.php">ePACK</a>, NC State's most visible system for all majors! Post internships and
                   entry-level jobs, search the database for potential candidates, arrange
-            on-campus interviews and schedule information sessions.   </li>
+            on-campus interviews and schedule information sessions.   <br>
+            <br>
+            </li>
+            <li><strong>Use social media</strong><br>
+            Know how students use <a href="http://www.naceweb.org/s06082011/social_media_job_search/"> social media</a> in their job search. Include URLs to your organization's  accounts in ePACK and other venues. </li>
           </ul>
           <ul>
             <li><b>Attend
@@ -64,11 +68,13 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           </ul>
           <ul>
             <li><b>Target student organizations<br>
-              </b>Identify
-              <a href="http://ncsu.orgsync.com/">student
-                organizations</a> of interest and ask about ways to get involved! Suggest a presentation, participate in an event, support a project, or invite a group for a site
+              </b>Identify student organizations of interest and ask about ways to get involved! Suggest a presentation, participate in an event, support a project, or invite a group for a site
               
-              visit. {Refine your search by college:  <a href="http://harvest.cals.ncsu.edu/academic/index.cfm?pageID=395">Agriculture &amp; Life Sciences</a>, <a href="http://design.ncsu.edu/student-organizations">Design</a>, <a href="http://ced.ncsu.edu/student_services/student_orgs.php">Education</a>, <a href="http://students.engr.ncsu.edu/">Engineering</a>, <a href="http://www.chass.ncsu.edu/students/student_orgs.php">Humanities &amp; Social Sciences</a>, <a href="http://poole.ncsu.edu/undergraduate/students/student-organizations/">Management</a>, <a href="http://cnr.ncsu.edu/future/student_orgs.php">Natural Resources</a>, <a href="http://www.pams.ncsu.edu/students/studorgs.php">Physical &amp; Mathematical Sciences</a>, <a href="http://www.tx.ncsu.edu/community/student-life/student-organizations.cfm">Textiles</a>.]  <br>
+            visit. <br>
+            <br>
+            <em>View complete list: </em><a href="http://ncsu.orgsync.com/">NC State student
+                organizations</a><br>
+              <em>Search by college:</em> <a href="http://harvest.cals.ncsu.edu/academic/index.cfm?pageID=395">Agriculture &amp; Life Sciences</a>, <a href="http://design.ncsu.edu/student-organizations">Design</a>, <a href="http://ced.ncsu.edu/student_services/student_orgs.php">Education</a>, <a href="http://students.engr.ncsu.edu/">Engineering</a>, <a href="http://www.chass.ncsu.edu/students/student_orgs.php">Humanities &amp; Social Sciences</a>, <a href="http://poole.ncsu.edu/undergraduate/students/student-organizations/">Management</a>, <a href="http://cnr.ncsu.edu/future/student_orgs.php">Natural Resources</a>, <a href="http://www.pams.ncsu.edu/students/studorgs.php">Physical &amp; Mathematical Sciences</a>, <a href="http://www.tx.ncsu.edu/community/student-life/student-organizations.cfm">Textiles</a>.<br>
               <br>
             </li>
             

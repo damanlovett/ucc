@@ -59,8 +59,8 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <p><strong>Get started with ePACK</strong></p>
           <p>Request access --  <a
 href="http://www.ncsu.edu/epack/employer">www.ncsu.edu/epack/employer</a> -- [receive a response within 24-48 hours]<br>
-          Use our help --  [<a href="../pdfs/epackvisual_employers.pdf">visual overview</a>] [<a href="posting.php">tips for posting</a>]<br>
-          Questions --  Consult with Leslie Bowman, ePACK Specialist --   <a href="mailto:leslie_bowman@ncsu.edu">leslie_bowman@ncsu.edu</a></p>
+          Use our help --  [<a href="../pdfs/epackvisual-employers.pdf">visual overview</a>] [<a href="posting.php">tips for posting</a>]<br>
+          Questions --  Consult with Della Shepherd, <a href="mailto:della_shepherd@ncsu.edu">della_shepherd@ncsu.edu</a></p>
           <hr />
           <p><b>Use additional resources</b></p>
 <ul>

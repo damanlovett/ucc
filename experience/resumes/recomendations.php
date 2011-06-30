@@ -46,7 +46,7 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
           <p><strong>Who to choose to write your letters? </strong><br>
           Choose those who  are most familiar with your academic performance or research abilities and  interests.  Faculty  would be a  first choice.  </p>
           <p><strong>How to proceed</strong><br>
-            Make an appointment and ask if they’d be willing to write a letter of recommendation.  If yes, provide a copy of your resume and a  description of the opportunity to help them write a strong targeted letter. Email a note of  thanks and keep them up-to-date on your progress.  </p>
+            Make an appointment and ask if they'd be willing to write a letter of recommendation.  If yes, provide a copy of your resume and a  description of the opportunity to help them write a strong targeted letter. Email a note of  thanks and keep them up-to-date on your progress.  </p>
         </div>
       </div>
     </div>

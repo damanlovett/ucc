@@ -43,14 +43,16 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
             </div>
           </div>
           <p>Bring your work to life!</p>
-          <p> Identify a project you'd like to share. Create a work sample.  Send it electronically with your resume and bring it with you to an interview or career fair.  Employer feedback is overwhelmingly positive!<br>
-        </p>
-          <ul><li>  One page project:  <a href="../../pdfs/worksample.pdf">senior design project</a> or <a href="/career/pdfs/worksample_2.pdf">research project</a> </li>
-            <li>Article, press release, or <a
+          <p> Identify a project you'd like to share. Create a work sample.  Send it electronically with your resume and bring it with you to an interview or career fair.  Employer feedback is overwhelmingly positive!</p>
+          <p><strong>Sample projects &amp; resources</strong><br>
+          </p>
+          <ul>
+            <li>  One page project handout:  <a href="../../pdfs/worksample_3.pdf">senior design project</a> or <a href="/career/pdfs/worksample_2.pdf">graduate research project</a></li>
+            <li>Sample article, press release or  <a
 href="http://owl.english.purdue.edu/owl/resource/656/01/">report abstract</a></li>
-            <li>Website: <a href="http://www.mae.ncsu.edu/research/space_design/Drill/Homepage.html">senior design project</a></li>
-            <li>On-line portfolio:  <a href="http://coroflot.com/public/login_createport.asp">Coroflot</a>
-for multiple projects </li>
+            <li>Project website: <a href="http://www4.ncsu.edu/~parivera/RAD/home.html">senior design project</a></li>
+            <li>On-line portfolio:  <a href="http://coroflot.com/public/login_createport.asp">Coroflot</a>, ideal for multiple projects
+</li>
           </ul>
           <p>&nbsp;</p>
         </div>

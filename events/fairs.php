@@ -114,8 +114,8 @@ href="employers.php">employer
  href="http://www.ncsu.edu/prelaw/law_fair_information.html">Law School Fair </a></td>
               <td valign=top>Nov. 1</td>
               <td valign=top nowrap>12:30-3:30</td>
-              <td valign=top><a href="mailto:mary_tetro@ncsu.edu">Mary Tetro</a><br>
-    919.513.0912</td>
+              <td valign=top><a href="mailto:kelly_laraway@ncsu.edu">Kelly Laraway</a><br>
+    919.515.2300</td>
               <td valign=top><a href="http://www.ncsu.edu/student_center">Talley Student Center </a></td>
             </tr>
             <tr>
@@ -129,9 +129,9 @@ href="employers.php">employer
             <tr>
               <td valign=top><a
  href="phdfair.php">Masters &amp; PhD Career Fair</a></td>
-              <td valign=top>Nov. TBA</td>
-              <td valign=top nowrap>1:00-4:30</td>
-              <td valign=top><a href="mailto:carol_schroeder@ncsu.edu">Carol Schroeder</a><br>
+              <td valign=top>Nov. 17</td>
+              <td valign=top nowrap>1:00-4:00</td>
+              <td valign=top><a href="mailto:dr_ingram@ncsu.edu">D.R. Ingram</a><br>
 919.515.2396</td>
               <td valign=top><a
  href="http://www.fridaycenter.unc.edu/directions/index.htm">Friday Center</a></td>

@@ -46,27 +46,25 @@ Visit <a href="http://ncsu.edu/">http://www.ncsu.edu</a>. </iframe>
 
           <p><b>Screening
             interviews<br>
-          </b>Employers use these to quickly gauge your fit with their position or organization. Screening interviews take
-          place in a variety of settings and are brief (2 min. to one hour).  You'll need to make an immediate positive impression -- as employers will make decisions regarding further consideration of you as a candidate! </p>
+          </b> Screening interviews take
+          place in a variety of settings and are brief (2 min. to 1 hour).   Employers use screening interviews to quickly guage your fit with the opportunity -- and   make a decision regarding further consideration of you as a candidate. You'll need to make an immediate positive impression!</p>
           <ul>
             <li> <b>On-campus interviews<br>
-              </b>Employers conduct <a href="oncampus.php">on-campus interviews</a> to meet several students on the same day in a central location. On-campus interviews are
-            posted in <a
-href="../ePACK/">ePACK</a>.  </li>
+              </b>Employers schedule <a href="oncampus.php">on-campus interviews</a> each fall and spring semester. Details are posted in  <a
+href="../ePACK/">ePACK</a>.</li>
             <li> <b>Career fairs</b><br>
-              Employers attend <a
+              Employers attend career fairs to meet a variety of students in different majors and degree levels. View the complete list of <a
 href="../../events/fairs.php">career
-                fairs</a> to meet with a variety of students in different majors and degree levels to identify talent for hiring managers. </li>
+                fairs</a> @ NC State. </li>
             <li> <b>Information sessions</b><br>
-              Employers schedule information sessions to meet students with targeted majors or career interests. They are often scheduled
-              prior to on-campus interviews and career fairs.  These are posted in <a
+              Employers schedule information sessions prior to on-campus interviews and career fairs as a way to meet students informally. Details are posted in  <a
 href="../ePACK/index.php">ePACK</a>.  </li>
             <li> <b>Student organizations</b><br>
-              Employers connect with specific student
-              organizations to meet students and share information about their opportunities.     </li>
+              Employers connect directly with specific <a href="http://ncsu.orgsync.com/">student
+              organizations</a> to meet students and share information about their opportunities.     </li>
             <li> <b>Conferences</b><br>
               Employers attend conferences and interact with students through presentations,
-              receptions, and social events. </li>
+              receptions, and social events.  These are usually associated with <a href="http://ncsu.orgsync.com/">student organizations</a> or <a href="http://www.ncsu.edu/academics/departments-a-z/index.php">academic departments</a>.</li>
             <li> <b>Phone
                 interviews</b><br>
               Employers use <a
@@ -75,19 +73,17 @@ href="http://wetfeet.com/Undergrad/Getting-hired/Articles/Mastering-the-Phone-Sc
                 interest.      </li>
             <li> <b>Impromptu
                 introductions </b><br>
-              Employer interactions can take place anywhere.   Know how you'll handle an impromptu introduction to a potential employer!  Have an response ready for <a
-href="../../pdfs/tellme.pdf">tell
-                me about yourself</a>. </li>
+              Interactions with employers can take place anywhere!   Know how you'll handle your impromptu <a href="intro.php">introduction</a> to a potential employer. </li>
           </ul>
           <p><strong>Selection (site) interviews</strong><strong> </strong><b><br>
-          </b>Employers use <a
-href="../../pdfs/sitevisit.pdf">site
-            visits</a> to confirm their initial positive
-            impression! These are 2nd interviews and usually take place at the employer's
-            office or site.  They can range from 2 hours to 2
-            days (if out-of-town).  Strong
-          performance at a site visit has the potential to lead to a job offer. </p>
-</div>
+          </b><a
+href="../../pdfs/sitevisit.pdf">Site
+            visits</a> are 2nd interviews and usually take place at the employer's
+            office.  They tend to run longer (2 hours to 2
+            days, if out of town).  Employers use site visits to confirm their initial positive
+          impression of you and to introduce you to the people, place, and products of the organization. Strong
+          performance has the potential to lead to a job offer!</p>
+        </div>
       </div>
     </div>
     <div class="yui-b">
